@@ -1,0 +1,2001 @@
+Employee_ID,Age,Gender,Department,Remote_Work,Daily_Work_Hours,Screen_Time_Hours,Sleep_Quality,Physical_Activity_Level,Burnout_Score,Stress_Level,Coffee_Intake_per_Day,Meeting_Hours_per_Day,Internet_Speed_MBPS,Device_Type,Noise_Level,Mood,Commute_Hours_PreRemote,Work_Engagement_Score,Weekly_Mental_Breaks
+E001,48,male,Sales,yes,12.0,8,Poor,nan,6.07,Medium,0.0,,20.0,nan,Medium,Stressed,4.0,12.71,0.0
+E003,32,nan,hr,No,10.0,nan,nan,nan,5.68,High,4.0,,10.0,Mobile,Low,nan,0.0,3.85,5.0
+E001,22,Male,Admin,no,6.0,7,Good,Low,4.33,nan,0.0,1.0,50.0,Desktop,Medium,Happy,0.0,4.75,3.0
+E001,34,nan,HR,nan,6.0,10.5 hrs,Fair,Medium,5.57,nan,2.0,1.0,150.0,Desktop,nan,Tired,1.0,7.63,2.0
+E001,51,Female,Sales,nan,12.0,10.5 hrs,Poor,High,6.96,Low,,2.0,10.0,Mobile,Low,nan,5.0,5.6,0.0
+E004,26,male,Admin,nan,4.0,6 hrs,Good,Medium,2.03,High,2.0,6.0,50.0,Desktop,High,Calm,0.0,5.07,
+E006,39,FEMALE,HR,Yes,8.0,10.5 hrs,Poor,High,4.67,Medium,1.0,3.0,20.0,Mobile,nan,Tired,5.0,7.92,5.0
+E006,35,male,IT,nan,4.0,10.5 hrs,Poor,Low,5.42,High,0.0,5.0,150.0,Laptop,nan,Calm,2.0,5.47,
+E004,34,M,it,nan,12.0,7,Fair,Medium,3.16,Medium,0.0,4.0,20.0,Mobile,Low,Calm,,4.22,5.0
+E003,53,Male,hr,Yes,10.0,10.5 hrs,Good,Low,6.86,Medium,2.0,1.0,,Laptop,nan,Calm,2.0,7.45,4.0
+E003,28,M,Admin,no,4.0,7,Poor,nan,6.2,Low,,3.0,20.0,Desktop,Medium,nan,1.0,6.75,0.0
+E003,29,Female,Sales,No,6.0,8,Good,Medium,7.0,Medium,0.0,,100.0,Mobile,Medium,Tired,1.0,5.37,4.0
+E006,28,F,HR,yes,,7,Good,High,9.32,Low,3.0,2.0,50.0,Desktop,Low,Tired,,5.28,
+E006,37,FEMALE,it,nan,12.0,8,Fair,nan,5.66,nan,2.0,4.0,10.0,Laptop,nan,Calm,4.0,4.17,5.0
+E001,52,Male,it,nan,4.0,7,Good,High,4.43,Low,1.0,6.0,100.0,nan,High,Happy,,7.45,5.0
+E004,48,male,hr,nan,,nan,nan,nan,6.88,Low,1.0,3.0,,nan,Low,Stressed,1.0,5.28,5.0
+E002,54,FEMALE,Admin,Yes,4.0,8,nan,High,3.82,Low,1.0,5.0,50.0,nan,Low,Happy,3.0,4.46,2.0
+E001,50,male,it,Yes,10.0,8,Fair,High,5.93,nan,0.0,6.0,,nan,nan,nan,2.0,3.43,5.0
+E005,29,Female,hr,Yes,10.0,10.5 hrs,Fair,Low,7.07,Low,2.0,,50.0,nan,Medium,Stressed,2.0,6.78,0.0
+E006,54,F,Admin,yes,10.0,8,nan,nan,6.66,Medium,1.0,1.0,50.0,Laptop,nan,Happy,5.0,4.98,1.0
+E001,40,Male,Admin,No,,7,Fair,Low,7.81,Medium,2.0,,150.0,nan,High,Tired,1.0,1.97,2.0
+E004,42,Female,IT,nan,8.0,nan,Good,Low,4.45,Low,0.0,5.0,100.0,nan,High,Happy,5.0,3.59,0.0
+E005,42,Female,hr,no,,nan,Poor,Low,6.42,Medium,3.0,2.0,10.0,Desktop,High,Calm,1.0,5.53,3.0
+E001,46,F,nan,nan,12.0,10.5 hrs,Fair,Low,5.19,Low,3.0,1.0,100.0,Mobile,High,nan,2.0,5.59,0.0
+E004,44,Female,HR,nan,12.0,7,nan,High,5.51,nan,3.0,4.0,,Mobile,Low,Happy,1.0,5.51,
+E004,32,Female,nan,nan,6.0,7,Poor,Low,5.51,Medium,0.0,1.0,20.0,Mobile,High,Happy,4.0,5.23,0.0
+E006,54,male,Admin,nan,6.0,6 hrs,Good,Low,6.08,Low,1.0,,,Mobile,High,Stressed,1.0,3.05,1.0
+E002,41,nan,Admin,No,12.0,8,Poor,Low,4.93,High,0.0,5.0,50.0,Laptop,High,Calm,1.0,4.25,2.0
+E001,46,M,it,no,4.0,10.5 hrs,nan,High,2.16,nan,2.0,6.0,20.0,Mobile,nan,Stressed,,8.37,3.0
+E004,47,male,it,Yes,12.0,nan,Poor,nan,5.31,High,3.0,3.0,100.0,Desktop,Medium,nan,4.0,8.07,5.0
+E003,33,F,it,no,8.0,6 hrs,nan,High,5.72,Low,2.0,,10.0,Laptop,Medium,nan,4.0,7.16,2.0
+E004,53,FEMALE,Admin,nan,6.0,7,Fair,High,4.92,Medium,0.0,3.0,20.0,nan,Medium,Calm,4.0,6.98,2.0
+E002,54,F,hr,no,6.0,8,Fair,High,5.87,Low,4.0,3.0,20.0,Desktop,High,Stressed,5.0,7.81,3.0
+E004,31,F,Sales,nan,,nan,nan,nan,4.75,Medium,4.0,,150.0,Desktop,nan,Calm,2.0,3.76,
+E006,25,F,hr,no,6.0,6 hrs,Fair,Low,4.46,Low,0.0,,100.0,nan,Low,Stressed,,6.07,3.0
+E001,36,F,HR,yes,12.0,7,Good,Low,7.78,Low,1.0,,20.0,nan,nan,Tired,1.0,3.76,1.0
+E006,27,Female,hr,no,6.0,nan,Poor,nan,9.51,Medium,,2.0,100.0,Desktop,Low,Calm,4.0,3.79,
+E001,48,F,it,Yes,6.0,nan,nan,nan,6.76,Medium,2.0,2.0,10.0,Laptop,nan,nan,4.0,6.74,4.0
+E005,26,FEMALE,IT,Yes,,7,nan,Medium,3.85,Low,0.0,3.0,20.0,nan,Medium,Stressed,2.0,7.89,1.0
+E001,26,F,HR,no,12.0,7,nan,Low,5.45,High,0.0,4.0,10.0,Mobile,Medium,Tired,3.0,5.61,
+E005,39,male,nan,no,4.0,10.5 hrs,Good,High,5.3,nan,4.0,5.0,,Desktop,High,nan,1.0,9.3,
+E006,49,Female,IT,No,6.0,nan,Good,High,6.34,High,3.0,4.0,20.0,Desktop,Medium,Stressed,3.0,6.42,5.0
+E003,43,male,HR,no,6.0,7,Good,Low,5.38,High,3.0,,50.0,nan,Medium,Tired,3.0,4.45,3.0
+E002,25,Female,HR,Yes,6.0,6 hrs,nan,nan,6.23,High,,,150.0,nan,Medium,nan,4.0,3.83,0.0
+E003,39,male,Admin,yes,8.0,8,Good,Medium,8.58,High,1.0,3.0,150.0,Mobile,nan,nan,5.0,8.04,0.0
+E005,47,Male,it,Yes,12.0,10.5 hrs,Fair,High,1.31,Medium,1.0,5.0,150.0,Mobile,Medium,Tired,2.0,6.26,2.0
+E004,43,M,Admin,No,6.0,7,Poor,Medium,3.99,High,,2.0,10.0,Mobile,Low,nan,1.0,7.35,2.0
+E004,54,M,nan,no,8.0,8,Fair,High,6.92,nan,1.0,1.0,100.0,Mobile,High,Stressed,1.0,0.68,4.0
+E003,35,Female,hr,yes,4.0,10.5 hrs,Fair,High,4.91,Medium,4.0,1.0,150.0,Desktop,nan,Stressed,1.0,6.49,
+E004,52,Male,Admin,Yes,4.0,nan,Good,Low,6.19,High,0.0,5.0,,nan,Low,nan,5.0,4.98,4.0
+E005,31,FEMALE,nan,yes,,8,nan,High,4.62,Medium,1.0,4.0,20.0,Laptop,nan,Happy,3.0,3.21,4.0
+E006,45,Male,it,nan,,10.5 hrs,Fair,Medium,8.12,High,4.0,5.0,20.0,nan,Medium,Tired,0.0,5.87,4.0
+E002,42,nan,it,Yes,,7,Poor,Medium,7.32,High,2.0,4.0,50.0,nan,nan,Happy,2.0,8.18,0.0
+E001,29,Female,Admin,nan,8.0,7,Good,Low,5.6,nan,0.0,,10.0,Mobile,nan,Stressed,0.0,10.53,
+E005,53,Male,it,yes,4.0,10.5 hrs,Fair,High,8.35,Medium,,6.0,20.0,Mobile,High,nan,3.0,6.48,3.0
+E005,52,FEMALE,IT,no,,nan,Good,Medium,5.62,Medium,2.0,4.0,20.0,Desktop,nan,Calm,4.0,4.58,5.0
+E001,44,Female,nan,no,10.0,10.5 hrs,Poor,nan,5.13,Low,3.0,1.0,50.0,Mobile,nan,Calm,0.0,4.46,5.0
+E001,46,M,nan,no,,6 hrs,Good,Low,7.94,High,3.0,2.0,50.0,Desktop,High,Happy,0.0,7.93,4.0
+E002,28,F,HR,nan,4.0,10.5 hrs,nan,nan,2.2,High,0.0,3.0,100.0,nan,nan,Happy,2.0,4.01,
+E002,40,Male,Sales,no,10.0,10.5 hrs,Fair,Medium,5.34,nan,1.0,,100.0,nan,nan,Happy,3.0,7.24,1.0
+E002,28,M,hr,No,8.0,7,Fair,nan,5.71,nan,0.0,2.0,100.0,nan,Low,Stressed,2.0,6.59,5.0
+E004,29,M,it,Yes,10.0,nan,nan,Low,4.55,Medium,1.0,3.0,20.0,Desktop,Low,Stressed,4.0,6.37,4.0
+E005,35,male,nan,Yes,4.0,10.5 hrs,Poor,nan,3.51,nan,,6.0,50.0,Desktop,nan,nan,5.0,2.86,0.0
+E006,22,FEMALE,nan,yes,6.0,8,Poor,Medium,4.86,Medium,3.0,1.0,,Desktop,nan,Stressed,5.0,5.29,2.0
+E001,34,nan,HR,nan,10.0,7,Good,nan,1.98,High,0.0,,10.0,Mobile,Medium,nan,5.0,3.08,1.0
+E005,24,F,hr,Yes,4.0,7,Fair,nan,8.11,High,0.0,3.0,100.0,Laptop,Low,nan,1.0,4.82,4.0
+E005,49,Male,Sales,nan,,10.5 hrs,Poor,nan,8.21,Medium,,6.0,,Mobile,Medium,Happy,5.0,7.83,0.0
+E002,36,M,Sales,yes,6.0,8,nan,High,5.15,nan,1.0,,150.0,Laptop,nan,Calm,,8.46,2.0
+E002,24,M,it,no,8.0,10.5 hrs,nan,Medium,4.38,nan,3.0,4.0,20.0,Mobile,Medium,Happy,5.0,6.43,4.0
+E005,25,nan,Sales,yes,8.0,8,nan,nan,2.05,Medium,3.0,5.0,10.0,nan,Medium,Stressed,3.0,4.86,0.0
+E002,26,FEMALE,Sales,No,12.0,7,Poor,Medium,3.69,High,1.0,,20.0,Desktop,High,Tired,,9.18,0.0
+E004,47,F,Admin,no,8.0,8,nan,nan,7.97,Medium,,,,Mobile,High,Stressed,5.0,4.83,3.0
+E001,46,F,hr,no,12.0,10.5 hrs,Fair,Low,5.02,nan,1.0,3.0,100.0,Desktop,nan,Calm,5.0,3.73,0.0
+E005,31,nan,hr,no,8.0,6 hrs,Poor,Low,3.97,Medium,,2.0,,Mobile,Low,Stressed,4.0,7.39,4.0
+E001,29,M,Admin,yes,8.0,6 hrs,Poor,Low,5.09,High,1.0,1.0,,nan,nan,Calm,4.0,6.92,
+E004,33,M,it,No,8.0,8,Fair,nan,3.92,Low,3.0,1.0,20.0,Desktop,Low,Tired,0.0,4.91,0.0
+E002,24,M,nan,nan,12.0,10.5 hrs,nan,Medium,1.85,Medium,3.0,,100.0,nan,High,Tired,,6.2,1.0
+E003,48,M,HR,yes,,nan,Poor,Low,4.39,Low,0.0,,20.0,Laptop,Low,nan,2.0,6.88,0.0
+E004,44,male,it,Yes,12.0,6 hrs,Fair,High,2.91,Medium,,6.0,100.0,Desktop,Medium,Stressed,0.0,6.41,0.0
+E003,54,male,IT,Yes,10.0,7,Fair,Low,5.86,nan,3.0,5.0,50.0,Mobile,Medium,nan,0.0,6.92,5.0
+E001,35,nan,Sales,yes,4.0,10.5 hrs,Good,Low,6.86,nan,,4.0,50.0,Desktop,High,Happy,1.0,4.99,1.0
+E005,44,F,Admin,nan,4.0,10.5 hrs,nan,High,3.58,Low,,,50.0,Laptop,nan,Happy,2.0,7.05,4.0
+E002,52,Female,HR,Yes,,6 hrs,nan,Low,5.39,Medium,2.0,4.0,50.0,Laptop,Low,Happy,1.0,6.04,2.0
+E004,34,Male,nan,nan,4.0,nan,Fair,nan,4.97,nan,2.0,1.0,50.0,Mobile,nan,Happy,5.0,5.06,3.0
+E002,33,FEMALE,nan,no,8.0,7,Poor,nan,3.53,Low,1.0,4.0,150.0,nan,Low,Happy,4.0,5.51,5.0
+E003,39,Female,hr,yes,,nan,Good,Low,0.44,Low,,,20.0,Desktop,High,Stressed,5.0,5.8,2.0
+E003,42,male,IT,no,4.0,7,Good,Medium,2.95,Medium,1.0,,,nan,Medium,nan,1.0,3.11,4.0
+E006,22,male,nan,Yes,12.0,6 hrs,Poor,Medium,3.45,nan,1.0,6.0,50.0,nan,Medium,nan,4.0,4.73,4.0
+E005,30,male,IT,nan,10.0,10.5 hrs,Good,Low,5.29,Low,0.0,5.0,150.0,Mobile,Low,Calm,0.0,6.13,5.0
+E003,44,Female,Sales,no,6.0,7,Poor,High,5.49,High,2.0,1.0,150.0,Desktop,nan,Happy,5.0,3.3,1.0
+E005,35,male,hr,Yes,10.0,10.5 hrs,Good,nan,7.48,High,2.0,4.0,20.0,Laptop,High,Tired,1.0,4.76,2.0
+E006,32,Female,HR,No,4.0,8,Poor,nan,2.93,nan,3.0,3.0,20.0,Mobile,High,Calm,5.0,10.77,0.0
+E004,28,male,hr,no,,8,Fair,nan,3.36,nan,2.0,3.0,100.0,nan,nan,Calm,2.0,3.74,1.0
+E006,52,M,Sales,No,4.0,6 hrs,Fair,Low,3.71,High,3.0,6.0,100.0,Laptop,Medium,Stressed,1.0,5.23,1.0
+E005,45,M,Admin,No,12.0,6 hrs,Good,nan,4.62,Low,,4.0,50.0,nan,nan,Calm,4.0,4.33,3.0
+E003,47,Male,nan,Yes,10.0,6 hrs,Good,Low,5.44,Medium,0.0,3.0,10.0,Desktop,Medium,Tired,3.0,5.77,1.0
+E001,51,male,IT,yes,12.0,8,Fair,Low,5.86,Low,1.0,5.0,100.0,nan,Low,nan,5.0,4.37,2.0
+E005,26,nan,Admin,nan,12.0,7,nan,Medium,1.24,nan,1.0,2.0,10.0,Laptop,High,Calm,,5.51,4.0
+E002,26,Male,Sales,Yes,6.0,nan,Poor,High,7.39,nan,,5.0,,Desktop,Low,Stressed,5.0,4.56,5.0
+E001,40,Female,nan,no,12.0,6 hrs,nan,High,5.94,Medium,3.0,6.0,100.0,Mobile,nan,Happy,,8.11,3.0
+E005,49,Male,it,nan,12.0,nan,Good,High,6.77,Low,4.0,5.0,,nan,nan,Tired,2.0,6.16,5.0
+E002,47,male,IT,yes,6.0,nan,Fair,nan,0.22,Medium,,4.0,150.0,Desktop,Low,Happy,4.0,3.99,5.0
+E006,44,Female,Sales,Yes,8.0,8,Good,Medium,6.66,Low,3.0,,150.0,Desktop,nan,Calm,5.0,7.68,0.0
+E001,51,nan,HR,yes,8.0,7,nan,Medium,3.01,Low,,5.0,,Mobile,nan,nan,,4.08,
+E005,24,Female,HR,no,,8,Fair,Low,4.1,High,0.0,4.0,150.0,Mobile,nan,Stressed,3.0,2.87,2.0
+E004,49,M,nan,Yes,6.0,6 hrs,Fair,Medium,7.87,Low,,1.0,,Laptop,High,Tired,5.0,5.99,0.0
+E006,54,Female,nan,no,,8,Fair,Low,6.32,nan,,4.0,10.0,Desktop,High,nan,2.0,9.81,
+E002,24,Female,HR,nan,,8,Poor,Medium,3.65,nan,2.0,6.0,50.0,Desktop,Medium,Tired,3.0,2.34,
+E004,26,Male,it,nan,12.0,8,Good,Low,6.59,nan,3.0,4.0,,Laptop,High,Stressed,0.0,3.34,1.0
+E003,40,nan,hr,yes,,6 hrs,nan,nan,5.72,High,0.0,1.0,100.0,nan,Low,Stressed,0.0,7.51,2.0
+E006,22,F,HR,yes,4.0,6 hrs,Poor,Medium,4.19,Medium,1.0,,100.0,Desktop,Low,Calm,5.0,4.72,5.0
+E006,30,Female,nan,nan,10.0,8,nan,High,5.95,nan,4.0,2.0,10.0,Desktop,High,Tired,1.0,7.22,
+E005,26,FEMALE,nan,No,4.0,8,Poor,Low,4.24,nan,4.0,6.0,,nan,Low,Calm,1.0,4.33,3.0
+E005,54,F,it,nan,4.0,nan,Fair,Medium,5.77,Medium,3.0,1.0,150.0,Mobile,nan,Tired,1.0,6.28,5.0
+E002,46,M,HR,Yes,12.0,7,Poor,Medium,5.75,High,,4.0,50.0,Mobile,High,Tired,1.0,9.49,3.0
+E006,50,nan,it,no,10.0,nan,Good,Low,6.01,Low,2.0,6.0,100.0,Mobile,Medium,Happy,,3.61,0.0
+E005,46,nan,HR,nan,,7,Good,Medium,8.85,Medium,,3.0,50.0,Laptop,Medium,Calm,5.0,8.05,4.0
+E003,30,M,hr,nan,10.0,7,nan,High,6.89,Low,3.0,4.0,50.0,nan,High,Tired,3.0,7.36,
+E005,24,Female,Sales,no,,8,Fair,Low,7.0,Low,4.0,1.0,20.0,Mobile,Low,Tired,2.0,3.02,5.0
+E006,36,Male,HR,no,8.0,nan,Fair,Low,3.95,Low,4.0,4.0,50.0,Laptop,High,Stressed,2.0,7.12,3.0
+E001,25,F,Sales,Yes,6.0,7,nan,Low,1.97,Medium,,,,nan,High,Happy,,6.15,0.0
+E004,41,M,HR,no,12.0,7,Good,Low,4.62,Medium,,1.0,20.0,Mobile,Medium,Stressed,1.0,6.18,4.0
+E006,44,M,hr,yes,,6 hrs,Good,Low,4.03,Low,,5.0,10.0,Desktop,nan,Calm,0.0,6.67,2.0
+E003,29,FEMALE,Admin,nan,,7,nan,High,6.2,High,1.0,2.0,150.0,Desktop,nan,Calm,4.0,5.3,3.0
+E006,54,Female,nan,no,10.0,8,Fair,Low,4.6,High,2.0,2.0,20.0,Mobile,High,Tired,1.0,6.14,3.0
+E003,54,F,Sales,Yes,12.0,10.5 hrs,nan,High,7.65,High,2.0,6.0,50.0,Mobile,Medium,nan,1.0,6.48,5.0
+E006,28,M,it,no,,6 hrs,nan,High,1.52,nan,4.0,1.0,150.0,Laptop,Medium,Stressed,5.0,7.49,5.0
+E004,43,nan,HR,nan,8.0,10.5 hrs,Poor,High,4.44,Low,4.0,2.0,50.0,Desktop,High,Calm,,2.95,0.0
+E004,26,M,nan,No,4.0,8,nan,Low,5.75,nan,3.0,3.0,50.0,nan,High,Tired,0.0,8.58,3.0
+E003,36,M,HR,no,,10.5 hrs,Good,High,3.05,High,3.0,6.0,20.0,Mobile,High,Tired,4.0,3.69,
+E006,42,M,it,yes,10.0,7,nan,Low,6.81,Medium,1.0,3.0,10.0,nan,nan,Stressed,3.0,7.52,0.0
+E004,46,Male,hr,nan,8.0,10.5 hrs,Fair,High,6.74,High,4.0,2.0,50.0,Mobile,High,Tired,3.0,6.16,3.0
+E002,38,male,IT,Yes,12.0,nan,Fair,Low,4.14,nan,3.0,1.0,,Desktop,Medium,Happy,4.0,3.44,0.0
+E006,28,FEMALE,HR,nan,,8,Good,Medium,10.3,nan,1.0,6.0,20.0,Mobile,High,nan,4.0,7.06,
+E004,40,nan,Admin,No,8.0,nan,Fair,Medium,2.76,High,2.0,3.0,,nan,Medium,Stressed,,4.11,
+E001,28,Male,it,Yes,8.0,10.5 hrs,nan,High,2.31,Low,4.0,,,Desktop,Medium,Stressed,3.0,8.14,3.0
+E001,45,FEMALE,IT,No,8.0,nan,Good,nan,4.05,Medium,0.0,2.0,50.0,Mobile,Low,Stressed,1.0,4.58,2.0
+E002,32,M,HR,No,8.0,6 hrs,Fair,nan,5.38,Medium,4.0,4.0,,Desktop,Medium,Tired,,3.01,5.0
+E004,22,FEMALE,Sales,yes,8.0,10.5 hrs,nan,Medium,1.77,High,3.0,3.0,150.0,Laptop,Low,Tired,1.0,9.07,2.0
+E001,53,Female,nan,no,8.0,nan,Fair,High,6.24,Low,4.0,5.0,10.0,nan,High,Stressed,5.0,6.36,
+E006,23,Female,nan,yes,6.0,7,Poor,High,9.92,Low,0.0,6.0,50.0,Mobile,Low,Stressed,0.0,7.73,0.0
+E005,36,male,it,yes,12.0,10.5 hrs,Fair,High,2.21,High,4.0,3.0,,Mobile,nan,Happy,4.0,4.3,
+E004,42,male,Sales,yes,4.0,6 hrs,Good,nan,5.39,Medium,3.0,6.0,10.0,Mobile,nan,Calm,1.0,2.22,2.0
+E002,45,FEMALE,hr,Yes,12.0,7,nan,Medium,6.92,Medium,2.0,2.0,10.0,nan,nan,Happy,1.0,9.35,0.0
+E004,38,Male,IT,no,10.0,10.5 hrs,nan,High,6.53,Medium,3.0,2.0,150.0,Laptop,High,Stressed,0.0,5.99,5.0
+E003,30,Male,it,no,10.0,7,Good,Medium,9.32,Low,1.0,6.0,150.0,nan,Medium,Tired,4.0,6.98,
+E003,41,M,Admin,Yes,12.0,10.5 hrs,Poor,Medium,4.06,High,3.0,2.0,100.0,Mobile,nan,Tired,0.0,7.31,0.0
+E001,40,Male,HR,yes,8.0,10.5 hrs,nan,Low,8.97,Low,1.0,1.0,10.0,nan,Low,Stressed,0.0,5.33,5.0
+E003,39,male,nan,yes,6.0,8,Good,nan,4.88,Medium,4.0,6.0,50.0,Mobile,High,Calm,3.0,6.45,1.0
+E002,41,Male,HR,No,4.0,nan,Fair,Medium,3.98,Low,1.0,1.0,150.0,nan,High,nan,0.0,9.19,2.0
+E001,51,M,IT,No,,10.5 hrs,Poor,Low,8.76,Medium,,6.0,50.0,Desktop,Low,nan,,5.94,1.0
+E002,22,Female,Sales,nan,,6 hrs,Good,nan,4.26,High,4.0,4.0,10.0,nan,Low,Happy,,7.88,
+E006,45,Male,Sales,No,8.0,nan,Fair,High,7.14,Medium,1.0,4.0,150.0,Mobile,High,Calm,,2.02,5.0
+E002,45,Male,it,no,12.0,8,nan,High,4.01,nan,3.0,3.0,100.0,Mobile,High,nan,4.0,8.25,5.0
+E003,40,male,it,Yes,,nan,nan,Low,2.45,nan,0.0,2.0,10.0,nan,Medium,Calm,1.0,2.96,1.0
+E006,51,FEMALE,Sales,yes,12.0,nan,Poor,High,2.46,High,4.0,4.0,50.0,nan,High,Tired,1.0,8.02,
+E003,47,Female,it,nan,6.0,10.5 hrs,Fair,Low,6.41,Low,1.0,2.0,100.0,Desktop,Low,Tired,3.0,6.78,5.0
+E002,50,FEMALE,Sales,No,6.0,6 hrs,Good,Low,2.87,Low,0.0,3.0,10.0,Laptop,High,Calm,4.0,5.81,3.0
+E003,34,M,IT,nan,12.0,10.5 hrs,nan,High,4.58,Low,1.0,1.0,150.0,Laptop,High,Stressed,,5.8,0.0
+E003,25,M,it,Yes,8.0,6 hrs,Good,nan,3.7,Medium,1.0,4.0,,Desktop,Low,nan,1.0,5.49,4.0
+E003,38,FEMALE,Sales,Yes,8.0,6 hrs,Good,Low,3.24,nan,1.0,5.0,10.0,Laptop,Medium,nan,0.0,4.36,1.0
+E004,54,male,it,nan,8.0,7,Good,nan,3.49,High,3.0,5.0,20.0,Laptop,High,Tired,,5.59,3.0
+E006,26,F,HR,nan,,10.5 hrs,Poor,nan,5.41,Low,1.0,5.0,50.0,Mobile,nan,Happy,,10.42,2.0
+E006,49,male,nan,nan,4.0,8,Good,Low,-0.96,Low,0.0,,150.0,Mobile,nan,nan,2.0,8.6,4.0
+E006,45,F,HR,yes,4.0,nan,Poor,nan,6.69,High,,5.0,150.0,Mobile,Low,Tired,,4.26,5.0
+E002,38,F,hr,no,8.0,7,Poor,Low,2.41,Medium,1.0,5.0,20.0,nan,Low,Tired,2.0,6.54,0.0
+E005,32,male,Sales,No,12.0,8,Fair,High,2.67,Low,,5.0,,nan,Low,Calm,,6.19,3.0
+E002,33,F,hr,No,6.0,10.5 hrs,nan,High,2.11,Medium,2.0,5.0,100.0,Laptop,nan,Calm,,5.72,4.0
+E006,34,F,Sales,No,10.0,6 hrs,Good,High,5.54,Medium,4.0,4.0,150.0,nan,Low,Calm,,3.99,0.0
+E001,29,F,nan,nan,6.0,10.5 hrs,Fair,High,7.93,Medium,3.0,5.0,100.0,Mobile,nan,Happy,2.0,6.89,0.0
+E003,22,Female,it,nan,6.0,10.5 hrs,Fair,High,4.73,Low,2.0,6.0,100.0,nan,Medium,nan,2.0,7.69,4.0
+E003,30,M,Sales,nan,10.0,7,Fair,nan,5.87,Low,2.0,6.0,100.0,Laptop,Low,Happy,0.0,4.33,3.0
+E005,49,F,HR,yes,8.0,8,Fair,nan,6.08,High,0.0,5.0,,Mobile,High,Happy,1.0,9.91,5.0
+E001,23,M,it,yes,6.0,7,Fair,nan,6.48,High,0.0,,10.0,Laptop,Medium,Calm,3.0,9.04,4.0
+E004,35,nan,nan,yes,10.0,8,Good,Medium,2.99,Medium,,3.0,20.0,nan,nan,Tired,0.0,7.1,1.0
+E002,34,M,HR,yes,,7,Fair,Medium,8.19,Low,,4.0,50.0,Desktop,Low,Stressed,1.0,3.54,0.0
+E004,23,nan,it,Yes,12.0,nan,nan,Low,4.33,Medium,3.0,6.0,20.0,Desktop,High,Tired,4.0,6.8,2.0
+E001,25,Female,Sales,yes,12.0,6 hrs,Poor,Medium,5.56,High,3.0,3.0,150.0,Mobile,nan,Tired,1.0,6.56,5.0
+E005,33,M,Sales,yes,12.0,6 hrs,Poor,High,4.7,Medium,4.0,2.0,20.0,Laptop,Medium,Tired,1.0,7.03,
+E001,31,FEMALE,HR,yes,8.0,6 hrs,nan,High,4.11,nan,1.0,5.0,50.0,Desktop,High,Tired,1.0,9.18,
+E005,24,Male,IT,No,6.0,nan,Good,High,6.88,Medium,3.0,1.0,10.0,Desktop,Medium,Happy,0.0,5.65,4.0
+E004,25,Female,Sales,No,6.0,nan,Poor,Low,6.27,Low,3.0,,150.0,Mobile,Low,Calm,1.0,10.1,4.0
+E004,27,Male,IT,No,4.0,6 hrs,nan,Low,0.63,Medium,,,10.0,Mobile,High,Calm,,6.81,0.0
+E001,44,FEMALE,it,no,12.0,6 hrs,nan,Low,5.84,Medium,1.0,,150.0,Laptop,Low,Tired,1.0,5.42,0.0
+E001,26,male,IT,Yes,8.0,8,Fair,Low,9.2,Low,4.0,5.0,50.0,Desktop,nan,Stressed,4.0,10.8,4.0
+E003,24,male,HR,nan,10.0,8,Poor,nan,5.37,nan,0.0,5.0,10.0,Laptop,nan,nan,4.0,7.66,
+E005,31,F,hr,yes,8.0,10.5 hrs,Fair,Low,3.98,Low,4.0,3.0,50.0,Laptop,Medium,Tired,2.0,5.09,2.0
+E003,40,male,hr,No,6.0,7,Good,Low,4.23,High,1.0,,50.0,Mobile,Low,Tired,5.0,6.17,0.0
+E002,35,Female,HR,Yes,12.0,8,Poor,Medium,3.88,nan,0.0,,,Laptop,Low,Stressed,0.0,7.27,0.0
+E002,42,male,Admin,yes,4.0,8,Poor,nan,2.7,nan,0.0,,20.0,nan,High,Happy,1.0,5.7,1.0
+E001,49,Female,hr,no,,8,nan,High,4.63,Low,0.0,2.0,150.0,Laptop,nan,Tired,2.0,6.27,3.0
+E004,42,Female,HR,nan,8.0,8,Poor,Medium,4.62,Medium,4.0,3.0,100.0,Desktop,Low,Stressed,2.0,4.37,1.0
+E002,45,Male,Sales,yes,4.0,nan,Good,Low,6.2,High,,4.0,100.0,Laptop,Low,Happy,0.0,2.63,2.0
+E002,38,male,IT,nan,6.0,10.5 hrs,Good,High,3.96,High,1.0,,10.0,nan,Low,Happy,5.0,6.21,
+E003,43,M,hr,yes,10.0,8,Poor,High,9.02,nan,4.0,2.0,50.0,nan,nan,Tired,2.0,6.28,3.0
+E003,40,nan,Sales,no,8.0,7,nan,High,3.13,High,4.0,6.0,20.0,Desktop,nan,Happy,2.0,7.05,
+E002,31,male,hr,Yes,,8,Good,Medium,5.29,nan,2.0,2.0,150.0,Desktop,nan,Tired,0.0,4.85,4.0
+E001,32,male,it,nan,6.0,nan,Fair,nan,3.5,nan,3.0,2.0,10.0,Laptop,Medium,Tired,3.0,3.32,
+E003,23,male,HR,nan,12.0,6 hrs,Good,nan,3.92,High,4.0,3.0,50.0,nan,nan,Calm,2.0,4.07,2.0
+E002,54,F,HR,Yes,8.0,6 hrs,Poor,High,4.44,nan,2.0,5.0,,nan,nan,nan,4.0,8.11,2.0
+E004,52,M,Sales,nan,4.0,10.5 hrs,Fair,Low,5.41,Medium,,5.0,100.0,Laptop,nan,nan,,4.67,1.0
+E003,44,M,Admin,No,8.0,6 hrs,Poor,nan,6.61,nan,,5.0,100.0,Desktop,High,Calm,2.0,5.12,3.0
+E002,47,Female,it,Yes,6.0,8,Poor,nan,4.07,Medium,1.0,5.0,150.0,nan,High,Tired,0.0,5.38,2.0
+E005,46,M,IT,no,6.0,nan,Poor,Low,2.01,Medium,2.0,5.0,150.0,Laptop,Low,Stressed,0.0,4.76,3.0
+E003,38,Female,it,yes,4.0,10.5 hrs,nan,Medium,7.74,Medium,4.0,4.0,150.0,Desktop,High,Happy,5.0,4.61,
+E005,36,nan,Admin,yes,,8,nan,Medium,3.05,High,1.0,1.0,10.0,Laptop,Medium,Calm,,4.26,5.0
+E003,25,Male,it,Yes,6.0,6 hrs,Good,Low,4.51,Medium,2.0,6.0,150.0,Desktop,Medium,Calm,3.0,8.8,
+E003,43,Female,nan,No,8.0,7,Poor,Medium,5.11,High,4.0,2.0,10.0,Desktop,Low,Calm,3.0,7.36,4.0
+E006,38,male,IT,no,,8,Fair,High,4.8,Low,1.0,1.0,20.0,nan,Low,Calm,5.0,8.5,3.0
+E006,43,FEMALE,IT,yes,4.0,7,Fair,nan,2.18,Medium,1.0,4.0,50.0,Mobile,Medium,nan,5.0,8.9,1.0
+E005,38,FEMALE,it,yes,6.0,7,Fair,Medium,6.72,nan,3.0,,100.0,nan,Medium,Tired,4.0,1.3,
+E001,35,F,hr,No,6.0,10.5 hrs,nan,High,-0.64,Low,,,10.0,Laptop,Medium,Calm,,6.69,1.0
+E002,35,male,nan,nan,8.0,nan,nan,High,6.96,Low,4.0,5.0,50.0,Desktop,Low,Calm,4.0,4.83,2.0
+E001,38,Female,hr,Yes,6.0,6 hrs,Poor,High,7.31,Medium,3.0,,,nan,Medium,Calm,2.0,8.23,3.0
+E001,29,male,it,No,8.0,6 hrs,Fair,High,6.81,High,1.0,4.0,150.0,Desktop,Low,Stressed,3.0,4.52,
+E006,47,F,hr,No,12.0,8,Fair,High,4.39,Low,1.0,6.0,100.0,nan,Medium,Stressed,4.0,3.89,1.0
+E002,51,M,IT,No,,6 hrs,nan,Low,5.26,Medium,2.0,6.0,,Laptop,Medium,Happy,2.0,3.13,0.0
+E006,43,Female,IT,No,8.0,10.5 hrs,nan,nan,3.66,Low,3.0,4.0,10.0,Laptop,High,Tired,1.0,5.39,1.0
+E006,37,nan,hr,nan,10.0,6 hrs,Fair,nan,5.14,Low,0.0,,150.0,Laptop,Medium,Calm,2.0,7.83,4.0
+E006,51,male,IT,no,6.0,8,Fair,Low,6.26,Medium,4.0,1.0,50.0,nan,Low,Happy,,6.51,0.0
+E004,37,M,HR,No,12.0,6 hrs,Good,Low,2.81,nan,,2.0,20.0,Mobile,Medium,Happy,4.0,3.59,3.0
+E001,45,F,IT,No,,nan,nan,High,4.73,nan,3.0,3.0,50.0,Laptop,nan,Tired,,10.31,5.0
+E001,27,M,it,Yes,4.0,7,Poor,Medium,4.05,nan,1.0,3.0,10.0,nan,High,Stressed,2.0,7.3,2.0
+E001,25,Female,Sales,yes,10.0,7,Poor,nan,7.35,Low,2.0,6.0,20.0,Mobile,Medium,Tired,,7.55,0.0
+E004,39,F,hr,nan,4.0,7,Fair,Medium,3.12,High,4.0,2.0,20.0,nan,Medium,Happy,,8.57,1.0
+E003,27,F,nan,No,10.0,nan,nan,nan,6.25,High,,5.0,150.0,nan,nan,Tired,1.0,2.72,
+E005,47,F,Admin,no,12.0,10.5 hrs,Poor,High,4.89,Low,4.0,4.0,50.0,Laptop,nan,Stressed,4.0,4.18,
+E005,48,Male,hr,no,,8,nan,Medium,4.75,Low,2.0,,10.0,Mobile,nan,Happy,2.0,7.65,2.0
+E004,32,F,Admin,no,12.0,nan,Fair,nan,6.31,Medium,1.0,5.0,,nan,nan,Tired,4.0,4.38,5.0
+E001,37,Male,Admin,Yes,12.0,8,Fair,nan,4.23,High,,6.0,,nan,nan,Calm,5.0,5.45,5.0
+E005,40,M,IT,no,10.0,10.5 hrs,Fair,High,5.21,Low,0.0,4.0,20.0,nan,nan,Calm,5.0,5.84,2.0
+E004,36,nan,IT,Yes,8.0,nan,nan,Medium,7.22,nan,2.0,3.0,150.0,nan,Medium,Tired,2.0,3.45,2.0
+E006,47,Male,Sales,nan,,6 hrs,Poor,High,3.45,High,0.0,6.0,,Laptop,Low,Tired,0.0,5.28,2.0
+E002,52,M,Sales,no,4.0,10.5 hrs,Good,Medium,5.54,Low,3.0,6.0,20.0,nan,Medium,Stressed,4.0,7.83,3.0
+E005,40,Male,nan,yes,8.0,7,Poor,Medium,6.76,Medium,4.0,2.0,50.0,Mobile,Medium,Happy,4.0,7.46,3.0
+E002,45,M,it,No,8.0,nan,nan,nan,5.93,Medium,,1.0,,Desktop,Medium,Tired,5.0,8.23,3.0
+E001,30,M,HR,nan,6.0,10.5 hrs,Poor,Low,7.56,High,1.0,6.0,100.0,Mobile,High,Happy,5.0,8.02,
+E005,44,nan,it,yes,4.0,10.5 hrs,Good,Medium,4.76,nan,0.0,1.0,10.0,nan,Low,Calm,,6.81,1.0
+E004,25,F,nan,nan,10.0,nan,Poor,Medium,6.34,High,1.0,2.0,100.0,nan,Low,Happy,4.0,6.65,3.0
+E003,31,nan,hr,no,6.0,7,Good,High,7.21,Low,3.0,6.0,50.0,Mobile,High,nan,4.0,6.51,2.0
+E005,30,nan,IT,nan,6.0,7,nan,Medium,1.62,nan,0.0,,100.0,Desktop,Low,Stressed,5.0,4.75,0.0
+E005,40,F,it,nan,12.0,10.5 hrs,Fair,Medium,4.19,Low,1.0,6.0,50.0,Laptop,High,Stressed,2.0,3.94,0.0
+E005,36,M,Admin,nan,10.0,8,Good,Medium,5.76,nan,1.0,3.0,50.0,Desktop,Medium,Happy,3.0,4.62,5.0
+E005,40,F,IT,Yes,8.0,10.5 hrs,nan,Medium,6.84,nan,3.0,4.0,150.0,Desktop,Low,Stressed,,5.35,0.0
+E004,42,M,IT,yes,,nan,Fair,Medium,5.49,Low,2.0,,100.0,Desktop,Medium,Happy,2.0,4.69,0.0
+E004,38,F,it,no,8.0,nan,Good,Low,7.79,High,,1.0,20.0,Mobile,nan,Happy,1.0,6.83,0.0
+E003,39,FEMALE,it,No,8.0,nan,Fair,nan,3.93,Medium,3.0,3.0,50.0,Desktop,Medium,Calm,0.0,6.4,5.0
+E004,38,Male,Admin,no,12.0,7,Poor,Medium,2.53,nan,0.0,,100.0,Laptop,Low,Happy,2.0,6.62,4.0
+E004,23,nan,Admin,no,8.0,6 hrs,nan,High,6.59,nan,0.0,6.0,20.0,nan,Medium,Stressed,2.0,6.7,
+E001,22,M,Sales,Yes,4.0,nan,nan,High,4.77,Medium,4.0,2.0,10.0,Mobile,Medium,nan,4.0,8.39,0.0
+E001,31,male,nan,Yes,8.0,nan,nan,Medium,3.32,High,1.0,5.0,20.0,Mobile,High,Tired,,5.98,0.0
+E002,26,F,nan,nan,8.0,8,nan,Medium,8.42,Medium,,3.0,100.0,Desktop,Low,Stressed,1.0,8.02,0.0
+E003,33,F,Admin,no,4.0,8,Good,Medium,6.49,High,0.0,3.0,100.0,nan,Medium,nan,,7.03,
+E001,52,Female,HR,yes,12.0,10.5 hrs,Poor,Low,6.3,nan,2.0,5.0,20.0,nan,High,Stressed,4.0,8.26,5.0
+E003,30,male,Admin,Yes,6.0,10.5 hrs,Fair,nan,8.19,nan,2.0,6.0,20.0,nan,Low,nan,5.0,9.23,1.0
+E003,47,male,Sales,Yes,10.0,10.5 hrs,nan,High,4.23,Low,3.0,3.0,,Mobile,nan,Stressed,,7.15,4.0
+E005,36,nan,HR,yes,12.0,nan,nan,Low,7.83,High,0.0,1.0,50.0,Laptop,Medium,Tired,4.0,6.21,
+E006,37,FEMALE,it,Yes,8.0,8,Good,Low,5.84,Medium,,6.0,100.0,nan,Medium,Calm,3.0,6.19,0.0
+E006,34,Male,nan,yes,6.0,10.5 hrs,Good,Medium,3.82,High,,1.0,50.0,Mobile,Medium,Calm,0.0,5.06,5.0
+E006,46,FEMALE,nan,No,10.0,8,Good,nan,4.99,High,0.0,1.0,50.0,Desktop,Medium,Tired,3.0,4.99,5.0
+E003,51,Male,HR,yes,10.0,nan,Poor,Medium,5.37,High,4.0,3.0,10.0,nan,Medium,Stressed,4.0,7.8,3.0
+E005,28,M,hr,No,10.0,nan,Fair,High,7.23,High,4.0,6.0,100.0,Desktop,nan,nan,0.0,4.07,
+E002,25,nan,Sales,nan,4.0,10.5 hrs,Poor,nan,2.3,Medium,4.0,3.0,50.0,nan,nan,Happy,2.0,9.23,
+E002,51,FEMALE,Sales,nan,4.0,nan,nan,Medium,1.5,Low,0.0,3.0,10.0,Desktop,Low,Stressed,,5.7,1.0
+E006,31,Female,Sales,Yes,6.0,nan,Good,High,3.42,nan,3.0,6.0,,Mobile,Low,Tired,1.0,11.72,5.0
+E002,51,Male,nan,yes,8.0,8,nan,Low,4.86,Medium,,6.0,50.0,Desktop,High,Calm,3.0,4.61,5.0
+E005,28,FEMALE,IT,Yes,6.0,6 hrs,Fair,High,6.43,Medium,3.0,6.0,50.0,Mobile,High,Calm,1.0,6.5,4.0
+E006,45,nan,nan,yes,8.0,7,Fair,High,4.08,nan,3.0,,,Desktop,High,Stressed,4.0,5.3,3.0
+E005,41,Female,IT,Yes,12.0,10.5 hrs,Poor,High,5.83,Low,3.0,6.0,100.0,Desktop,nan,nan,0.0,4.41,3.0
+E002,53,nan,nan,nan,10.0,6 hrs,Poor,nan,8.21,Medium,2.0,2.0,20.0,Desktop,Low,Tired,5.0,8.13,1.0
+E006,47,male,it,nan,10.0,10.5 hrs,Good,Low,1.6,nan,0.0,6.0,,nan,Low,Tired,,3.79,5.0
+E005,47,F,nan,Yes,4.0,6 hrs,Good,nan,4.73,Low,1.0,5.0,20.0,Laptop,nan,nan,,4.65,3.0
+E004,33,M,it,yes,12.0,nan,nan,Low,9.84,Low,0.0,6.0,100.0,Laptop,Low,nan,2.0,7.17,2.0
+E004,54,nan,IT,no,,10.5 hrs,Good,Medium,3.58,High,3.0,3.0,20.0,nan,Medium,Stressed,0.0,7.49,1.0
+E005,35,M,Sales,yes,12.0,6 hrs,Good,Medium,3.37,Medium,2.0,5.0,150.0,Desktop,Low,Stressed,5.0,3.22,1.0
+E005,54,nan,IT,Yes,8.0,7,nan,High,6.04,Low,2.0,,20.0,Desktop,Low,Calm,1.0,7.16,2.0
+E001,45,male,HR,yes,12.0,nan,Fair,High,3.94,Medium,0.0,4.0,,nan,Medium,Calm,1.0,6.26,1.0
+E001,36,nan,Sales,No,4.0,10.5 hrs,Good,nan,7.15,nan,1.0,1.0,50.0,Mobile,High,nan,2.0,4.16,3.0
+E003,52,nan,nan,yes,8.0,10.5 hrs,Good,Low,9.95,Medium,3.0,2.0,50.0,Mobile,High,Happy,5.0,4.42,3.0
+E006,38,FEMALE,nan,nan,6.0,6 hrs,nan,Low,5.15,Low,2.0,5.0,10.0,nan,High,Happy,5.0,1.93,
+E003,33,F,nan,nan,8.0,10.5 hrs,nan,Low,10.48,nan,3.0,,,Laptop,nan,Happy,2.0,9.43,3.0
+E003,43,male,nan,No,6.0,nan,nan,High,4.09,nan,3.0,1.0,100.0,Mobile,Medium,Tired,0.0,8.03,2.0
+E002,44,Female,nan,yes,,8,nan,High,4.66,High,,2.0,10.0,nan,Medium,Stressed,3.0,3.42,
+E004,47,F,IT,no,8.0,6 hrs,nan,Low,3.08,nan,3.0,6.0,50.0,Mobile,nan,nan,0.0,7.6,3.0
+E002,35,Male,Admin,yes,10.0,7,Good,High,4.1,Low,4.0,,50.0,nan,Medium,Calm,,4.85,2.0
+E006,33,FEMALE,it,nan,,10.5 hrs,Poor,Low,4.52,High,,1.0,10.0,Mobile,Low,Happy,1.0,7.83,2.0
+E005,25,F,Admin,nan,6.0,nan,Poor,nan,5.83,Low,3.0,,,Mobile,High,Calm,0.0,5.01,2.0
+E001,34,Male,IT,Yes,4.0,10.5 hrs,Poor,Medium,2.51,Low,3.0,3.0,150.0,nan,Medium,Stressed,4.0,5.27,
+E006,39,male,hr,nan,,7,Good,Low,3.96,High,1.0,3.0,20.0,Laptop,Medium,nan,0.0,5.42,1.0
+E005,49,nan,Admin,Yes,,nan,Fair,High,4.02,High,,6.0,150.0,Laptop,High,Happy,,4.69,4.0
+E006,40,M,IT,nan,,7,Good,nan,6.79,Medium,,1.0,150.0,Mobile,nan,Happy,0.0,8.8,5.0
+E005,24,F,Sales,nan,6.0,nan,Poor,High,5.23,Low,1.0,6.0,150.0,Mobile,High,nan,5.0,7.8,2.0
+E001,40,F,nan,no,6.0,8,Poor,High,5.23,Medium,4.0,6.0,,Laptop,nan,Calm,,6.22,3.0
+E005,41,Male,IT,Yes,8.0,nan,nan,High,5.17,nan,,2.0,150.0,nan,nan,Stressed,,8.05,2.0
+E003,46,Male,Admin,Yes,10.0,7,nan,Low,1.51,nan,4.0,1.0,20.0,Desktop,Low,Stressed,4.0,2.75,5.0
+E006,32,M,it,nan,,6 hrs,nan,nan,8.21,Medium,3.0,4.0,100.0,Mobile,High,Stressed,1.0,3.54,0.0
+E001,38,Male,Admin,Yes,8.0,8,Good,Low,3.15,High,2.0,6.0,10.0,Desktop,Medium,Calm,2.0,6.95,1.0
+E005,35,Male,nan,nan,8.0,10.5 hrs,Fair,Medium,6.78,nan,2.0,2.0,150.0,Mobile,nan,Calm,0.0,7.47,3.0
+E003,40,F,Admin,nan,10.0,8,Fair,Low,4.55,High,0.0,2.0,150.0,Laptop,Low,Happy,3.0,6.56,1.0
+E003,24,M,HR,yes,8.0,8,nan,Medium,3.78,Medium,2.0,1.0,10.0,nan,High,Calm,5.0,2.23,1.0
+E004,43,M,hr,Yes,10.0,10.5 hrs,Fair,nan,7.09,High,2.0,5.0,10.0,Mobile,nan,Tired,5.0,3.88,0.0
+E003,48,nan,Sales,No,4.0,nan,Poor,nan,2.61,Low,1.0,,100.0,Desktop,Low,nan,2.0,6.83,2.0
+E002,42,F,it,Yes,10.0,8,Poor,Low,2.78,nan,0.0,6.0,50.0,Laptop,Medium,Calm,3.0,10.85,3.0
+E001,52,nan,hr,Yes,12.0,8,nan,Low,5.31,High,0.0,6.0,100.0,Mobile,nan,Stressed,0.0,8.44,4.0
+E001,48,male,IT,no,10.0,6 hrs,nan,High,5.37,High,1.0,1.0,50.0,nan,nan,Calm,3.0,9.15,1.0
+E001,23,male,hr,No,10.0,6 hrs,nan,Medium,6.64,Low,2.0,5.0,,Mobile,Medium,Happy,5.0,6.68,5.0
+E005,30,F,nan,No,12.0,7,Fair,High,6.43,High,2.0,2.0,20.0,nan,Medium,nan,2.0,6.66,4.0
+E006,40,Male,nan,no,10.0,10.5 hrs,Good,High,4.86,Medium,0.0,,100.0,nan,Medium,nan,3.0,3.93,4.0
+E005,31,FEMALE,HR,no,6.0,nan,nan,nan,5.21,Medium,2.0,3.0,20.0,Laptop,nan,Stressed,3.0,7.9,
+E002,28,male,hr,Yes,8.0,nan,Fair,Low,4.71,Medium,0.0,6.0,10.0,Mobile,Low,nan,2.0,5.85,2.0
+E006,25,male,Admin,yes,8.0,7,nan,nan,7.84,nan,2.0,3.0,100.0,nan,Low,Tired,,7.39,4.0
+E003,36,F,hr,no,4.0,nan,Good,Low,3.04,High,3.0,,,Laptop,Medium,nan,2.0,6.06,3.0
+E005,33,nan,nan,No,4.0,nan,nan,nan,5.06,nan,1.0,6.0,10.0,Mobile,Low,Stressed,2.0,6.56,2.0
+E006,27,F,IT,No,12.0,6 hrs,Poor,nan,6.54,nan,,,,nan,Medium,nan,5.0,5.82,5.0
+E003,30,FEMALE,IT,Yes,6.0,nan,nan,nan,7.22,High,4.0,1.0,,Laptop,Medium,Calm,2.0,6.45,4.0
+E006,29,FEMALE,Sales,yes,4.0,nan,Poor,Medium,3.66,High,3.0,6.0,150.0,Mobile,High,Happy,4.0,8.0,2.0
+E003,28,M,Admin,nan,8.0,7,Poor,nan,3.06,Medium,2.0,5.0,10.0,nan,Low,Calm,0.0,3.47,3.0
+E006,25,F,Admin,no,4.0,7,Fair,Medium,2.52,nan,4.0,6.0,,Laptop,nan,Tired,5.0,3.01,1.0
+E005,34,male,IT,no,4.0,8,Fair,nan,4.31,nan,,1.0,150.0,Laptop,High,Tired,,6.85,0.0
+E005,40,nan,hr,Yes,10.0,nan,Poor,Low,5.51,High,3.0,,50.0,Mobile,Medium,Happy,2.0,8.88,2.0
+E002,28,nan,HR,yes,4.0,nan,Poor,Medium,4.06,nan,,4.0,150.0,Laptop,High,Happy,1.0,9.39,5.0
+E004,31,Female,IT,No,12.0,nan,nan,Low,6.4,Low,1.0,1.0,50.0,Mobile,Medium,Happy,3.0,3.55,0.0
+E001,46,Female,Admin,No,8.0,6 hrs,nan,Low,4.87,High,4.0,1.0,150.0,Mobile,Medium,Happy,2.0,5.19,
+E005,46,Male,Admin,nan,12.0,nan,Poor,Low,6.22,Medium,,1.0,150.0,nan,Medium,nan,2.0,3.04,1.0
+E005,50,male,nan,No,12.0,6 hrs,Fair,Medium,5.29,Low,4.0,1.0,20.0,Mobile,Low,Calm,0.0,4.9,5.0
+E003,33,Female,nan,no,,8,nan,High,1.63,Low,1.0,5.0,20.0,Laptop,Medium,Tired,2.0,8.25,3.0
+E004,33,nan,Sales,nan,6.0,10.5 hrs,nan,Medium,2.7,Medium,,6.0,10.0,Mobile,Medium,nan,5.0,5.97,5.0
+E005,27,male,Sales,yes,,nan,nan,High,7.31,Low,3.0,5.0,,nan,Low,Happy,4.0,5.25,1.0
+E006,31,F,hr,nan,,7,Fair,Medium,3.13,Low,4.0,5.0,20.0,Laptop,Low,Stressed,1.0,7.09,0.0
+E004,23,male,IT,yes,10.0,7,Poor,nan,6.7,Low,,4.0,50.0,nan,Medium,Stressed,1.0,4.41,3.0
+E001,46,Female,IT,No,12.0,nan,nan,High,5.25,nan,1.0,4.0,20.0,Desktop,Low,Calm,,9.19,5.0
+E006,28,nan,Sales,Yes,6.0,6 hrs,Fair,nan,3.03,Low,,6.0,10.0,nan,nan,Tired,2.0,6.01,4.0
+E003,44,male,IT,nan,8.0,7,Fair,High,6.5,Low,,6.0,100.0,Desktop,nan,Tired,0.0,5.2,4.0
+E002,32,FEMALE,hr,nan,8.0,7,Fair,Medium,4.04,High,3.0,,50.0,Desktop,Medium,Calm,5.0,7.17,2.0
+E006,44,Male,HR,no,6.0,8,Fair,Medium,5.3,Medium,2.0,1.0,100.0,Mobile,High,Happy,5.0,7.88,4.0
+E001,28,M,nan,no,12.0,8,nan,High,4.58,nan,0.0,5.0,50.0,Laptop,Low,Happy,2.0,9.19,5.0
+E006,48,nan,hr,yes,12.0,8,Poor,nan,-0.41,nan,2.0,4.0,,Mobile,High,Tired,3.0,5.58,0.0
+E004,34,Female,IT,Yes,10.0,7,Poor,Low,6.35,Medium,2.0,3.0,,Laptop,nan,Tired,5.0,8.17,4.0
+E004,38,F,hr,no,10.0,7,Fair,High,6.53,nan,0.0,1.0,,nan,Medium,Tired,5.0,6.2,2.0
+E001,53,M,nan,no,,nan,Poor,High,4.01,nan,,,10.0,Desktop,nan,Happy,5.0,4.78,3.0
+E004,47,Male,it,No,8.0,nan,nan,nan,6.28,nan,2.0,2.0,20.0,Desktop,Low,Stressed,1.0,4.45,4.0
+E006,43,nan,Admin,No,10.0,6 hrs,Poor,Low,3.26,High,2.0,5.0,100.0,Desktop,Low,Calm,5.0,3.81,2.0
+E002,34,nan,nan,no,6.0,7,Poor,High,3.3,High,1.0,1.0,100.0,nan,Medium,Calm,3.0,4.52,4.0
+E006,33,FEMALE,Admin,yes,8.0,nan,Good,Low,5.48,nan,1.0,6.0,20.0,nan,Low,nan,4.0,8.23,
+E002,28,FEMALE,nan,Yes,12.0,nan,Poor,Low,3.61,Medium,3.0,1.0,10.0,Mobile,Low,nan,1.0,7.41,4.0
+E004,22,FEMALE,it,no,8.0,8,Poor,Medium,4.74,Medium,4.0,2.0,20.0,Mobile,Low,Stressed,1.0,3.52,5.0
+E006,54,FEMALE,IT,yes,4.0,8,Fair,nan,3.12,High,,6.0,150.0,Laptop,High,Tired,4.0,2.51,0.0
+E004,35,Female,IT,yes,8.0,8,Fair,High,2.43,High,3.0,3.0,150.0,Laptop,Medium,Stressed,3.0,3.78,2.0
+E002,38,nan,HR,no,10.0,10.5 hrs,Good,High,5.42,Low,1.0,4.0,,Desktop,Medium,nan,2.0,4.45,2.0
+E004,25,Female,nan,yes,6.0,nan,nan,Low,5.43,High,1.0,4.0,150.0,nan,Medium,nan,,5.39,1.0
+E005,22,male,hr,nan,12.0,8,Good,High,5.04,nan,0.0,2.0,100.0,nan,Low,Calm,0.0,8.35,1.0
+E003,45,F,HR,yes,12.0,8,Poor,Low,4.42,High,0.0,,,Mobile,Low,Stressed,3.0,4.9,2.0
+E006,45,male,IT,no,10.0,7,Poor,High,3.59,Low,1.0,2.0,100.0,Mobile,Low,Happy,4.0,9.36,5.0
+E005,36,F,IT,yes,10.0,8,nan,nan,2.84,Low,2.0,,10.0,Laptop,Medium,nan,,2.64,0.0
+E004,38,Male,Sales,no,10.0,7,nan,High,2.76,Medium,3.0,,50.0,Laptop,High,Calm,5.0,5.3,4.0
+E004,34,male,HR,No,4.0,6 hrs,Fair,Low,3.79,Medium,1.0,4.0,20.0,Mobile,nan,Tired,5.0,7.57,3.0
+E003,28,Male,IT,no,6.0,8,Poor,Low,7.04,nan,,3.0,50.0,Mobile,Medium,Stressed,4.0,7.69,5.0
+E004,30,Male,it,yes,4.0,7,Poor,High,5.46,High,1.0,3.0,100.0,nan,Medium,nan,5.0,5.33,4.0
+E003,44,Male,Admin,no,10.0,8,Poor,High,5.72,Low,0.0,1.0,20.0,Laptop,High,Happy,4.0,8.0,3.0
+E006,44,FEMALE,Sales,Yes,6.0,6 hrs,Poor,Low,2.49,Low,3.0,2.0,100.0,Mobile,nan,nan,,7.62,0.0
+E002,47,M,hr,no,10.0,8,Poor,Medium,5.37,Medium,3.0,2.0,10.0,Mobile,nan,Happy,1.0,4.64,1.0
+E003,22,M,Admin,no,6.0,7,Poor,Medium,5.67,Medium,4.0,2.0,,Desktop,Low,Stressed,2.0,6.63,2.0
+E003,35,Female,Sales,Yes,12.0,6 hrs,Poor,High,8.17,High,1.0,6.0,20.0,Mobile,nan,Happy,1.0,7.41,0.0
+E005,53,Male,nan,Yes,4.0,6 hrs,Poor,nan,4.96,Low,4.0,4.0,100.0,Mobile,Low,Happy,1.0,4.78,3.0
+E004,31,FEMALE,nan,Yes,,6 hrs,Fair,High,4.21,Medium,0.0,4.0,150.0,nan,Medium,Calm,1.0,9.39,5.0
+E006,22,male,hr,nan,10.0,10.5 hrs,Good,nan,3.47,High,4.0,4.0,150.0,Mobile,High,Stressed,4.0,4.33,2.0
+E002,26,male,it,no,10.0,7,Poor,High,5.12,High,2.0,3.0,100.0,Laptop,Medium,nan,3.0,6.29,3.0
+E001,24,Female,hr,Yes,8.0,10.5 hrs,Fair,Low,4.61,High,1.0,4.0,50.0,Desktop,nan,Tired,,3.5,4.0
+E003,48,Female,HR,Yes,,6 hrs,Poor,High,7.24,Medium,1.0,1.0,,nan,Medium,Stressed,0.0,6.21,4.0
+E001,43,Male,Admin,No,12.0,10.5 hrs,nan,nan,6.8,Medium,3.0,6.0,10.0,Laptop,High,Stressed,0.0,3.87,5.0
+E004,39,Male,hr,nan,10.0,8,Poor,nan,3.01,Medium,4.0,4.0,10.0,Desktop,High,Tired,2.0,5.41,4.0
+E003,37,male,hr,no,4.0,10.5 hrs,Good,High,4.96,nan,3.0,6.0,100.0,Desktop,Low,nan,2.0,2.83,2.0
+E001,23,male,Sales,yes,12.0,nan,Fair,High,9.89,nan,,6.0,10.0,Mobile,Medium,Calm,4.0,7.6,1.0
+E005,34,male,it,nan,10.0,6 hrs,nan,Medium,2.07,nan,4.0,3.0,20.0,Desktop,High,nan,0.0,6.71,1.0
+E001,37,male,hr,nan,4.0,6 hrs,nan,High,4.63,Medium,4.0,2.0,10.0,Desktop,High,Tired,3.0,8.17,3.0
+E005,29,M,HR,No,8.0,7,Poor,High,6.5,Medium,0.0,6.0,150.0,Mobile,High,nan,4.0,5.3,1.0
+E002,29,Male,Sales,no,8.0,8,Good,Low,4.52,nan,4.0,1.0,100.0,nan,High,Stressed,2.0,8.27,1.0
+E004,31,Male,it,no,4.0,7,Good,nan,4.36,Low,3.0,3.0,20.0,Mobile,nan,Calm,4.0,6.08,3.0
+E006,54,male,it,Yes,12.0,10.5 hrs,Poor,Medium,4.06,Low,,5.0,10.0,nan,Medium,Happy,2.0,6.23,3.0
+E001,52,FEMALE,IT,Yes,4.0,nan,Poor,Low,2.87,Low,4.0,6.0,150.0,Desktop,Medium,nan,0.0,10.23,3.0
+E003,33,male,nan,nan,,nan,Fair,High,4.66,Low,4.0,,,Laptop,Medium,Happy,,5.03,2.0
+E004,30,F,Admin,No,4.0,nan,Fair,nan,7.05,nan,1.0,6.0,50.0,nan,nan,Calm,4.0,8.45,
+E001,30,nan,HR,no,8.0,nan,Poor,High,2.46,High,1.0,2.0,10.0,nan,nan,Happy,1.0,6.96,3.0
+E003,39,nan,nan,No,8.0,8,Poor,High,5.53,High,,4.0,150.0,nan,High,nan,5.0,4.86,2.0
+E003,51,Female,Sales,yes,8.0,10.5 hrs,nan,High,7.16,Low,1.0,3.0,,nan,nan,Tired,,3.37,2.0
+E006,53,F,Sales,no,,nan,Good,High,4.96,Medium,2.0,5.0,,Desktop,Low,Stressed,2.0,3.93,2.0
+E006,44,FEMALE,HR,Yes,10.0,6 hrs,Fair,nan,4.16,Low,1.0,3.0,150.0,Laptop,nan,Stressed,1.0,8.26,
+E003,32,Female,it,nan,,10.5 hrs,Poor,Low,6.35,Low,2.0,4.0,150.0,nan,High,Happy,2.0,9.47,3.0
+E006,41,nan,hr,No,10.0,8,Poor,High,3.2,High,,3.0,150.0,Laptop,Medium,Stressed,,6.18,1.0
+E003,40,FEMALE,HR,Yes,,nan,Fair,High,5.84,Medium,2.0,5.0,50.0,Desktop,nan,Stressed,1.0,6.29,5.0
+E001,47,Female,Sales,nan,6.0,8,nan,Medium,4.67,High,,3.0,100.0,nan,Medium,Tired,0.0,7.55,5.0
+E002,31,male,nan,Yes,10.0,nan,nan,Medium,5.13,Medium,3.0,1.0,150.0,Laptop,Medium,Happy,,6.15,
+E006,45,male,Admin,no,12.0,6 hrs,Poor,nan,8.35,nan,1.0,1.0,100.0,nan,Low,Tired,,8.2,1.0
+E005,34,FEMALE,HR,No,12.0,10.5 hrs,Good,High,7.31,High,4.0,4.0,,nan,Low,Tired,0.0,6.58,
+E005,50,Female,it,yes,8.0,6 hrs,Good,High,7.96,nan,0.0,,50.0,Desktop,nan,Calm,3.0,6.27,3.0
+E005,28,M,Admin,Yes,,nan,Poor,High,3.36,nan,4.0,,,nan,Medium,Happy,3.0,4.6,1.0
+E002,51,FEMALE,Admin,No,4.0,7,Fair,nan,2.96,Low,1.0,5.0,50.0,Laptop,High,Tired,3.0,4.11,
+E003,38,FEMALE,Admin,no,8.0,10.5 hrs,Good,nan,5.93,Medium,4.0,5.0,,Laptop,Medium,nan,4.0,-0.32,3.0
+E003,34,F,IT,Yes,4.0,8,Fair,High,5.65,High,1.0,5.0,20.0,Desktop,Medium,Stressed,,8.47,
+E004,45,Male,Admin,no,,nan,Fair,High,1.05,Low,1.0,5.0,20.0,Mobile,Low,Happy,2.0,5.71,2.0
+E005,52,FEMALE,IT,yes,8.0,6 hrs,Fair,nan,5.68,High,4.0,5.0,150.0,Mobile,Low,Calm,4.0,5.2,4.0
+E005,48,M,hr,yes,8.0,7,nan,High,9.09,nan,2.0,,100.0,Desktop,Low,Tired,3.0,2.1,0.0
+E003,42,male,hr,nan,12.0,nan,Good,Low,8.79,High,3.0,2.0,,Desktop,Low,nan,2.0,4.72,
+E005,22,Female,Admin,nan,4.0,8,nan,Low,3.6,High,3.0,3.0,50.0,Mobile,nan,Stressed,4.0,4.46,5.0
+E003,36,Male,it,nan,6.0,6 hrs,Good,nan,6.42,Low,3.0,6.0,10.0,Mobile,nan,Stressed,0.0,4.41,
+E003,24,Female,nan,no,6.0,10.5 hrs,Poor,Low,3.22,Medium,3.0,5.0,20.0,Laptop,Medium,nan,2.0,6.67,3.0
+E006,27,male,hr,nan,8.0,7,Fair,Medium,4.81,High,0.0,,20.0,Laptop,nan,Happy,,6.24,2.0
+E003,35,FEMALE,IT,No,,nan,Good,High,3.36,nan,,6.0,,Laptop,High,Stressed,3.0,3.28,4.0
+E001,54,F,it,no,8.0,nan,Good,Medium,2.66,nan,1.0,1.0,10.0,Mobile,Medium,Stressed,0.0,3.4,2.0
+E001,29,M,Admin,no,12.0,nan,Poor,Medium,6.77,Low,0.0,,100.0,Desktop,Medium,Stressed,2.0,3.4,0.0
+E001,47,Male,it,nan,4.0,nan,nan,Medium,5.57,nan,3.0,6.0,100.0,nan,High,Tired,4.0,9.62,5.0
+E001,36,M,it,nan,8.0,6 hrs,Good,Low,5.89,High,3.0,,100.0,Laptop,Medium,Tired,5.0,8.99,1.0
+E002,35,nan,HR,no,,10.5 hrs,Good,High,6.27,Medium,4.0,6.0,150.0,nan,High,Stressed,5.0,4.3,1.0
+E004,41,M,nan,yes,6.0,8,nan,High,5.39,High,3.0,,150.0,Desktop,Low,Calm,3.0,2.05,2.0
+E004,40,M,Admin,yes,4.0,7,nan,nan,2.92,Low,1.0,3.0,,Mobile,Low,Stressed,4.0,6.26,0.0
+E003,54,M,nan,nan,8.0,nan,Good,Medium,5.42,nan,3.0,6.0,10.0,Laptop,Low,Happy,0.0,6.09,2.0
+E005,45,male,hr,yes,4.0,nan,nan,Low,4.56,High,3.0,4.0,,Mobile,High,Calm,,6.63,1.0
+E001,31,M,nan,No,12.0,10.5 hrs,Poor,Medium,4.62,High,0.0,,50.0,Desktop,nan,Happy,0.0,7.48,2.0
+E004,37,F,Sales,No,6.0,10.5 hrs,Poor,Medium,3.11,nan,1.0,4.0,10.0,Laptop,nan,nan,0.0,6.9,4.0
+E004,36,M,IT,No,,6 hrs,Fair,High,1.99,Medium,2.0,,50.0,Desktop,Medium,nan,2.0,3.77,0.0
+E001,39,male,hr,no,4.0,6 hrs,Good,nan,3.87,Medium,4.0,5.0,10.0,Desktop,Low,Tired,3.0,6.59,1.0
+E002,28,Female,Admin,no,6.0,6 hrs,Poor,Low,6.09,Medium,2.0,2.0,150.0,Laptop,Low,Tired,,7.71,5.0
+E002,43,male,nan,no,8.0,7,Poor,High,4.86,nan,,,100.0,nan,Medium,Tired,5.0,4.55,5.0
+E004,53,nan,IT,no,,6 hrs,Poor,Medium,8.57,High,0.0,2.0,20.0,Laptop,Low,nan,0.0,6.6,2.0
+E002,40,nan,Admin,no,,nan,Fair,High,4.87,Low,3.0,3.0,10.0,Mobile,Low,Happy,4.0,4.89,0.0
+E006,22,F,Admin,nan,10.0,6 hrs,nan,Medium,5.39,High,4.0,2.0,10.0,nan,High,Calm,3.0,9.99,2.0
+E001,26,F,hr,yes,4.0,7,Fair,Low,5.03,nan,,6.0,20.0,Laptop,Medium,Tired,5.0,3.35,1.0
+E004,33,FEMALE,Sales,nan,6.0,6 hrs,Fair,High,2.87,nan,,4.0,10.0,Laptop,High,nan,4.0,8.31,0.0
+E001,33,male,IT,yes,4.0,6 hrs,Fair,High,4.96,High,1.0,5.0,100.0,Laptop,Low,Tired,,2.66,1.0
+E002,42,Female,Sales,nan,8.0,nan,Fair,High,2.86,nan,4.0,1.0,,Laptop,Low,Stressed,4.0,9.59,4.0
+E001,40,FEMALE,IT,No,8.0,nan,Good,High,4.86,High,,6.0,20.0,Laptop,Medium,Calm,,3.72,4.0
+E002,30,FEMALE,HR,Yes,,nan,Good,High,1.48,High,0.0,4.0,20.0,Mobile,Low,Happy,0.0,6.38,5.0
+E002,53,Male,Admin,no,,6 hrs,Poor,Low,4.86,Medium,3.0,4.0,100.0,Desktop,nan,Tired,3.0,2.74,3.0
+E001,52,M,HR,Yes,6.0,nan,Fair,nan,5.3,nan,0.0,3.0,100.0,Mobile,High,Stressed,1.0,3.3,0.0
+E002,53,FEMALE,IT,Yes,12.0,10.5 hrs,Fair,Low,5.44,nan,,6.0,20.0,Desktop,High,Stressed,,7.8,4.0
+E006,53,FEMALE,IT,No,4.0,8,Poor,High,2.13,Medium,1.0,,100.0,Laptop,nan,Calm,2.0,8.06,3.0
+E003,51,F,Sales,Yes,4.0,8,nan,Medium,5.96,Medium,2.0,2.0,,Mobile,Medium,nan,1.0,6.48,5.0
+E001,53,Female,Admin,Yes,8.0,nan,Good,Medium,6.32,Medium,3.0,1.0,100.0,Desktop,Medium,nan,2.0,7.48,0.0
+E003,23,FEMALE,nan,No,4.0,7,Fair,High,3.08,Low,3.0,1.0,,Desktop,Low,Tired,3.0,8.09,1.0
+E001,32,nan,Admin,yes,6.0,nan,nan,nan,6.97,nan,0.0,,100.0,Laptop,Medium,Tired,5.0,4.63,2.0
+E002,41,Female,it,nan,10.0,nan,nan,High,5.38,High,0.0,2.0,20.0,Laptop,nan,nan,0.0,3.2,2.0
+E002,30,M,IT,Yes,,6 hrs,Fair,Low,4.88,High,0.0,,10.0,nan,Medium,Happy,3.0,5.97,1.0
+E004,40,nan,hr,no,8.0,7,Fair,nan,6.14,High,,5.0,50.0,nan,Low,Happy,1.0,4.85,4.0
+E006,28,F,hr,No,,nan,nan,nan,8.24,nan,3.0,2.0,20.0,Desktop,nan,Stressed,4.0,6.78,2.0
+E004,26,nan,hr,Yes,,10.5 hrs,Good,Low,4.72,Low,0.0,5.0,50.0,nan,Low,Calm,2.0,7.1,1.0
+E003,45,Male,HR,yes,,8,Good,nan,4.01,nan,4.0,1.0,100.0,Mobile,High,Happy,2.0,4.64,3.0
+E002,28,Male,nan,yes,10.0,10.5 hrs,Fair,High,9.16,nan,,6.0,100.0,Desktop,High,Tired,1.0,7.41,3.0
+E004,32,M,Sales,no,4.0,10.5 hrs,Fair,High,4.65,nan,,3.0,10.0,Mobile,Medium,Happy,0.0,7.31,1.0
+E002,30,M,nan,Yes,12.0,10.5 hrs,Poor,Medium,5.73,nan,4.0,4.0,100.0,nan,nan,Calm,3.0,7.45,0.0
+E001,51,nan,HR,no,,7,Poor,Low,4.65,nan,4.0,6.0,50.0,Mobile,nan,Tired,1.0,5.18,4.0
+E004,24,F,nan,yes,6.0,7,Good,nan,1.79,Low,,1.0,20.0,Desktop,nan,Calm,,7.56,4.0
+E003,43,F,nan,yes,,7,Poor,nan,4.38,Medium,3.0,1.0,20.0,Mobile,Low,nan,3.0,7.04,1.0
+E004,41,male,Admin,nan,,8,nan,nan,7.22,High,0.0,1.0,,Desktop,nan,Calm,,7.28,2.0
+E002,53,FEMALE,hr,yes,4.0,6 hrs,nan,High,3.38,nan,1.0,4.0,10.0,nan,Medium,Calm,0.0,9.36,5.0
+E005,28,FEMALE,IT,No,6.0,nan,nan,Low,7.64,nan,0.0,5.0,50.0,Desktop,High,Calm,4.0,6.66,4.0
+E005,28,FEMALE,hr,nan,4.0,nan,nan,High,6.53,nan,3.0,3.0,100.0,nan,Medium,Tired,,4.79,4.0
+E006,41,Female,nan,no,,6 hrs,Fair,nan,2.99,High,4.0,6.0,150.0,Laptop,High,Calm,3.0,3.78,3.0
+E002,46,male,IT,yes,4.0,nan,nan,High,2.59,Low,3.0,6.0,10.0,nan,High,Calm,,8.26,3.0
+E001,45,nan,Admin,No,4.0,10.5 hrs,Good,nan,2.54,High,0.0,3.0,10.0,Desktop,Medium,Stressed,0.0,6.71,3.0
+E004,34,FEMALE,Sales,nan,8.0,8,Poor,nan,4.18,Low,3.0,3.0,150.0,Desktop,High,Tired,1.0,9.34,5.0
+E005,25,Female,it,No,10.0,nan,Good,High,2.82,Medium,1.0,5.0,20.0,Laptop,High,Calm,5.0,1.94,4.0
+E001,33,Female,IT,nan,12.0,8,Fair,nan,7.44,nan,3.0,6.0,,Laptop,Low,Happy,4.0,7.82,4.0
+E002,38,Male,HR,nan,10.0,6 hrs,Poor,High,2.63,Low,2.0,2.0,20.0,nan,Medium,Calm,4.0,5.48,5.0
+E001,22,Female,hr,nan,10.0,nan,Poor,Medium,3.22,High,3.0,2.0,20.0,Mobile,Medium,Happy,4.0,5.29,
+E002,38,M,Admin,no,6.0,8,Poor,High,8.04,Low,0.0,3.0,150.0,Mobile,Medium,nan,2.0,4.47,4.0
+E006,23,F,Admin,nan,8.0,10.5 hrs,nan,Medium,4.47,Low,2.0,1.0,100.0,Laptop,High,nan,5.0,7.8,2.0
+E004,27,Female,hr,nan,8.0,10.5 hrs,Fair,Medium,5.84,Medium,4.0,1.0,100.0,nan,nan,Tired,0.0,7.23,2.0
+E001,32,M,nan,No,4.0,6 hrs,Good,High,5.93,nan,0.0,4.0,,Laptop,nan,Tired,3.0,3.72,2.0
+E004,39,M,nan,nan,10.0,7,nan,Low,2.09,nan,,2.0,,Laptop,High,nan,1.0,6.33,
+E001,46,Male,nan,no,12.0,nan,Poor,Low,6.61,High,1.0,1.0,50.0,Desktop,nan,Tired,,7.41,0.0
+E002,49,nan,Admin,No,6.0,10.5 hrs,Good,High,6.23,High,3.0,,50.0,Desktop,nan,Happy,,6.36,4.0
+E002,37,Male,nan,nan,8.0,10.5 hrs,Good,High,6.31,Medium,3.0,3.0,20.0,Desktop,High,Happy,4.0,8.22,5.0
+E001,33,Female,hr,No,4.0,6 hrs,Good,nan,3.64,Low,0.0,4.0,150.0,Laptop,Medium,Stressed,4.0,5.42,4.0
+E006,50,Male,IT,no,12.0,10.5 hrs,Fair,nan,5.57,Low,3.0,2.0,,nan,Low,Tired,4.0,1.49,5.0
+E002,44,Male,Sales,No,10.0,nan,nan,High,4.65,High,3.0,4.0,10.0,Mobile,Medium,Tired,0.0,6.37,
+E003,42,nan,IT,no,12.0,6 hrs,Fair,Low,5.19,nan,4.0,1.0,100.0,Mobile,Medium,Stressed,1.0,6.36,1.0
+E003,37,F,HR,yes,8.0,8,Poor,nan,3.45,Low,3.0,3.0,150.0,Desktop,Medium,Calm,0.0,6.62,1.0
+E004,47,FEMALE,hr,nan,6.0,6 hrs,Poor,nan,4.62,Medium,3.0,,,nan,Low,Happy,1.0,8.21,0.0
+E003,43,Female,IT,no,10.0,nan,Good,Low,6.95,High,4.0,3.0,50.0,Desktop,Medium,Calm,3.0,2.1,1.0
+E003,31,nan,hr,nan,6.0,nan,Good,High,1.15,Low,,3.0,,nan,nan,Stressed,,5.52,2.0
+E006,28,Female,Admin,no,,8,Good,Low,4.27,nan,3.0,1.0,100.0,nan,Low,Tired,2.0,4.15,0.0
+E006,30,Female,HR,Yes,12.0,6 hrs,Fair,Medium,6.28,nan,,,,nan,nan,Calm,1.0,3.58,0.0
+E005,46,Male,Admin,Yes,12.0,nan,nan,nan,2.82,Medium,4.0,,100.0,Laptop,Low,Tired,5.0,5.86,0.0
+E005,36,F,it,Yes,4.0,nan,Fair,nan,5.8,Medium,1.0,5.0,150.0,nan,nan,Stressed,0.0,7.4,3.0
+E006,34,Male,it,no,10.0,8,Poor,nan,5.94,High,3.0,6.0,,Laptop,Medium,nan,0.0,6.6,
+E005,47,M,it,nan,12.0,7,Good,Low,4.69,High,0.0,6.0,,Mobile,Medium,Tired,0.0,4.62,1.0
+E006,42,male,hr,Yes,8.0,6 hrs,Good,Low,5.6,nan,2.0,3.0,50.0,Mobile,Medium,Calm,2.0,5.71,4.0
+E005,44,male,IT,nan,,nan,Fair,High,8.26,nan,1.0,6.0,150.0,Laptop,nan,Calm,1.0,7.86,3.0
+E002,49,nan,hr,no,8.0,10.5 hrs,Poor,nan,3.66,Low,3.0,5.0,10.0,Mobile,nan,Stressed,1.0,7.37,5.0
+E006,33,male,Admin,nan,6.0,8,nan,Medium,2.22,Low,0.0,3.0,100.0,Mobile,High,Calm,1.0,4.89,2.0
+E004,45,nan,Sales,nan,,7,Good,High,4.15,Low,2.0,5.0,150.0,Desktop,nan,Happy,1.0,4.77,3.0
+E004,34,FEMALE,Admin,Yes,,7,Good,Low,3.01,Medium,4.0,2.0,150.0,Laptop,Low,Tired,4.0,2.57,2.0
+E006,23,Male,IT,No,8.0,8,Poor,Medium,5.77,Medium,3.0,6.0,10.0,Laptop,Medium,Happy,4.0,5.14,
+E003,33,M,Admin,yes,12.0,7,Good,High,4.09,Low,,,150.0,Laptop,Low,Stressed,5.0,2.53,4.0
+E004,35,M,Admin,no,8.0,nan,nan,Low,6.23,nan,,2.0,100.0,Desktop,High,Happy,0.0,10.13,4.0
+E003,51,male,HR,no,10.0,7,Fair,Medium,5.58,High,4.0,3.0,20.0,Laptop,High,Happy,,4.29,1.0
+E004,40,F,nan,no,6.0,6 hrs,Poor,High,3.63,Medium,1.0,,20.0,Mobile,nan,Tired,4.0,8.22,5.0
+E001,52,FEMALE,it,yes,,10.5 hrs,Good,Medium,3.15,Medium,,4.0,50.0,nan,Medium,Tired,,9.64,3.0
+E001,46,nan,IT,No,10.0,nan,Good,Low,2.21,Low,2.0,4.0,10.0,Desktop,Low,nan,,6.43,4.0
+E006,25,FEMALE,IT,nan,12.0,8,nan,High,7.1,High,,1.0,50.0,Desktop,High,Happy,1.0,5.8,
+E004,34,male,it,no,12.0,10.5 hrs,Fair,Low,6.05,Medium,2.0,2.0,20.0,Laptop,High,Tired,1.0,3.36,2.0
+E002,24,nan,Admin,nan,8.0,nan,nan,nan,4.18,High,,2.0,10.0,nan,Low,Happy,4.0,4.99,4.0
+E003,37,nan,HR,Yes,4.0,10.5 hrs,Fair,nan,6.21,Medium,4.0,4.0,150.0,nan,High,Happy,3.0,9.21,1.0
+E004,47,male,hr,Yes,,7,nan,Medium,2.79,High,4.0,3.0,150.0,nan,Low,Stressed,5.0,6.7,2.0
+E006,40,Male,hr,Yes,,8,Fair,nan,3.25,High,,,100.0,Mobile,Medium,Stressed,,6.06,0.0
+E003,36,F,Admin,no,4.0,8,Good,Low,3.05,Medium,1.0,,,nan,nan,Happy,,8.62,5.0
+E005,53,FEMALE,Admin,yes,12.0,6 hrs,Good,Medium,5.55,High,0.0,,20.0,Laptop,Low,Stressed,0.0,7.39,1.0
+E006,42,M,nan,no,12.0,7,Good,High,3.79,nan,,1.0,150.0,Mobile,Medium,Tired,2.0,5.7,
+E004,22,male,IT,Yes,,6 hrs,Poor,Low,2.09,Medium,3.0,2.0,10.0,nan,Low,Happy,5.0,6.43,
+E002,27,Male,it,Yes,6.0,6 hrs,Fair,High,5.18,Medium,0.0,1.0,,Laptop,High,Stressed,0.0,4.46,
+E005,48,M,Admin,no,,7,Poor,High,6.15,nan,,2.0,,Mobile,Medium,Tired,0.0,4.88,
+E006,44,FEMALE,Admin,yes,12.0,nan,Fair,High,4.73,High,2.0,5.0,150.0,Mobile,Low,Happy,0.0,5.59,1.0
+E004,52,male,Sales,yes,12.0,6 hrs,Good,High,7.28,nan,3.0,,50.0,nan,Medium,Happy,5.0,7.11,0.0
+E001,33,nan,HR,nan,6.0,10.5 hrs,Poor,Low,6.61,Medium,1.0,5.0,50.0,Mobile,Low,Stressed,,3.51,5.0
+E004,42,F,hr,No,10.0,nan,Poor,nan,7.24,nan,0.0,1.0,50.0,Desktop,Low,Tired,5.0,6.15,
+E001,23,male,HR,Yes,10.0,7,nan,Low,6.57,High,0.0,,,Laptop,Medium,Happy,4.0,5.22,4.0
+E001,26,F,HR,yes,6.0,8,Fair,nan,5.47,nan,3.0,,50.0,nan,Medium,Happy,,4.2,1.0
+E006,30,Male,nan,Yes,6.0,nan,nan,High,2.51,Medium,1.0,4.0,50.0,Laptop,Medium,nan,0.0,5.23,0.0
+E004,41,Male,HR,No,10.0,6 hrs,Poor,nan,4.31,High,,4.0,,Laptop,High,Happy,1.0,1.36,5.0
+E004,39,FEMALE,it,Yes,10.0,10.5 hrs,Poor,High,3.98,Medium,1.0,2.0,100.0,Desktop,nan,nan,0.0,4.48,0.0
+E001,43,F,nan,yes,10.0,7,Good,Medium,3.22,Medium,,6.0,50.0,Mobile,Low,nan,1.0,3.8,5.0
+E003,29,male,Admin,nan,10.0,8,nan,High,3.85,Low,0.0,5.0,100.0,Desktop,Low,Tired,4.0,5.44,1.0
+E005,30,Male,it,no,,10.5 hrs,nan,nan,2.07,Medium,,5.0,100.0,Desktop,Medium,Calm,4.0,1.44,3.0
+E002,28,male,nan,no,,8,nan,Medium,6.77,Medium,0.0,1.0,150.0,Mobile,Low,nan,0.0,6.38,
+E004,51,FEMALE,it,yes,8.0,7,Fair,Medium,2.88,High,4.0,,,nan,nan,Tired,5.0,7.82,1.0
+E005,39,F,nan,yes,6.0,nan,Poor,High,6.63,High,3.0,6.0,10.0,Laptop,nan,Stressed,1.0,5.77,
+E005,48,male,nan,No,4.0,6 hrs,nan,Low,7.65,High,1.0,1.0,50.0,nan,Low,nan,1.0,7.0,5.0
+E003,37,M,IT,Yes,8.0,7,Good,nan,3.47,nan,2.0,4.0,10.0,nan,Low,Calm,1.0,4.97,3.0
+E005,42,male,it,No,4.0,10.5 hrs,Poor,Medium,3.89,nan,3.0,4.0,20.0,Desktop,Medium,Stressed,1.0,2.89,4.0
+E004,26,Female,IT,no,4.0,nan,Good,Low,6.0,High,,6.0,100.0,Mobile,nan,nan,2.0,6.0,0.0
+E006,50,Female,Admin,Yes,12.0,8,Poor,High,4.13,nan,4.0,6.0,20.0,Mobile,Low,nan,4.0,7.36,2.0
+E006,43,nan,nan,No,6.0,nan,Good,High,3.4,Low,3.0,4.0,100.0,Laptop,nan,Calm,1.0,3.35,1.0
+E005,35,FEMALE,hr,no,,nan,nan,High,5.88,nan,0.0,3.0,50.0,Mobile,Low,Happy,2.0,5.07,2.0
+E004,40,FEMALE,nan,Yes,8.0,10.5 hrs,nan,High,3.52,Low,3.0,,20.0,nan,High,Calm,2.0,5.51,4.0
+E004,45,FEMALE,hr,nan,6.0,6 hrs,Good,nan,9.28,High,,5.0,,Mobile,nan,Tired,4.0,11.7,1.0
+E001,27,M,hr,nan,10.0,nan,Fair,Medium,6.12,High,3.0,5.0,150.0,Mobile,High,Tired,3.0,6.45,2.0
+E003,24,F,hr,No,6.0,nan,Good,nan,6.34,nan,3.0,1.0,20.0,nan,Medium,Calm,0.0,2.19,4.0
+E002,23,M,hr,yes,4.0,6 hrs,Poor,Medium,4.82,High,,5.0,100.0,Laptop,nan,Calm,4.0,1.69,3.0
+E001,36,nan,it,Yes,,6 hrs,Good,Low,8.73,High,2.0,1.0,,Laptop,Low,Calm,3.0,7.46,4.0
+E002,36,male,Sales,No,10.0,8,Good,Low,3.51,Medium,4.0,6.0,100.0,nan,Low,Calm,5.0,10.97,1.0
+E004,53,Male,it,yes,6.0,8,Poor,Medium,6.52,High,3.0,6.0,10.0,Mobile,High,Calm,0.0,5.44,5.0
+E006,42,F,Admin,yes,6.0,6 hrs,nan,High,2.32,Medium,3.0,3.0,20.0,Mobile,nan,nan,0.0,5.32,5.0
+E001,38,Female,Sales,Yes,,7,Poor,Low,9.59,High,2.0,,150.0,Laptop,nan,Stressed,0.0,6.86,
+E005,53,Female,it,Yes,4.0,6 hrs,Good,nan,6.64,Low,1.0,6.0,50.0,Laptop,nan,Tired,2.0,4.4,
+E005,44,nan,Admin,yes,10.0,8,Poor,Medium,3.12,Low,3.0,,10.0,Laptop,Medium,Tired,1.0,0.91,5.0
+E002,54,Female,hr,no,4.0,10.5 hrs,Good,Low,6.05,High,,4.0,20.0,Desktop,nan,Stressed,0.0,8.07,1.0
+E004,46,nan,HR,No,,10.5 hrs,nan,Medium,7.13,Low,,3.0,10.0,Laptop,Medium,Calm,,4.77,1.0
+E006,42,male,nan,Yes,6.0,nan,Good,High,3.21,Low,3.0,4.0,20.0,Mobile,Low,Stressed,1.0,8.1,4.0
+E002,40,male,Sales,yes,8.0,10.5 hrs,Good,Medium,4.08,Low,1.0,4.0,50.0,Laptop,High,Calm,0.0,4.48,1.0
+E006,48,FEMALE,HR,no,8.0,8,nan,Low,3.01,nan,,1.0,50.0,Mobile,High,Tired,2.0,6.24,
+E003,30,Male,hr,nan,12.0,10.5 hrs,Poor,Medium,5.96,Low,3.0,,150.0,Mobile,nan,Happy,5.0,7.71,4.0
+E006,26,FEMALE,Sales,yes,8.0,7,Fair,Low,5.36,Medium,3.0,4.0,10.0,Mobile,High,Tired,0.0,8.14,5.0
+E005,26,male,HR,no,,6 hrs,Fair,Low,5.06,nan,3.0,,150.0,Laptop,nan,Tired,4.0,6.47,
+E001,46,M,it,nan,,6 hrs,Good,Low,3.39,Medium,4.0,3.0,20.0,Laptop,Low,Happy,,6.37,0.0
+E001,47,FEMALE,Admin,no,,8,Good,nan,4.59,Medium,,2.0,50.0,nan,Low,Stressed,3.0,7.24,0.0
+E001,40,F,hr,Yes,10.0,nan,nan,High,3.57,Medium,0.0,6.0,50.0,Laptop,Low,nan,0.0,6.93,
+E006,51,male,it,yes,12.0,6 hrs,Poor,High,5.97,nan,4.0,1.0,100.0,Laptop,High,Calm,,3.42,
+E005,37,male,it,nan,10.0,10.5 hrs,Fair,Medium,2.89,High,1.0,,100.0,Laptop,nan,Calm,3.0,3.46,0.0
+E006,28,M,hr,no,8.0,7,Fair,Medium,3.4,Low,4.0,6.0,150.0,Desktop,Medium,Tired,3.0,1.78,2.0
+E004,39,M,Sales,nan,8.0,nan,nan,Low,6.63,Low,4.0,4.0,10.0,Laptop,Low,Happy,,7.53,0.0
+E005,42,M,nan,No,6.0,nan,nan,High,4.12,High,2.0,4.0,20.0,Desktop,Low,Tired,2.0,5.21,0.0
+E005,52,Male,IT,yes,10.0,nan,Fair,Medium,8.52,High,1.0,5.0,150.0,Mobile,Medium,Tired,5.0,7.64,4.0
+E006,22,F,IT,Yes,4.0,6 hrs,Poor,Medium,5.39,Medium,1.0,,50.0,Mobile,Medium,Stressed,3.0,6.81,4.0
+E006,24,male,nan,nan,6.0,nan,Poor,High,1.37,nan,1.0,1.0,50.0,Mobile,High,Calm,2.0,4.0,5.0
+E001,52,M,hr,no,10.0,8,Poor,Low,2.35,Medium,4.0,1.0,50.0,Mobile,Low,nan,5.0,5.76,
+E005,46,Male,IT,nan,,10.5 hrs,Good,Medium,3.82,Low,1.0,3.0,20.0,Desktop,High,Happy,0.0,5.09,1.0
+E001,29,Female,nan,no,12.0,7,Poor,Low,6.49,High,,2.0,150.0,Desktop,Low,nan,1.0,4.78,1.0
+E004,22,F,HR,nan,10.0,10.5 hrs,Good,High,6.28,Low,2.0,3.0,20.0,Mobile,High,Happy,2.0,7.83,1.0
+E003,28,nan,nan,Yes,12.0,8,Good,High,4.03,High,3.0,3.0,,Laptop,High,Calm,3.0,11.02,5.0
+E001,28,nan,Sales,Yes,12.0,8,nan,Medium,7.46,nan,4.0,3.0,50.0,Mobile,Medium,Stressed,3.0,8.23,4.0
+E006,29,Female,Admin,yes,8.0,10.5 hrs,Good,Medium,5.66,Medium,3.0,2.0,100.0,Mobile,nan,nan,0.0,5.95,4.0
+E002,40,Female,nan,Yes,4.0,6 hrs,Good,High,4.36,Low,3.0,3.0,150.0,Desktop,nan,Happy,,8.52,0.0
+E003,38,male,it,nan,10.0,8,nan,Low,7.35,nan,4.0,6.0,100.0,Mobile,nan,Tired,2.0,9.43,3.0
+E004,32,Male,it,nan,4.0,nan,Poor,Low,3.39,Low,,1.0,150.0,Desktop,Low,Calm,0.0,3.22,4.0
+E006,32,Male,Admin,Yes,12.0,7,Poor,nan,6.11,High,4.0,2.0,50.0,nan,Medium,Stressed,2.0,8.45,5.0
+E003,23,Female,hr,No,8.0,7,Fair,High,6.31,Low,1.0,4.0,100.0,Desktop,Medium,Tired,1.0,7.54,3.0
+E006,25,F,it,nan,4.0,8,Fair,Medium,6.24,nan,2.0,5.0,100.0,Mobile,Medium,Stressed,4.0,8.38,4.0
+E001,49,FEMALE,HR,yes,6.0,nan,Good,High,4.69,nan,4.0,5.0,150.0,Laptop,Low,Happy,0.0,7.63,5.0
+E006,54,Female,nan,No,12.0,10.5 hrs,Fair,Medium,6.74,Medium,3.0,,,Desktop,High,Tired,3.0,5.54,4.0
+E004,32,male,Admin,Yes,6.0,7,nan,Low,8.68,Low,4.0,6.0,,Desktop,High,Stressed,0.0,10.07,2.0
+E002,24,Female,HR,no,,nan,Fair,Medium,4.69,High,2.0,1.0,100.0,Desktop,nan,Calm,,6.68,3.0
+E001,26,F,hr,nan,4.0,nan,Fair,nan,5.14,Low,0.0,5.0,100.0,Mobile,nan,nan,2.0,5.13,
+E001,42,F,it,no,4.0,6 hrs,Good,Low,6.85,Medium,,6.0,50.0,Mobile,Low,nan,0.0,7.01,
+E004,43,Female,Admin,yes,4.0,8,nan,nan,4.47,High,3.0,6.0,150.0,Desktop,Low,Tired,1.0,7.94,2.0
+E004,32,Male,IT,No,,nan,Fair,High,4.41,High,0.0,5.0,150.0,Laptop,nan,Calm,2.0,6.19,0.0
+E003,43,Female,nan,no,10.0,10.5 hrs,Poor,Medium,2.68,Medium,0.0,5.0,10.0,Mobile,High,Calm,,6.79,2.0
+E002,34,M,IT,yes,12.0,7,nan,Low,1.55,High,2.0,6.0,150.0,Laptop,High,Stressed,,6.18,2.0
+E006,24,M,Sales,no,12.0,6 hrs,nan,Medium,2.73,nan,,6.0,50.0,nan,Medium,Tired,5.0,4.68,5.0
+E003,34,FEMALE,hr,no,12.0,10.5 hrs,Good,nan,6.73,nan,4.0,4.0,100.0,Laptop,nan,Calm,,4.36,
+E006,49,male,Sales,yes,10.0,7,nan,Low,2.94,High,0.0,5.0,10.0,Mobile,nan,Stressed,3.0,3.19,0.0
+E006,32,male,IT,nan,4.0,8,nan,nan,5.97,Low,1.0,3.0,100.0,Desktop,High,Calm,3.0,9.04,3.0
+E006,32,nan,IT,no,4.0,10.5 hrs,nan,Low,7.97,High,4.0,6.0,150.0,nan,Medium,Tired,2.0,5.55,1.0
+E003,42,Male,IT,yes,,7,nan,High,5.32,Low,,1.0,20.0,Laptop,nan,Calm,5.0,-0.86,4.0
+E001,42,male,Sales,no,6.0,6 hrs,nan,High,3.24,Medium,3.0,1.0,100.0,Desktop,High,Calm,1.0,6.79,5.0
+E004,28,FEMALE,Admin,nan,10.0,7,nan,Medium,4.74,nan,4.0,,,nan,High,Calm,,6.75,3.0
+E001,38,M,hr,yes,8.0,nan,nan,nan,5.76,nan,2.0,6.0,150.0,Laptop,High,nan,0.0,2.27,0.0
+E002,35,Male,nan,no,10.0,6 hrs,Poor,nan,5.77,Medium,2.0,1.0,,Desktop,Medium,Happy,4.0,4.34,2.0
+E003,54,F,Admin,Yes,,10.5 hrs,nan,Low,5.23,Medium,3.0,4.0,50.0,nan,Medium,Tired,3.0,4.25,1.0
+E002,32,M,nan,nan,6.0,8,Good,High,6.26,nan,3.0,,,Mobile,High,nan,1.0,4.52,2.0
+E004,34,FEMALE,HR,no,6.0,6 hrs,Poor,Medium,7.0,Medium,3.0,4.0,150.0,Laptop,Medium,Happy,,8.43,4.0
+E004,22,Male,HR,No,6.0,6 hrs,nan,High,4.04,High,2.0,6.0,10.0,Laptop,Medium,Calm,1.0,5.7,0.0
+E005,30,Female,IT,yes,4.0,6 hrs,Fair,nan,7.81,High,,,,nan,Medium,Calm,1.0,5.15,1.0
+E002,34,male,hr,no,8.0,7,Good,Medium,5.66,Low,,5.0,20.0,Laptop,Medium,nan,0.0,8.24,3.0
+E001,51,FEMALE,hr,nan,6.0,nan,Poor,High,0.55,Low,4.0,3.0,20.0,Desktop,Low,Stressed,1.0,6.99,3.0
+E002,28,Male,it,nan,12.0,8,Good,High,4.62,Low,0.0,5.0,20.0,Laptop,nan,Tired,1.0,2.52,0.0
+E003,35,M,it,No,4.0,8,Poor,Low,4.65,High,0.0,1.0,,Laptop,nan,Happy,2.0,4.77,0.0
+E004,27,Male,Admin,No,8.0,nan,Fair,Low,7.16,nan,1.0,,50.0,Desktop,Medium,Calm,2.0,6.64,5.0
+E004,37,Female,Sales,no,12.0,7,Good,nan,3.84,Low,2.0,3.0,20.0,Desktop,High,Tired,1.0,4.13,2.0
+E002,27,FEMALE,it,Yes,8.0,7,Good,High,5.3,High,3.0,1.0,100.0,Mobile,nan,Calm,1.0,10.06,1.0
+E002,29,Male,Admin,nan,,nan,Poor,Low,2.16,nan,,3.0,50.0,Desktop,Medium,Calm,2.0,6.23,4.0
+E006,45,F,nan,Yes,8.0,nan,Poor,High,3.34,Medium,4.0,6.0,150.0,Laptop,nan,Calm,0.0,4.49,0.0
+E002,24,FEMALE,nan,Yes,12.0,10.5 hrs,Fair,Medium,6.59,High,,2.0,10.0,nan,High,Tired,2.0,3.75,1.0
+E006,25,FEMALE,Admin,no,10.0,7,nan,High,2.56,Medium,2.0,4.0,50.0,Laptop,Medium,nan,,7.86,5.0
+E003,53,M,Sales,yes,8.0,6 hrs,Poor,High,6.93,Low,1.0,,10.0,Mobile,High,Tired,2.0,4.7,
+E003,22,nan,HR,yes,10.0,8,Poor,nan,7.28,nan,,4.0,50.0,nan,nan,Tired,2.0,6.76,0.0
+E001,30,male,IT,yes,8.0,7,Poor,Medium,7.48,High,0.0,,150.0,Mobile,Low,Stressed,2.0,3.7,0.0
+E002,33,nan,hr,No,,nan,Fair,Medium,8.09,Low,4.0,6.0,10.0,Laptop,High,Stressed,4.0,6.14,3.0
+E001,31,F,HR,nan,12.0,6 hrs,nan,Low,6.55,Low,0.0,1.0,50.0,Desktop,Medium,nan,3.0,4.73,
+E005,31,Female,Admin,No,8.0,10.5 hrs,nan,Medium,5.85,nan,4.0,1.0,10.0,nan,Medium,Stressed,,5.37,1.0
+E003,44,Male,nan,nan,6.0,10.5 hrs,Fair,nan,6.24,Medium,3.0,2.0,20.0,Laptop,High,nan,,4.41,3.0
+E004,27,nan,HR,nan,,6 hrs,nan,Low,5.14,Low,4.0,5.0,20.0,nan,Low,Calm,0.0,8.05,5.0
+E006,45,male,Sales,nan,6.0,6 hrs,Good,High,4.25,nan,3.0,,,Mobile,nan,Calm,5.0,5.02,3.0
+E005,45,M,IT,no,,nan,Fair,Medium,6.54,nan,2.0,3.0,20.0,Laptop,nan,Tired,0.0,5.71,
+E004,42,male,nan,yes,,nan,Poor,High,5.9,High,0.0,6.0,100.0,nan,nan,Calm,,5.81,5.0
+E005,52,FEMALE,Sales,No,8.0,8,nan,Low,6.76,Low,4.0,2.0,20.0,Laptop,nan,Stressed,1.0,9.22,
+E001,51,FEMALE,Admin,No,12.0,8,Good,Medium,4.58,Medium,4.0,6.0,20.0,Laptop,nan,Happy,4.0,7.78,1.0
+E001,39,Female,HR,no,12.0,10.5 hrs,Fair,Low,4.76,Medium,1.0,2.0,150.0,Mobile,Medium,Tired,1.0,7.58,5.0
+E006,33,F,hr,nan,4.0,6 hrs,Fair,Low,5.42,Low,0.0,1.0,10.0,Mobile,Medium,nan,0.0,2.84,5.0
+E003,28,Male,it,yes,12.0,10.5 hrs,Poor,Medium,4.75,Medium,2.0,1.0,10.0,Mobile,High,Calm,0.0,4.69,3.0
+E006,46,Male,Sales,Yes,10.0,nan,Poor,Medium,10.68,nan,3.0,5.0,20.0,Desktop,High,Tired,5.0,8.38,
+E004,27,M,nan,Yes,8.0,7,Fair,Low,8.87,nan,2.0,,10.0,nan,nan,Tired,5.0,3.66,2.0
+E005,22,Female,HR,no,6.0,nan,Good,nan,5.01,Low,1.0,,50.0,Mobile,nan,Tired,1.0,6.17,
+E006,37,Male,it,yes,12.0,7,Poor,Medium,4.74,Medium,2.0,6.0,,Desktop,nan,Calm,3.0,3.87,4.0
+E002,25,F,it,Yes,6.0,6 hrs,Fair,Low,5.89,nan,3.0,6.0,20.0,Desktop,Low,nan,1.0,4.07,4.0
+E002,50,FEMALE,HR,Yes,4.0,6 hrs,Fair,High,4.14,Low,0.0,5.0,,nan,High,Tired,3.0,9.36,2.0
+E003,49,Female,IT,No,8.0,6 hrs,Poor,High,4.11,nan,,1.0,20.0,nan,Medium,Tired,3.0,7.44,0.0
+E006,43,male,HR,yes,12.0,8,nan,Medium,5.09,Low,1.0,4.0,100.0,Mobile,nan,Tired,2.0,7.97,3.0
+E004,29,nan,nan,Yes,6.0,8,Good,Medium,4.26,High,4.0,5.0,,Desktop,High,Calm,0.0,7.57,4.0
+E002,53,nan,Admin,No,,7,nan,High,5.37,High,4.0,2.0,50.0,nan,Low,Stressed,2.0,5.72,1.0
+E003,54,Female,hr,yes,12.0,10.5 hrs,nan,Low,5.74,Low,0.0,1.0,20.0,nan,Low,nan,0.0,4.62,5.0
+E006,34,Female,nan,nan,4.0,10.5 hrs,Good,Low,-1.36,High,,6.0,20.0,nan,nan,Tired,2.0,5.2,5.0
+E003,48,F,Admin,yes,,7,Good,Low,1.15,High,2.0,6.0,10.0,nan,Medium,Tired,3.0,5.62,0.0
+E004,39,F,it,no,6.0,8,Poor,nan,3.3,Medium,4.0,3.0,20.0,Desktop,High,Tired,2.0,9.55,4.0
+E002,39,Male,hr,No,6.0,nan,Poor,Medium,5.56,High,1.0,3.0,,Laptop,Medium,Calm,4.0,3.33,
+E002,34,nan,Sales,nan,8.0,7,Poor,nan,3.46,Medium,,4.0,,nan,nan,Stressed,2.0,4.89,3.0
+E002,43,M,it,No,8.0,10.5 hrs,Good,nan,9.62,High,3.0,6.0,20.0,Desktop,nan,Tired,5.0,4.17,4.0
+E001,35,M,IT,No,6.0,7,nan,nan,6.79,High,2.0,1.0,20.0,nan,Low,Tired,5.0,8.11,3.0
+E002,32,F,HR,Yes,,7,Good,nan,8.92,nan,,6.0,20.0,Desktop,Low,Calm,2.0,9.71,0.0
+E005,43,Male,Sales,yes,8.0,6 hrs,Poor,Low,6.8,Low,3.0,6.0,100.0,Mobile,High,nan,2.0,6.62,
+E001,38,Male,nan,No,6.0,8,nan,Medium,1.83,High,,2.0,50.0,Laptop,nan,nan,4.0,6.78,
+E006,53,Male,hr,No,,6 hrs,Poor,Medium,2.67,Low,,4.0,,Desktop,nan,Stressed,0.0,6.18,
+E001,35,F,Sales,no,10.0,8,nan,nan,3.98,Low,2.0,2.0,100.0,Desktop,High,nan,2.0,6.87,5.0
+E001,50,M,IT,no,12.0,7,Poor,Medium,2.61,nan,1.0,,10.0,Desktop,Medium,Tired,0.0,7.55,2.0
+E001,27,Male,HR,no,10.0,8,Good,High,7.16,Low,3.0,3.0,150.0,nan,Low,Calm,5.0,6.85,5.0
+E003,25,F,Sales,No,10.0,10.5 hrs,Fair,Low,4.68,Low,1.0,2.0,20.0,Mobile,nan,Tired,1.0,7.0,3.0
+E005,32,male,nan,nan,12.0,6 hrs,Fair,Medium,5.41,High,3.0,3.0,,nan,nan,Tired,3.0,7.55,3.0
+E004,31,male,hr,yes,6.0,7,nan,Low,7.75,nan,2.0,,10.0,Mobile,Medium,Stressed,1.0,2.44,0.0
+E002,49,FEMALE,Sales,No,6.0,10.5 hrs,Good,High,8.85,Low,1.0,5.0,,Laptop,Medium,nan,4.0,6.0,0.0
+E001,32,male,HR,Yes,8.0,8,Poor,Low,4.46,High,2.0,,150.0,nan,Medium,nan,4.0,6.61,1.0
+E004,36,Female,nan,nan,4.0,8,nan,High,2.27,nan,,3.0,20.0,Desktop,Low,nan,0.0,6.83,5.0
+E003,29,FEMALE,Sales,nan,6.0,10.5 hrs,nan,nan,2.62,High,,6.0,,Laptop,High,Tired,0.0,5.66,5.0
+E004,41,male,hr,yes,12.0,8,Poor,Medium,7.3,nan,2.0,,20.0,nan,nan,Calm,,6.32,0.0
+E001,42,Female,HR,nan,4.0,6 hrs,Poor,nan,5.53,nan,3.0,3.0,150.0,Mobile,Low,Calm,,4.56,4.0
+E006,22,male,IT,yes,12.0,nan,Poor,Medium,3.22,Medium,,,100.0,nan,Medium,Tired,2.0,2.45,3.0
+E005,50,F,IT,nan,12.0,8,Good,nan,6.42,Medium,3.0,6.0,150.0,nan,nan,Happy,,7.97,
+E004,45,nan,it,yes,12.0,7,Fair,High,2.85,Medium,1.0,4.0,150.0,Desktop,nan,Tired,1.0,3.73,2.0
+E001,51,Female,Sales,no,4.0,8,nan,Medium,1.46,Low,4.0,6.0,,Desktop,Low,nan,0.0,5.68,0.0
+E001,54,Male,hr,no,10.0,7,nan,nan,0.98,High,,,50.0,Laptop,Medium,Tired,5.0,4.5,
+E002,41,F,Sales,nan,,8,Fair,Low,2.11,nan,,6.0,20.0,Desktop,Medium,Happy,0.0,9.17,3.0
+E006,37,nan,HR,nan,12.0,8,nan,Low,7.31,High,0.0,6.0,,nan,High,Tired,,5.84,2.0
+E002,30,Female,it,yes,8.0,7,Good,nan,4.59,Low,3.0,4.0,20.0,nan,Medium,nan,5.0,5.38,1.0
+E006,52,F,hr,yes,6.0,6 hrs,Poor,High,4.93,Medium,2.0,1.0,100.0,Mobile,Low,Stressed,0.0,7.5,4.0
+E005,38,Male,Sales,No,,nan,Fair,nan,5.37,Medium,0.0,,100.0,nan,High,Calm,,10.31,1.0
+E002,52,Female,hr,no,6.0,nan,Good,Low,2.98,High,1.0,1.0,50.0,Laptop,High,Happy,3.0,6.81,0.0
+E005,44,Female,HR,No,6.0,6 hrs,Poor,Medium,4.04,High,0.0,,50.0,Laptop,High,Stressed,0.0,5.25,4.0
+E003,27,nan,it,No,4.0,8,Fair,Medium,4.23,nan,0.0,3.0,50.0,Desktop,High,Calm,3.0,7.39,1.0
+E003,51,F,hr,Yes,8.0,nan,Good,nan,3.14,High,4.0,5.0,100.0,Mobile,High,Stressed,4.0,2.85,3.0
+E006,28,male,HR,yes,8.0,6 hrs,Fair,Medium,4.03,nan,4.0,1.0,150.0,nan,Low,Tired,2.0,6.09,0.0
+E006,32,Female,IT,Yes,,6 hrs,Fair,Low,4.76,nan,0.0,3.0,,Desktop,nan,Tired,1.0,9.99,5.0
+E002,33,male,hr,Yes,8.0,nan,Good,Medium,4.5,Medium,4.0,4.0,20.0,nan,Medium,Calm,0.0,6.32,1.0
+E003,48,Female,it,No,8.0,7,nan,nan,5.87,High,4.0,1.0,20.0,Laptop,nan,Calm,3.0,6.22,4.0
+E004,33,M,Admin,Yes,8.0,10.5 hrs,Good,nan,4.03,Medium,0.0,1.0,,Laptop,nan,Tired,,6.04,4.0
+E004,34,FEMALE,nan,yes,,7,Fair,nan,8.09,nan,3.0,6.0,10.0,Mobile,Medium,Tired,0.0,5.21,5.0
+E004,29,male,nan,No,10.0,8,Fair,Low,2.93,Medium,4.0,,100.0,nan,Medium,Calm,0.0,6.63,
+E003,37,male,hr,yes,8.0,7,Good,High,3.94,Medium,0.0,6.0,100.0,nan,nan,Calm,3.0,7.55,2.0
+E004,50,nan,hr,nan,8.0,10.5 hrs,Poor,Medium,5.79,nan,3.0,3.0,50.0,Laptop,Medium,Calm,0.0,5.34,4.0
+E005,50,Male,HR,Yes,4.0,10.5 hrs,Poor,nan,6.24,Low,,6.0,,Mobile,High,nan,1.0,1.02,4.0
+E001,52,M,Sales,No,4.0,6 hrs,Poor,High,2.59,Low,4.0,3.0,10.0,Desktop,Medium,nan,5.0,6.93,
+E006,34,Male,nan,no,8.0,8,Poor,nan,4.79,High,0.0,2.0,10.0,Mobile,Medium,Tired,5.0,10.27,0.0
+E002,33,M,Sales,yes,10.0,6 hrs,Good,nan,6.6,Medium,4.0,,100.0,Desktop,High,nan,5.0,5.25,4.0
+E005,23,M,nan,Yes,8.0,7,nan,Low,1.79,High,3.0,2.0,50.0,Desktop,High,Happy,,3.06,2.0
+E004,54,F,hr,yes,8.0,7,Poor,Low,4.82,Medium,0.0,5.0,20.0,Laptop,High,Tired,5.0,7.35,4.0
+E001,29,F,it,yes,8.0,nan,Fair,High,2.03,High,3.0,,50.0,Desktop,Medium,Happy,4.0,9.49,2.0
+E002,53,F,it,nan,12.0,6 hrs,Poor,nan,3.37,High,,1.0,20.0,nan,High,Stressed,2.0,7.06,
+E005,49,Female,Admin,yes,10.0,6 hrs,nan,Medium,5.17,nan,2.0,2.0,100.0,Laptop,High,Happy,0.0,9.45,3.0
+E002,36,nan,nan,nan,6.0,6 hrs,Good,Medium,4.57,Low,1.0,3.0,50.0,Mobile,Low,Stressed,3.0,7.59,2.0
+E006,44,Male,nan,nan,8.0,6 hrs,nan,Medium,2.72,Low,2.0,6.0,10.0,Mobile,Low,Happy,1.0,7.41,0.0
+E003,45,FEMALE,HR,nan,6.0,10.5 hrs,nan,High,7.44,Low,4.0,6.0,,Desktop,Medium,Stressed,0.0,4.96,1.0
+E004,34,M,hr,Yes,10.0,nan,nan,Low,4.33,nan,3.0,1.0,150.0,nan,High,Stressed,4.0,6.57,5.0
+E005,42,M,hr,yes,8.0,8,Poor,High,6.1,Low,0.0,,10.0,Mobile,Medium,Tired,4.0,5.94,1.0
+E005,33,nan,Admin,yes,6.0,8,Poor,Low,8.0,nan,3.0,2.0,,Desktop,Low,Calm,3.0,5.87,3.0
+E001,34,male,Sales,nan,,8,nan,Medium,3.65,Medium,4.0,5.0,20.0,Mobile,Low,Calm,0.0,5.49,0.0
+E001,44,Female,HR,yes,6.0,10.5 hrs,Good,Medium,6.23,nan,0.0,5.0,100.0,nan,High,Tired,5.0,6.45,3.0
+E001,49,FEMALE,IT,yes,10.0,nan,Poor,Low,5.83,High,2.0,5.0,50.0,Desktop,Medium,Stressed,0.0,3.41,3.0
+E002,35,F,it,nan,8.0,nan,Good,Medium,2.22,High,3.0,5.0,100.0,nan,Low,Calm,0.0,7.62,4.0
+E004,38,M,it,no,12.0,10.5 hrs,Poor,High,7.41,Medium,1.0,6.0,100.0,Desktop,nan,Calm,4.0,4.24,4.0
+E002,45,male,hr,no,10.0,6 hrs,Good,Low,5.2,Medium,,6.0,20.0,nan,High,Happy,0.0,5.5,0.0
+E004,43,Male,Admin,nan,12.0,7,Poor,Medium,3.93,High,,6.0,100.0,Mobile,Medium,nan,5.0,6.66,1.0
+E005,31,M,HR,Yes,8.0,6 hrs,nan,nan,1.76,Low,4.0,,50.0,Mobile,nan,Tired,0.0,4.15,2.0
+E002,29,male,IT,yes,6.0,8,Fair,Medium,2.45,Low,4.0,3.0,10.0,nan,High,nan,,2.07,4.0
+E002,42,Male,it,yes,,6 hrs,Fair,nan,4.78,Low,3.0,5.0,100.0,Mobile,High,Stressed,,5.23,0.0
+E002,28,Female,HR,no,,10.5 hrs,Good,Medium,2.32,Medium,2.0,4.0,50.0,Mobile,Low,Happy,0.0,3.14,0.0
+E003,47,F,IT,nan,10.0,8,Good,nan,6.27,High,2.0,6.0,50.0,Desktop,Medium,Calm,0.0,7.42,
+E006,34,nan,nan,Yes,10.0,7,nan,Medium,4.24,nan,1.0,5.0,20.0,nan,Low,Happy,5.0,3.69,1.0
+E004,37,Male,hr,nan,10.0,8,nan,nan,1.88,Medium,1.0,2.0,100.0,Desktop,nan,Tired,,8.97,0.0
+E004,51,M,Sales,no,4.0,6 hrs,Good,Low,3.67,High,3.0,,20.0,Mobile,nan,Stressed,5.0,5.99,5.0
+E002,52,FEMALE,it,no,,nan,Fair,Low,2.87,Low,0.0,1.0,10.0,Mobile,nan,Happy,3.0,6.12,0.0
+E003,26,Male,it,yes,,nan,nan,nan,2.55,Low,2.0,6.0,10.0,Laptop,nan,Happy,4.0,2.04,1.0
+E002,53,FEMALE,IT,No,8.0,nan,Good,Medium,0.57,Low,0.0,6.0,,nan,nan,Happy,2.0,6.29,4.0
+E004,37,FEMALE,Sales,Yes,4.0,8,nan,High,5.2,High,0.0,2.0,50.0,nan,Medium,Calm,,5.84,1.0
+E006,30,Male,nan,Yes,10.0,nan,nan,High,3.09,Low,3.0,1.0,100.0,Desktop,Medium,Stressed,3.0,3.4,3.0
+E006,43,nan,HR,No,10.0,10.5 hrs,Poor,High,8.75,High,1.0,3.0,,nan,High,Calm,5.0,6.17,4.0
+E005,35,nan,hr,no,12.0,7,nan,High,6.99,Medium,0.0,6.0,50.0,Desktop,High,Happy,0.0,5.2,3.0
+E003,37,Female,HR,nan,4.0,nan,Good,nan,8.26,nan,3.0,1.0,100.0,Mobile,Medium,Calm,2.0,5.57,0.0
+E006,41,nan,IT,Yes,6.0,10.5 hrs,nan,Low,6.43,Low,1.0,4.0,20.0,Laptop,High,Calm,1.0,6.05,3.0
+E003,36,Male,it,No,,10.5 hrs,Good,Low,3.83,Medium,0.0,6.0,10.0,Mobile,Low,Tired,2.0,5.06,1.0
+E002,47,nan,nan,yes,8.0,8,Poor,High,5.65,Medium,0.0,5.0,,Desktop,Medium,nan,3.0,6.49,1.0
+E005,30,male,it,yes,6.0,8,Poor,Low,4.39,High,1.0,,,Desktop,Low,nan,4.0,5.83,
+E004,22,F,HR,no,6.0,7,Fair,nan,5.68,Medium,,2.0,10.0,Laptop,nan,Tired,3.0,6.95,2.0
+E006,41,FEMALE,nan,Yes,8.0,7,Poor,High,6.78,High,1.0,1.0,20.0,Mobile,nan,Tired,4.0,4.94,
+E006,27,F,Admin,nan,10.0,6 hrs,Poor,nan,6.19,High,4.0,2.0,150.0,nan,High,Calm,4.0,3.87,
+E001,31,M,hr,Yes,,7,Good,nan,5.02,Medium,4.0,5.0,150.0,Laptop,Medium,Calm,5.0,4.58,5.0
+E004,54,FEMALE,IT,yes,12.0,8,Fair,Medium,5.13,High,3.0,3.0,150.0,nan,nan,Stressed,4.0,8.89,
+E006,37,M,hr,Yes,10.0,10.5 hrs,Poor,nan,5.44,High,3.0,,100.0,Mobile,High,nan,1.0,7.91,0.0
+E006,27,male,IT,yes,10.0,6 hrs,nan,Medium,7.21,High,2.0,5.0,,Laptop,Low,Calm,2.0,8.43,1.0
+E004,40,male,hr,No,4.0,7,Fair,High,4.02,Medium,4.0,3.0,20.0,Mobile,Medium,Stressed,3.0,8.57,4.0
+E005,52,F,Admin,No,6.0,10.5 hrs,Poor,nan,4.48,nan,1.0,2.0,100.0,Mobile,High,nan,3.0,5.07,
+E003,23,male,HR,yes,6.0,8,Fair,Low,3.99,High,4.0,3.0,100.0,nan,nan,Stressed,4.0,6.59,
+E004,39,Male,Sales,nan,,nan,Poor,High,5.27,Low,,6.0,20.0,nan,Low,Stressed,5.0,6.15,
+E003,49,FEMALE,nan,nan,6.0,6 hrs,Good,nan,6.27,Medium,3.0,3.0,100.0,nan,Low,Tired,1.0,7.32,1.0
+E005,25,M,IT,Yes,12.0,10.5 hrs,Fair,nan,5.6,Medium,,3.0,,Mobile,High,Happy,1.0,5.42,4.0
+E005,22,nan,HR,yes,12.0,8,Fair,Low,4.88,High,3.0,6.0,20.0,Desktop,Medium,Happy,0.0,6.19,0.0
+E002,37,F,it,no,12.0,8,Poor,Medium,7.15,Medium,,3.0,150.0,Mobile,High,Happy,1.0,6.14,5.0
+E001,23,F,it,nan,8.0,6 hrs,Fair,nan,3.41,Low,3.0,6.0,150.0,Desktop,nan,Stressed,4.0,7.06,2.0
+E005,22,male,hr,nan,,6 hrs,Poor,nan,2.0,nan,1.0,6.0,100.0,Laptop,Medium,Calm,4.0,7.31,2.0
+E005,44,male,it,No,12.0,7,nan,Low,5.64,Medium,,,10.0,nan,nan,Happy,,6.19,3.0
+E003,47,M,Sales,nan,4.0,7,Fair,High,4.92,Medium,0.0,3.0,20.0,nan,Low,Calm,2.0,6.25,1.0
+E005,32,FEMALE,IT,nan,4.0,6 hrs,Fair,nan,4.67,Medium,3.0,6.0,50.0,Mobile,Low,nan,4.0,6.45,0.0
+E004,22,FEMALE,hr,nan,10.0,6 hrs,Good,Medium,2.36,High,4.0,1.0,50.0,Desktop,nan,Happy,2.0,9.29,3.0
+E002,32,F,IT,yes,10.0,10.5 hrs,Good,Medium,5.4,Low,0.0,3.0,100.0,Laptop,nan,Stressed,1.0,2.54,0.0
+E002,45,M,IT,yes,,7,Fair,Low,8.59,nan,4.0,3.0,10.0,Mobile,Low,Tired,0.0,4.06,0.0
+E004,31,F,Admin,No,10.0,8,Good,Medium,2.34,Low,3.0,5.0,20.0,Laptop,High,Stressed,,7.35,3.0
+E006,35,nan,HR,Yes,10.0,7,Fair,nan,4.69,Low,1.0,5.0,150.0,Desktop,High,Calm,5.0,6.54,0.0
+E005,35,Female,it,nan,4.0,7,Poor,Medium,5.15,Medium,0.0,,100.0,nan,High,nan,3.0,6.53,3.0
+E001,28,FEMALE,nan,Yes,10.0,6 hrs,Fair,nan,4.11,nan,0.0,,20.0,nan,nan,Stressed,4.0,7.33,
+E005,44,M,IT,yes,4.0,6 hrs,Fair,Low,5.33,Low,3.0,,20.0,Desktop,nan,Tired,1.0,6.43,
+E002,43,nan,Sales,nan,12.0,7,nan,Medium,4.11,nan,,5.0,20.0,nan,Low,Tired,4.0,4.88,5.0
+E001,48,M,Admin,Yes,12.0,nan,Good,nan,5.31,High,3.0,3.0,10.0,Mobile,Medium,nan,2.0,7.26,1.0
+E006,23,F,Sales,Yes,,nan,Good,High,4.49,Medium,3.0,5.0,20.0,Desktop,High,Happy,1.0,6.04,3.0
+E003,40,male,nan,no,8.0,7,nan,nan,3.92,High,2.0,1.0,10.0,nan,High,Stressed,3.0,5.1,1.0
+E003,28,M,it,yes,10.0,nan,Poor,nan,4.85,nan,1.0,2.0,10.0,Desktop,High,Stressed,2.0,7.38,
+E005,33,F,it,No,12.0,7,Poor,Low,5.96,Medium,,5.0,,Laptop,Low,Tired,1.0,7.3,2.0
+E005,24,Male,hr,No,12.0,6 hrs,Poor,nan,1.89,High,1.0,6.0,20.0,Mobile,Medium,Calm,5.0,6.43,3.0
+E001,26,male,hr,no,,6 hrs,nan,Low,6.39,Medium,3.0,5.0,,Mobile,Medium,Stressed,5.0,9.43,
+E001,29,male,hr,Yes,6.0,6 hrs,Fair,nan,3.55,High,2.0,1.0,150.0,Mobile,Medium,Tired,3.0,8.65,5.0
+E006,35,FEMALE,it,no,6.0,8,Poor,nan,6.24,Low,3.0,6.0,,nan,High,Calm,5.0,8.0,2.0
+E005,28,Female,IT,no,,6 hrs,Poor,nan,3.66,Medium,3.0,6.0,,Laptop,nan,Happy,2.0,11.13,3.0
+E002,28,FEMALE,HR,yes,4.0,6 hrs,nan,Low,6.43,nan,1.0,6.0,20.0,nan,High,Happy,3.0,5.71,0.0
+E003,53,Male,nan,nan,8.0,7,Good,nan,4.9,Medium,2.0,6.0,150.0,nan,Medium,Tired,1.0,5.07,2.0
+E006,29,F,Admin,Yes,,nan,nan,Low,3.14,nan,1.0,4.0,100.0,Desktop,Low,Tired,2.0,7.72,4.0
+E001,33,male,nan,No,6.0,nan,Good,High,4.12,High,3.0,4.0,50.0,Mobile,Medium,Happy,5.0,5.49,4.0
+E002,31,male,nan,No,8.0,6 hrs,Poor,Low,7.39,High,4.0,6.0,100.0,nan,High,Tired,0.0,6.02,4.0
+E005,35,nan,hr,no,12.0,6 hrs,Poor,High,5.1,nan,0.0,6.0,10.0,Mobile,nan,nan,4.0,4.03,2.0
+E004,30,M,HR,no,,6 hrs,Fair,Low,4.08,High,,6.0,100.0,Laptop,Medium,Stressed,5.0,7.21,1.0
+E001,51,Female,Sales,no,4.0,7,Fair,Low,7.28,Medium,3.0,1.0,50.0,Laptop,nan,nan,0.0,3.06,3.0
+E006,26,Female,it,Yes,8.0,7,Good,nan,6.71,High,,5.0,50.0,Mobile,Medium,Calm,3.0,5.81,0.0
+E004,22,M,Sales,no,6.0,7,Poor,Medium,3.32,nan,2.0,2.0,150.0,Mobile,nan,Tired,1.0,5.97,0.0
+E002,22,Male,hr,no,12.0,nan,Poor,Medium,4.59,nan,4.0,,100.0,Laptop,nan,Tired,,5.13,
+E003,41,Female,IT,nan,,8,nan,nan,1.47,Low,,6.0,10.0,Laptop,Medium,Calm,4.0,2.49,2.0
+E002,32,male,Admin,Yes,10.0,nan,Poor,High,6.74,nan,,,,nan,Low,Stressed,1.0,2.47,4.0
+E003,47,Male,Admin,yes,12.0,7,Poor,nan,5.01,High,2.0,5.0,,Laptop,High,Happy,3.0,4.51,5.0
+E002,24,FEMALE,hr,yes,6.0,10.5 hrs,nan,Medium,6.34,nan,3.0,1.0,10.0,nan,High,nan,1.0,7.08,
+E001,27,FEMALE,HR,nan,,8,nan,Low,1.14,High,3.0,,150.0,Laptop,Medium,Stressed,2.0,6.58,0.0
+E001,32,Male,Admin,No,6.0,6 hrs,Poor,nan,4.44,High,0.0,1.0,,nan,nan,Happy,2.0,5.97,5.0
+E006,29,male,hr,yes,10.0,nan,Fair,High,5.34,Low,2.0,6.0,150.0,Desktop,High,Happy,5.0,4.23,
+E004,50,nan,nan,Yes,12.0,8,Fair,nan,0.76,High,4.0,,,Desktop,nan,Tired,5.0,6.68,5.0
+E002,31,FEMALE,IT,No,8.0,10.5 hrs,Poor,Medium,6.31,nan,0.0,3.0,,nan,Low,Calm,5.0,2.4,0.0
+E002,45,F,IT,no,8.0,8,Fair,Low,4.35,nan,2.0,1.0,100.0,Mobile,Medium,Tired,5.0,1.21,1.0
+E004,38,male,it,Yes,12.0,nan,nan,Medium,1.49,nan,3.0,3.0,150.0,Desktop,Low,Calm,3.0,5.51,0.0
+E005,53,M,it,No,8.0,7,Fair,Medium,3.97,High,0.0,,50.0,Laptop,nan,Tired,1.0,4.91,
+E006,32,Female,nan,yes,,6 hrs,Poor,Medium,5.91,nan,3.0,,10.0,Mobile,nan,nan,5.0,8.03,0.0
+E002,45,nan,IT,no,12.0,7,Fair,Medium,3.17,Medium,1.0,1.0,,Laptop,Medium,Tired,3.0,6.32,3.0
+E006,26,nan,nan,no,12.0,7,Poor,Low,4.91,Medium,1.0,3.0,50.0,Desktop,nan,nan,,9.3,0.0
+E002,50,Male,IT,Yes,6.0,nan,Fair,Medium,4.13,nan,0.0,3.0,20.0,Laptop,Medium,Stressed,4.0,4.9,3.0
+E002,37,Female,HR,no,4.0,7,Poor,High,1.01,High,0.0,6.0,50.0,nan,Medium,Stressed,5.0,6.97,
+E005,46,M,hr,No,6.0,7,Poor,High,6.25,nan,2.0,6.0,10.0,Mobile,Low,Tired,1.0,5.5,4.0
+E001,29,FEMALE,it,nan,8.0,nan,Fair,Medium,6.62,Medium,4.0,,20.0,Desktop,High,Stressed,2.0,8.76,1.0
+E006,50,nan,HR,yes,4.0,nan,Fair,High,7.3,High,4.0,5.0,100.0,Mobile,High,Happy,0.0,5.59,
+E004,46,F,Admin,Yes,12.0,10.5 hrs,nan,Medium,5.02,nan,1.0,3.0,20.0,nan,nan,nan,,7.71,5.0
+E006,44,male,hr,nan,8.0,7,Good,Low,5.97,High,1.0,4.0,150.0,Desktop,High,Calm,2.0,3.84,
+E005,24,nan,it,nan,10.0,8,Poor,Low,1.77,nan,1.0,1.0,10.0,Laptop,nan,nan,1.0,5.17,0.0
+E003,51,nan,Admin,Yes,8.0,6 hrs,Poor,High,5.48,Low,3.0,6.0,150.0,Mobile,High,Tired,1.0,5.83,1.0
+E003,53,male,nan,No,4.0,6 hrs,Poor,High,4.36,High,4.0,2.0,50.0,Desktop,Low,Stressed,,8.53,
+E005,50,M,Admin,yes,4.0,nan,Poor,Medium,4.85,Medium,0.0,,100.0,Desktop,High,Stressed,1.0,1.61,5.0
+E005,30,Male,HR,Yes,12.0,nan,Fair,nan,2.77,Medium,1.0,1.0,10.0,nan,nan,Happy,1.0,5.33,
+E001,23,nan,Sales,nan,,10.5 hrs,Fair,Medium,7.25,Medium,,5.0,100.0,Desktop,nan,Stressed,5.0,5.27,
+E006,28,nan,Admin,nan,10.0,7,Good,Medium,1.7,Medium,2.0,5.0,,Desktop,High,Tired,4.0,1.85,1.0
+E006,26,Female,Sales,Yes,12.0,nan,Poor,Low,5.54,nan,0.0,3.0,10.0,nan,Medium,Tired,0.0,5.07,5.0
+E003,29,F,it,nan,10.0,nan,Good,nan,3.16,nan,0.0,5.0,150.0,Laptop,Low,Calm,5.0,2.92,5.0
+E004,53,FEMALE,HR,Yes,10.0,6 hrs,nan,nan,9.24,High,0.0,6.0,50.0,Laptop,Medium,nan,2.0,1.34,1.0
+E006,39,Male,Admin,Yes,12.0,7,Good,Medium,6.39,Low,4.0,5.0,20.0,Desktop,High,nan,4.0,5.48,2.0
+E002,39,F,hr,yes,8.0,10.5 hrs,Good,Low,4.94,Low,1.0,1.0,100.0,Laptop,Medium,nan,,5.41,3.0
+E002,37,F,Admin,Yes,6.0,nan,nan,High,2.94,High,2.0,,10.0,nan,High,Calm,3.0,5.51,5.0
+E001,42,M,hr,nan,10.0,nan,nan,Low,6.78,Medium,3.0,4.0,10.0,Laptop,nan,Calm,1.0,6.51,5.0
+E001,31,M,HR,no,4.0,nan,Good,High,-1.53,Low,2.0,4.0,,Desktop,Medium,Calm,,4.24,5.0
+E003,25,male,Sales,yes,12.0,6 hrs,nan,Low,5.77,Low,2.0,,100.0,nan,Low,Happy,2.0,9.58,5.0
+E004,29,FEMALE,HR,nan,,nan,Good,nan,6.02,High,,,20.0,Laptop,Medium,Calm,3.0,5.93,1.0
+E004,40,Male,Sales,nan,8.0,nan,Fair,Low,5.9,Medium,2.0,3.0,50.0,Mobile,nan,Stressed,0.0,8.57,5.0
+E005,30,male,Sales,yes,10.0,6 hrs,Fair,Medium,6.68,nan,3.0,,10.0,Mobile,nan,Happy,2.0,2.64,4.0
+E001,51,nan,nan,yes,,nan,Good,High,3.87,nan,2.0,5.0,10.0,nan,nan,Stressed,,4.33,0.0
+E006,38,FEMALE,nan,nan,8.0,7,nan,Low,6.1,Low,,5.0,100.0,Laptop,Medium,nan,4.0,7.37,
+E002,36,Female,hr,no,12.0,7,nan,Low,3.66,nan,2.0,4.0,100.0,Desktop,nan,Tired,5.0,5.55,5.0
+E006,25,Female,it,No,,6 hrs,Fair,High,3.34,High,1.0,,10.0,Mobile,nan,nan,3.0,3.85,1.0
+E002,27,male,IT,nan,4.0,7,Fair,Low,2.94,Low,,3.0,10.0,Laptop,Medium,Calm,2.0,2.32,
+E003,37,Male,HR,yes,10.0,10.5 hrs,nan,High,4.5,Low,1.0,5.0,,Laptop,Medium,Tired,5.0,7.47,5.0
+E002,47,FEMALE,Sales,Yes,10.0,nan,nan,nan,7.22,Medium,1.0,3.0,10.0,Desktop,High,nan,5.0,7.3,1.0
+E006,44,Female,HR,Yes,,10.5 hrs,nan,High,8.43,nan,0.0,6.0,150.0,Desktop,Medium,Happy,5.0,6.49,5.0
+E006,34,Female,it,yes,8.0,7,nan,High,4.46,Medium,,1.0,10.0,Laptop,nan,Calm,4.0,5.01,0.0
+E004,38,Male,it,yes,12.0,6 hrs,Good,nan,3.71,Low,2.0,6.0,50.0,Desktop,Low,nan,1.0,3.77,5.0
+E004,48,male,IT,No,6.0,6 hrs,nan,Low,7.66,nan,4.0,5.0,50.0,nan,nan,Tired,2.0,5.89,4.0
+E001,43,M,Admin,yes,10.0,10.5 hrs,Fair,Low,5.87,Medium,4.0,5.0,,Mobile,nan,Stressed,5.0,3.37,5.0
+E006,40,nan,IT,Yes,4.0,7,Fair,nan,5.06,nan,4.0,5.0,20.0,Mobile,nan,nan,1.0,4.5,5.0
+E003,34,F,Sales,no,10.0,nan,Poor,Medium,2.79,Low,3.0,4.0,100.0,Laptop,Medium,Happy,5.0,8.52,
+E002,35,nan,nan,yes,10.0,7,nan,High,7.86,Low,1.0,4.0,20.0,Laptop,Low,Tired,3.0,2.3,
+E001,52,FEMALE,Admin,No,6.0,7,Good,Low,5.19,Low,1.0,5.0,10.0,Desktop,nan,nan,,7.36,1.0
+E005,23,Female,IT,no,6.0,6 hrs,Poor,Low,5.0,High,1.0,5.0,100.0,Mobile,Medium,Stressed,3.0,8.99,1.0
+E005,35,F,nan,No,12.0,8,Poor,High,6.08,Medium,,1.0,10.0,Desktop,High,Calm,3.0,7.63,5.0
+E002,30,F,Admin,no,10.0,nan,Good,High,5.04,Medium,3.0,1.0,100.0,Laptop,Low,Calm,1.0,6.8,4.0
+E002,31,M,nan,yes,10.0,nan,Poor,High,7.95,Low,2.0,3.0,,Laptop,Low,Calm,1.0,5.07,1.0
+E002,28,F,Sales,Yes,8.0,6 hrs,Poor,Medium,7.02,Medium,0.0,,150.0,Laptop,Medium,Tired,5.0,4.71,
+E004,49,Male,hr,no,8.0,7,Fair,nan,3.88,Low,,3.0,150.0,Laptop,High,Stressed,4.0,1.5,4.0
+E002,46,male,nan,nan,,6 hrs,Poor,Medium,5.17,Medium,1.0,4.0,150.0,Laptop,nan,Stressed,2.0,6.07,1.0
+E005,49,FEMALE,Sales,No,,7,Good,Medium,3.83,nan,2.0,2.0,,Laptop,High,nan,4.0,5.2,0.0
+E002,23,Male,IT,no,4.0,8,nan,High,8.78,Medium,4.0,1.0,20.0,nan,Low,Calm,,4.6,4.0
+E006,38,male,HR,No,4.0,8,nan,nan,3.55,Low,0.0,3.0,100.0,nan,Medium,Tired,1.0,5.96,0.0
+E003,25,Male,IT,Yes,8.0,10.5 hrs,nan,Low,4.76,Medium,4.0,,20.0,Desktop,High,Calm,,6.12,0.0
+E005,34,Female,it,No,,7,Fair,High,5.73,nan,2.0,,100.0,nan,nan,Calm,2.0,4.73,1.0
+E003,39,Female,IT,No,4.0,6 hrs,Fair,nan,6.01,nan,2.0,1.0,10.0,Desktop,High,nan,,9.23,
+E005,24,M,hr,nan,10.0,6 hrs,Fair,Low,6.35,nan,4.0,1.0,150.0,Desktop,High,nan,,7.46,4.0
+E001,54,Male,Sales,No,,6 hrs,Good,Medium,6.6,Low,,6.0,150.0,nan,Medium,nan,3.0,7.79,2.0
+E006,45,nan,nan,no,6.0,10.5 hrs,nan,nan,6.39,High,0.0,2.0,100.0,Mobile,Medium,Happy,4.0,5.79,0.0
+E005,29,F,it,No,,nan,Good,Medium,4.13,Low,4.0,1.0,20.0,Desktop,Low,Happy,,7.02,
+E006,23,Female,Sales,yes,10.0,6 hrs,Good,Medium,3.91,nan,4.0,6.0,20.0,Laptop,Medium,Tired,4.0,4.21,0.0
+E005,54,male,Sales,No,8.0,8,Poor,nan,5.08,Medium,,,50.0,Desktop,High,Tired,4.0,7.33,0.0
+E003,33,M,nan,yes,12.0,6 hrs,nan,Low,3.9,nan,4.0,2.0,150.0,Desktop,nan,nan,1.0,5.59,1.0
+E003,43,F,Admin,No,12.0,6 hrs,Poor,nan,3.68,High,0.0,,150.0,Mobile,Low,Stressed,2.0,3.96,1.0
+E005,34,FEMALE,IT,No,8.0,6 hrs,Fair,Low,4.16,High,3.0,6.0,20.0,Laptop,Medium,Tired,3.0,5.95,0.0
+E005,31,Male,HR,no,10.0,nan,Fair,High,9.2,nan,0.0,,150.0,Mobile,High,Happy,1.0,5.42,
+E004,38,nan,Admin,yes,4.0,6 hrs,Good,High,8.09,Low,,6.0,20.0,Mobile,High,Happy,3.0,10.65,5.0
+E006,26,Female,it,yes,,nan,Good,High,4.52,High,4.0,2.0,50.0,Mobile,Low,Calm,,6.87,1.0
+E006,30,nan,nan,nan,,nan,Poor,Medium,0.87,nan,1.0,1.0,100.0,Desktop,Low,nan,0.0,9.16,1.0
+E006,34,F,hr,No,4.0,10.5 hrs,Poor,High,3.82,Low,1.0,1.0,100.0,Laptop,Medium,Stressed,0.0,8.26,1.0
+E006,44,male,hr,No,12.0,8,Good,Medium,6.76,Medium,2.0,3.0,50.0,Laptop,Medium,nan,3.0,6.08,3.0
+E001,51,Male,HR,no,8.0,6 hrs,nan,Low,1.87,Low,3.0,1.0,150.0,Mobile,nan,Happy,0.0,5.11,4.0
+E001,25,nan,HR,nan,8.0,6 hrs,Good,nan,6.21,High,,,10.0,nan,Low,Stressed,2.0,2.52,
+E002,42,male,IT,nan,6.0,6 hrs,nan,nan,6.08,Low,2.0,1.0,150.0,Laptop,Low,Tired,,4.26,1.0
+E005,30,M,hr,no,12.0,nan,Poor,Medium,5.03,Low,2.0,1.0,20.0,Laptop,High,Calm,,7.33,3.0
+E005,28,Female,it,yes,8.0,7,Fair,Medium,4.92,Medium,1.0,3.0,,Mobile,nan,Happy,2.0,5.4,3.0
+E005,37,Female,nan,Yes,6.0,8,Fair,Medium,3.19,nan,0.0,2.0,10.0,Desktop,Medium,Calm,,6.75,1.0
+E005,44,M,HR,no,4.0,6 hrs,Poor,Low,6.39,Low,2.0,3.0,50.0,Mobile,nan,nan,1.0,1.94,
+E006,44,male,HR,yes,12.0,7,Poor,Low,5.62,Medium,2.0,,100.0,nan,nan,Stressed,3.0,6.91,5.0
+E006,52,nan,HR,nan,12.0,7,Fair,High,4.04,High,3.0,,100.0,nan,High,nan,,8.19,3.0
+E001,26,Male,nan,no,8.0,7,nan,High,3.43,nan,1.0,1.0,150.0,Mobile,Low,Calm,1.0,2.45,2.0
+E003,27,male,it,Yes,8.0,8,Poor,nan,2.61,High,0.0,5.0,100.0,nan,Low,Happy,2.0,6.74,3.0
+E004,22,Male,hr,No,10.0,7,nan,High,5.74,nan,3.0,1.0,150.0,Desktop,Low,Calm,,8.69,4.0
+E006,49,F,Admin,no,4.0,6 hrs,nan,Low,4.6,Low,0.0,3.0,20.0,Desktop,Medium,Happy,2.0,9.36,3.0
+E006,39,M,it,Yes,4.0,6 hrs,Fair,Low,4.62,Low,0.0,6.0,20.0,Desktop,Low,Calm,2.0,4.99,1.0
+E006,45,FEMALE,nan,Yes,,10.5 hrs,nan,Low,1.88,nan,2.0,6.0,50.0,nan,nan,nan,4.0,7.56,
+E003,34,Male,it,no,6.0,nan,Fair,Low,2.81,High,3.0,3.0,,Desktop,nan,Calm,0.0,8.86,5.0
+E003,54,Female,IT,yes,6.0,7,Poor,nan,2.59,High,2.0,4.0,20.0,Mobile,Low,Tired,1.0,6.8,0.0
+E001,31,F,Admin,no,10.0,nan,Good,nan,6.54,High,4.0,,150.0,Desktop,nan,nan,1.0,8.57,
+E006,28,Female,nan,nan,,nan,Good,Low,5.34,Low,0.0,6.0,100.0,nan,Medium,Calm,,5.93,
+E004,53,F,Admin,Yes,4.0,nan,Good,Medium,4.43,nan,3.0,5.0,20.0,Laptop,Low,Calm,,6.79,2.0
+E005,43,Female,Admin,Yes,6.0,nan,Good,High,7.21,nan,1.0,3.0,20.0,nan,Medium,Stressed,2.0,4.76,3.0
+E006,37,male,HR,No,4.0,nan,Good,nan,6.93,High,2.0,6.0,150.0,Mobile,Low,nan,,5.67,5.0
+E001,45,nan,hr,Yes,4.0,6 hrs,Good,Medium,7.21,Low,4.0,6.0,20.0,Mobile,Medium,Stressed,4.0,6.87,2.0
+E001,35,male,Admin,No,,8,nan,High,4.52,nan,,2.0,100.0,nan,Medium,nan,1.0,4.61,
+E004,32,male,IT,Yes,6.0,7,nan,Medium,2.17,nan,4.0,1.0,,Desktop,Medium,Happy,5.0,5.55,
+E002,40,nan,IT,Yes,8.0,7,Good,Low,8.41,High,4.0,6.0,100.0,Desktop,nan,nan,1.0,7.52,4.0
+E001,44,F,nan,no,8.0,6 hrs,Poor,High,6.05,High,2.0,6.0,,Laptop,Medium,nan,4.0,10.11,
+E003,34,F,Sales,no,,6 hrs,Poor,Medium,6.09,nan,1.0,2.0,100.0,Desktop,High,Calm,2.0,1.9,3.0
+E003,49,nan,HR,nan,6.0,nan,nan,nan,6.35,Low,3.0,,100.0,Mobile,Medium,Tired,4.0,9.95,3.0
+E005,37,Female,hr,yes,10.0,8,nan,nan,10.53,Medium,0.0,3.0,10.0,Desktop,Medium,nan,0.0,5.48,2.0
+E001,49,Male,hr,nan,12.0,7,Good,nan,4.8,nan,1.0,3.0,100.0,nan,Medium,Stressed,1.0,7.93,3.0
+E005,25,F,hr,Yes,,10.5 hrs,Poor,High,7.87,nan,2.0,2.0,10.0,nan,Medium,Tired,0.0,8.32,
+E001,49,Female,nan,nan,4.0,6 hrs,Fair,Low,3.29,Low,,2.0,100.0,Laptop,Low,nan,1.0,9.13,3.0
+E004,33,Male,HR,no,,10.5 hrs,Good,Low,6.63,nan,3.0,4.0,100.0,Mobile,nan,Tired,0.0,4.54,0.0
+E006,37,nan,Admin,Yes,12.0,7,nan,High,8.57,Medium,0.0,1.0,150.0,nan,nan,Happy,1.0,5.55,2.0
+E001,41,male,Admin,Yes,,6 hrs,nan,High,4.91,Low,,2.0,,Mobile,nan,Tired,5.0,5.89,1.0
+E002,47,F,nan,nan,6.0,7,nan,Low,1.16,Medium,3.0,1.0,100.0,Desktop,Low,Happy,2.0,5.29,
+E003,47,FEMALE,hr,No,4.0,6 hrs,Fair,nan,6.13,Medium,0.0,6.0,20.0,Laptop,Medium,Tired,5.0,8.64,1.0
+E004,43,male,Admin,yes,12.0,7,Poor,Low,4.57,nan,0.0,5.0,100.0,Laptop,Medium,Tired,3.0,5.85,4.0
+E006,30,M,it,nan,8.0,10.5 hrs,nan,Low,6.69,Medium,4.0,3.0,50.0,Desktop,nan,Stressed,4.0,2.76,0.0
+E006,26,Male,it,nan,10.0,8,Good,Medium,4.07,nan,,2.0,150.0,nan,High,Stressed,1.0,4.73,2.0
+E003,38,FEMALE,HR,yes,,6 hrs,Fair,nan,9.78,nan,,5.0,150.0,Mobile,Medium,Calm,4.0,2.84,2.0
+E006,23,male,hr,Yes,,10.5 hrs,Poor,High,5.21,Low,2.0,3.0,100.0,Mobile,Medium,Tired,1.0,5.54,0.0
+E005,28,F,nan,Yes,12.0,7,Good,Low,6.58,Low,1.0,4.0,50.0,Mobile,Medium,Happy,3.0,7.35,0.0
+E004,34,FEMALE,Sales,No,10.0,10.5 hrs,Good,nan,3.0,Low,4.0,3.0,,nan,Low,Tired,2.0,4.69,4.0
+E002,41,Female,Sales,nan,,6 hrs,Fair,High,2.65,nan,4.0,2.0,100.0,Desktop,Medium,nan,2.0,5.19,1.0
+E003,51,Male,Sales,yes,8.0,10.5 hrs,Fair,Medium,2.41,Medium,3.0,5.0,20.0,Mobile,nan,Happy,4.0,5.45,5.0
+E001,51,M,it,nan,12.0,7,Fair,Medium,2.42,Medium,,5.0,150.0,nan,Medium,nan,5.0,6.28,2.0
+E001,32,Female,nan,no,6.0,nan,nan,nan,6.36,Low,0.0,5.0,150.0,Mobile,nan,Calm,3.0,7.03,5.0
+E001,52,FEMALE,Sales,nan,4.0,8,Poor,Low,3.79,Low,0.0,3.0,,nan,High,nan,4.0,7.61,0.0
+E004,24,male,hr,nan,8.0,8,nan,High,2.46,nan,3.0,1.0,50.0,Desktop,Low,Calm,2.0,10.51,2.0
+E002,23,Male,hr,no,10.0,nan,Fair,nan,3.61,High,,,10.0,Mobile,High,Calm,0.0,6.25,1.0
+E006,24,F,Sales,no,10.0,6 hrs,Fair,Medium,6.41,High,2.0,1.0,,Desktop,Medium,Calm,4.0,7.47,2.0
+E002,36,M,IT,yes,8.0,10.5 hrs,Fair,High,6.36,nan,0.0,3.0,50.0,Laptop,High,nan,1.0,2.82,5.0
+E002,38,male,Sales,Yes,6.0,10.5 hrs,nan,High,6.99,High,4.0,2.0,20.0,nan,Medium,Calm,,5.24,2.0
+E003,28,M,IT,No,,nan,Good,Low,4.44,High,4.0,3.0,50.0,Laptop,nan,Calm,2.0,5.46,0.0
+E004,26,F,HR,no,6.0,nan,Fair,Medium,8.99,High,,1.0,,Desktop,Medium,Stressed,1.0,3.97,0.0
+E001,54,nan,HR,Yes,,7,nan,Medium,7.16,Low,0.0,3.0,10.0,Desktop,Low,Tired,3.0,4.93,0.0
+E003,37,Male,hr,yes,,7,Fair,Medium,2.65,Medium,0.0,5.0,20.0,Desktop,High,Calm,5.0,5.79,1.0
+E006,24,FEMALE,nan,nan,10.0,8,nan,High,6.62,Medium,2.0,2.0,20.0,Mobile,Medium,Happy,5.0,4.99,
+E002,42,M,it,yes,,6 hrs,Poor,Medium,5.04,Low,,,10.0,Mobile,nan,Happy,2.0,11.2,
+E001,29,Male,nan,yes,8.0,6 hrs,Poor,nan,4.67,Low,0.0,2.0,100.0,Desktop,High,Stressed,2.0,7.02,
+E004,43,M,hr,no,,nan,nan,Medium,5.02,Low,2.0,4.0,50.0,Desktop,Low,nan,5.0,10.0,3.0
+E005,26,male,hr,No,8.0,8,Fair,High,3.67,High,4.0,,,Mobile,Medium,nan,4.0,8.99,1.0
+E002,38,M,nan,no,4.0,8,nan,Medium,7.02,nan,2.0,3.0,20.0,Mobile,Low,nan,,4.72,0.0
+E002,35,nan,it,nan,10.0,7,Poor,Medium,3.84,nan,0.0,6.0,,nan,nan,Calm,5.0,6.08,4.0
+E002,49,male,hr,no,6.0,10.5 hrs,nan,High,3.88,High,1.0,6.0,50.0,Desktop,High,nan,5.0,5.13,2.0
+E002,52,male,Admin,nan,12.0,6 hrs,Poor,Medium,6.52,High,,,10.0,Mobile,High,nan,4.0,5.68,2.0
+E001,38,Male,Admin,no,6.0,8,Poor,Low,9.34,Low,0.0,,150.0,Mobile,High,Tired,1.0,4.05,5.0
+E004,43,Female,it,No,6.0,7,Good,High,4.01,Low,1.0,,10.0,Laptop,nan,Calm,4.0,5.12,2.0
+E003,50,F,hr,Yes,12.0,7,Fair,Medium,2.51,Medium,4.0,6.0,50.0,Desktop,Medium,Calm,0.0,6.72,
+E001,31,M,Admin,No,10.0,7,nan,Low,7.28,Low,,5.0,20.0,Desktop,Medium,Happy,2.0,6.67,5.0
+E004,39,FEMALE,HR,no,,10.5 hrs,Fair,nan,5.39,High,3.0,6.0,50.0,Mobile,Medium,Happy,5.0,6.51,2.0
+E003,37,male,IT,yes,4.0,8,Fair,High,6.0,Medium,,3.0,150.0,Laptop,Low,Tired,,5.88,4.0
+E002,28,Female,hr,Yes,6.0,nan,Poor,Medium,5.07,Low,4.0,4.0,20.0,nan,nan,Stressed,3.0,7.72,5.0
+E004,51,male,IT,yes,,nan,Poor,High,6.19,Medium,4.0,4.0,150.0,Desktop,High,Calm,2.0,5.49,0.0
+E002,40,Female,Sales,No,6.0,7,nan,Low,5.73,Medium,4.0,3.0,100.0,nan,nan,Happy,,8.78,3.0
+E004,44,Female,Admin,Yes,10.0,7,nan,High,3.95,Low,2.0,6.0,,Desktop,nan,nan,5.0,2.3,
+E006,29,FEMALE,hr,no,10.0,10.5 hrs,nan,nan,6.41,nan,4.0,3.0,10.0,Mobile,nan,Calm,1.0,7.31,2.0
+E005,38,Female,HR,yes,8.0,7,Poor,Medium,6.0,High,3.0,,100.0,nan,High,Calm,5.0,6.98,5.0
+E002,42,FEMALE,it,no,10.0,8,Good,nan,4.26,High,0.0,,50.0,Desktop,High,Calm,,4.65,3.0
+E002,47,Male,HR,nan,10.0,7,nan,Low,4.65,Medium,1.0,3.0,100.0,nan,Low,Happy,4.0,5.29,5.0
+E002,49,male,IT,Yes,6.0,7,Poor,High,3.43,nan,,,10.0,Mobile,nan,Tired,2.0,6.93,1.0
+E006,54,FEMALE,it,yes,4.0,8,Good,Medium,5.92,nan,,1.0,20.0,Laptop,Medium,Happy,4.0,7.83,1.0
+E001,40,F,HR,No,6.0,6 hrs,Fair,Medium,5.95,Low,4.0,4.0,,Laptop,Low,nan,5.0,2.5,
+E003,50,nan,HR,No,,nan,Poor,Low,4.92,Low,1.0,2.0,150.0,nan,High,nan,1.0,7.26,2.0
+E002,41,male,HR,No,10.0,7,nan,Low,2.72,High,4.0,6.0,20.0,nan,High,Stressed,,5.08,0.0
+E002,41,nan,nan,No,8.0,8,nan,High,0.95,Low,2.0,6.0,,nan,Low,Happy,4.0,8.25,4.0
+E001,31,F,it,yes,4.0,nan,Good,Medium,4.54,Low,1.0,1.0,100.0,Desktop,Medium,Happy,3.0,2.32,5.0
+E001,33,M,HR,nan,8.0,10.5 hrs,Good,Low,5.47,Medium,4.0,5.0,50.0,Mobile,nan,Stressed,5.0,10.89,2.0
+E005,54,F,Admin,No,12.0,6 hrs,Poor,Medium,6.29,nan,4.0,2.0,100.0,nan,nan,Stressed,1.0,4.23,1.0
+E004,46,Male,Admin,No,8.0,7,Good,High,7.27,nan,3.0,2.0,10.0,Laptop,Medium,Calm,2.0,8.86,1.0
+E002,46,M,HR,No,8.0,6 hrs,Poor,nan,4.29,Low,3.0,2.0,10.0,Desktop,nan,Calm,,5.86,5.0
+E004,25,M,IT,nan,,7,Good,Low,1.84,Low,3.0,,50.0,nan,High,nan,2.0,4.36,5.0
+E001,25,Female,HR,Yes,10.0,7,Fair,High,3.97,Low,2.0,4.0,,Desktop,Low,Tired,3.0,6.53,5.0
+E001,30,F,Admin,No,,7,nan,nan,9.37,High,1.0,5.0,20.0,nan,Medium,nan,0.0,8.06,
+E005,36,Female,HR,No,10.0,6 hrs,nan,High,8.29,High,2.0,1.0,10.0,nan,Low,Happy,4.0,2.89,3.0
+E003,47,F,Sales,No,,10.5 hrs,Fair,Low,5.86,Medium,0.0,,10.0,Desktop,nan,Tired,5.0,7.4,4.0
+E006,36,M,it,Yes,10.0,8,nan,High,4.14,High,4.0,5.0,50.0,Mobile,nan,Calm,2.0,5.98,5.0
+E006,47,Female,Sales,No,10.0,8,nan,Medium,4.82,nan,4.0,6.0,20.0,Mobile,High,Stressed,5.0,7.15,
+E006,49,nan,nan,Yes,10.0,10.5 hrs,nan,Low,8.43,High,4.0,1.0,100.0,Laptop,High,Stressed,3.0,6.02,5.0
+E001,28,male,IT,Yes,8.0,10.5 hrs,nan,Medium,5.42,nan,3.0,,150.0,Mobile,nan,nan,4.0,4.86,2.0
+E002,53,F,Sales,no,12.0,7,Fair,High,4.24,High,4.0,4.0,50.0,Mobile,nan,Happy,1.0,3.77,0.0
+E005,33,F,nan,no,10.0,7,Poor,Low,7.65,High,3.0,6.0,20.0,Desktop,High,Happy,5.0,7.35,3.0
+E003,53,Female,hr,No,12.0,8,nan,Medium,1.1,Medium,0.0,5.0,150.0,Desktop,High,Stressed,3.0,7.33,4.0
+E006,30,F,it,yes,12.0,7,Fair,Medium,2.99,Low,2.0,2.0,50.0,Laptop,Medium,nan,,7.32,3.0
+E005,35,M,HR,no,6.0,7,nan,Medium,3.39,Low,2.0,5.0,100.0,nan,High,nan,1.0,6.86,
+E001,34,Female,Sales,no,6.0,10.5 hrs,Fair,nan,7.0,Low,2.0,6.0,100.0,Desktop,Medium,Calm,,7.89,5.0
+E006,54,Female,Sales,yes,4.0,6 hrs,Fair,Medium,3.88,Medium,3.0,,20.0,Desktop,Medium,Calm,1.0,8.81,0.0
+E003,53,FEMALE,HR,nan,,nan,Poor,Medium,1.45,nan,,,20.0,Desktop,Low,Calm,1.0,2.25,5.0
+E004,40,nan,HR,No,6.0,nan,Good,High,3.62,High,,4.0,100.0,Mobile,High,Tired,4.0,1.32,1.0
+E003,51,nan,IT,nan,10.0,7,Poor,High,4.06,Medium,1.0,4.0,100.0,Desktop,Medium,nan,0.0,9.44,
+E002,37,FEMALE,Sales,nan,12.0,7,Poor,High,4.87,nan,,4.0,50.0,Laptop,Low,nan,5.0,3.32,5.0
+E006,33,M,Sales,Yes,,nan,nan,High,5.26,Medium,1.0,1.0,,Laptop,Low,Calm,1.0,3.83,2.0
+E006,31,male,Admin,Yes,4.0,10.5 hrs,Fair,nan,6.94,Medium,0.0,5.0,,Desktop,High,Stressed,2.0,5.42,2.0
+E004,23,F,hr,No,6.0,nan,Good,High,4.38,nan,1.0,2.0,20.0,nan,High,Calm,4.0,2.69,
+E004,39,Male,Admin,yes,8.0,nan,Fair,High,3.83,Low,0.0,,150.0,Desktop,Low,Tired,4.0,5.24,0.0
+E006,34,F,nan,Yes,,nan,nan,High,5.09,High,4.0,2.0,100.0,Laptop,Medium,Stressed,1.0,4.1,5.0
+E002,50,Male,hr,no,4.0,7,Fair,Medium,5.49,Low,2.0,3.0,150.0,nan,High,nan,2.0,5.53,2.0
+E004,45,nan,Admin,No,10.0,7,nan,nan,3.8,Medium,,4.0,20.0,Mobile,Low,Tired,3.0,6.56,2.0
+E001,33,M,Sales,nan,,nan,Poor,High,1.59,nan,3.0,6.0,20.0,Desktop,Low,Tired,4.0,5.31,5.0
+E006,50,male,hr,No,12.0,7,Poor,Medium,4.02,Medium,0.0,2.0,10.0,Laptop,Medium,Stressed,1.0,5.21,3.0
+E003,43,male,Sales,Yes,10.0,nan,nan,Low,6.61,Low,,4.0,100.0,Mobile,nan,Calm,5.0,6.52,0.0
+E003,22,male,it,yes,10.0,10.5 hrs,Poor,nan,4.84,Low,3.0,2.0,,Laptop,Medium,Calm,1.0,8.09,
+E002,54,FEMALE,IT,nan,,7,Fair,High,7.49,Low,3.0,5.0,,Mobile,Low,Happy,5.0,9.21,3.0
+E001,25,M,hr,yes,8.0,6 hrs,Good,Medium,6.01,High,2.0,3.0,20.0,Laptop,Medium,Stressed,5.0,5.56,2.0
+E004,51,Male,Sales,No,8.0,7,Good,Low,3.94,Low,4.0,4.0,20.0,Laptop,High,Calm,0.0,9.65,
+E006,41,male,hr,yes,,10.5 hrs,Fair,Low,7.94,High,4.0,1.0,100.0,Mobile,Low,Tired,0.0,7.75,
+E003,47,M,nan,yes,,10.5 hrs,Good,Medium,3.26,High,1.0,1.0,10.0,Desktop,Medium,Calm,,3.54,5.0
+E003,36,F,IT,No,,7,Fair,Medium,1.65,Low,,2.0,10.0,Laptop,Medium,Calm,3.0,3.48,
+E003,28,Male,it,nan,12.0,8,nan,nan,5.69,nan,4.0,,10.0,nan,Medium,Tired,3.0,4.85,4.0
+E003,28,nan,HR,yes,6.0,nan,Good,Medium,3.43,Medium,2.0,5.0,10.0,Desktop,Medium,Stressed,5.0,8.89,5.0
+E005,50,FEMALE,HR,yes,10.0,nan,nan,High,4.89,Medium,,6.0,50.0,nan,Low,Happy,3.0,5.0,4.0
+E002,44,Female,hr,No,,10.5 hrs,nan,Low,2.86,High,3.0,,100.0,Laptop,Medium,Calm,,2.22,3.0
+E004,41,Male,Sales,no,6.0,7,Fair,High,5.01,High,0.0,4.0,100.0,Mobile,High,Calm,3.0,5.54,1.0
+E006,36,nan,nan,yes,12.0,8,Good,High,5.97,High,0.0,3.0,100.0,Desktop,nan,Calm,1.0,2.04,5.0
+E006,54,nan,IT,Yes,10.0,6 hrs,Poor,High,6.27,Medium,4.0,5.0,,Mobile,nan,Stressed,1.0,3.89,1.0
+E006,38,nan,it,nan,6.0,nan,Poor,Low,2.72,High,1.0,2.0,10.0,Mobile,nan,Tired,1.0,4.83,0.0
+E004,41,F,it,yes,10.0,8,Poor,Low,2.29,nan,0.0,5.0,10.0,nan,High,Tired,2.0,6.3,4.0
+E002,34,Male,Admin,No,8.0,nan,Poor,Low,5.79,nan,1.0,3.0,,nan,nan,Tired,5.0,8.05,
+E001,45,Male,it,Yes,,7,Fair,Medium,4.24,High,0.0,5.0,,Desktop,Low,Tired,3.0,7.39,4.0
+E002,28,Female,HR,No,8.0,nan,nan,High,3.89,Medium,1.0,4.0,20.0,Desktop,Low,Tired,2.0,3.64,3.0
+E003,29,male,IT,yes,4.0,6 hrs,Good,nan,4.76,Low,1.0,2.0,50.0,Desktop,High,Tired,4.0,5.26,
+E003,44,F,Admin,Yes,12.0,7,Fair,Medium,4.66,Medium,3.0,3.0,,nan,High,Calm,5.0,6.15,5.0
+E002,35,nan,HR,nan,,10.5 hrs,Poor,Medium,5.75,Low,2.0,2.0,100.0,nan,Low,Calm,,5.48,2.0
+E002,25,Female,hr,nan,6.0,8,Good,nan,5.98,Low,0.0,6.0,50.0,Mobile,High,Tired,4.0,5.46,0.0
+E004,42,Male,it,nan,10.0,nan,Fair,High,6.97,High,,4.0,,Mobile,High,Tired,1.0,2.55,3.0
+E004,31,F,IT,no,4.0,7,nan,nan,4.48,nan,4.0,3.0,100.0,Mobile,Low,Stressed,4.0,3.69,1.0
+E005,43,FEMALE,it,No,12.0,7,Poor,Low,6.99,High,2.0,6.0,10.0,Desktop,Low,Stressed,1.0,5.19,5.0
+E006,51,Male,HR,yes,12.0,nan,Good,High,6.18,Low,3.0,6.0,10.0,Laptop,Medium,nan,,-0.19,2.0
+E005,51,FEMALE,HR,Yes,12.0,10.5 hrs,Good,Medium,6.75,High,3.0,6.0,100.0,nan,Medium,Calm,5.0,7.28,
+E006,37,M,HR,No,6.0,nan,Poor,Low,2.79,Low,3.0,3.0,150.0,Desktop,nan,Tired,5.0,3.25,0.0
+E003,32,FEMALE,it,yes,,10.5 hrs,nan,Low,4.79,High,4.0,2.0,10.0,nan,High,Calm,,7.37,5.0
+E005,43,Male,IT,no,8.0,nan,Poor,Medium,8.79,nan,0.0,5.0,20.0,Laptop,Low,nan,,7.2,2.0
+E005,50,Female,IT,yes,4.0,7,nan,nan,2.26,nan,0.0,5.0,,nan,nan,Stressed,3.0,4.91,1.0
+E001,46,Male,hr,No,6.0,6 hrs,Good,Low,8.58,Medium,1.0,6.0,10.0,nan,Medium,nan,2.0,8.0,3.0
+E002,35,Male,it,yes,10.0,6 hrs,Poor,Low,8.49,Low,1.0,1.0,20.0,nan,High,Happy,1.0,7.49,3.0
+E004,35,M,hr,Yes,6.0,7,nan,High,6.46,Low,,1.0,50.0,Mobile,nan,Stressed,0.0,5.38,4.0
+E005,23,nan,nan,no,10.0,6 hrs,nan,High,2.31,High,1.0,3.0,10.0,Laptop,High,Calm,,5.16,5.0
+E004,34,male,hr,Yes,10.0,10.5 hrs,Fair,Medium,4.57,Medium,4.0,2.0,,Desktop,nan,Stressed,0.0,8.19,
+E006,24,Male,hr,no,12.0,7,nan,Medium,6.59,nan,2.0,3.0,10.0,Desktop,High,nan,3.0,6.46,3.0
+E005,51,M,hr,no,6.0,10.5 hrs,Poor,Medium,2.35,High,0.0,2.0,,Desktop,High,Tired,,8.09,4.0
+E006,39,Female,HR,yes,8.0,7,Poor,nan,6.35,Medium,1.0,4.0,50.0,Laptop,Low,nan,2.0,1.22,3.0
+E005,42,M,nan,Yes,10.0,10.5 hrs,nan,Low,5.22,nan,4.0,1.0,,nan,High,nan,1.0,6.2,0.0
+E003,40,M,Admin,no,12.0,10.5 hrs,Poor,Medium,3.86,High,4.0,3.0,20.0,Desktop,Medium,Tired,3.0,2.85,5.0
+E001,37,FEMALE,hr,no,8.0,6 hrs,Good,High,2.76,nan,,,150.0,Laptop,Low,Calm,2.0,5.95,
+E006,49,male,IT,yes,6.0,7,Good,Low,7.92,Low,1.0,4.0,,Mobile,High,Calm,0.0,7.43,1.0
+E002,25,male,hr,No,8.0,nan,Poor,Medium,6.55,Medium,,5.0,,Laptop,Medium,Stressed,1.0,9.48,5.0
+E002,36,F,HR,No,6.0,6 hrs,nan,Low,4.67,nan,3.0,1.0,20.0,Mobile,Medium,nan,2.0,4.12,5.0
+E003,22,nan,Sales,nan,10.0,10.5 hrs,Good,Low,5.07,Medium,3.0,2.0,100.0,Laptop,nan,Stressed,4.0,4.95,2.0
+E003,37,Female,Admin,nan,4.0,10.5 hrs,nan,Low,4.46,High,3.0,6.0,100.0,Mobile,Low,Tired,1.0,5.81,1.0
+E002,41,F,nan,no,4.0,nan,Poor,Medium,1.38,Medium,1.0,5.0,100.0,Desktop,Low,Happy,4.0,4.05,1.0
+E006,54,nan,Sales,No,,nan,Fair,Low,7.58,High,4.0,5.0,,Laptop,nan,Calm,5.0,7.96,4.0
+E002,38,nan,Sales,no,,10.5 hrs,Good,Low,5.44,Medium,4.0,4.0,50.0,Mobile,nan,Tired,5.0,5.86,4.0
+E001,26,M,nan,Yes,10.0,nan,Poor,Low,6.91,High,0.0,,20.0,nan,nan,Calm,5.0,6.24,0.0
+E005,26,Female,it,No,8.0,8,Good,High,4.09,High,3.0,3.0,,Desktop,Low,Stressed,3.0,7.24,2.0
+E001,34,nan,Admin,No,6.0,6 hrs,nan,Medium,5.18,High,1.0,6.0,10.0,Desktop,Medium,Happy,2.0,5.86,3.0
+E002,51,Female,Admin,No,4.0,7,Fair,nan,5.64,nan,0.0,3.0,,Mobile,Medium,nan,5.0,4.36,3.0
+E005,25,male,IT,nan,6.0,nan,Fair,High,7.06,Low,4.0,4.0,100.0,Mobile,High,Calm,,5.87,1.0
+E002,44,male,HR,yes,10.0,nan,Poor,Low,8.59,Medium,0.0,5.0,20.0,Laptop,Low,nan,2.0,4.29,5.0
+E001,42,male,nan,yes,8.0,8,Good,Low,4.3,Low,3.0,1.0,10.0,Mobile,Low,Stressed,2.0,6.22,0.0
+E001,42,Male,Sales,nan,6.0,7,Fair,nan,4.3,Low,2.0,5.0,20.0,Mobile,nan,Calm,2.0,7.99,5.0
+E006,27,M,HR,nan,8.0,8,Good,nan,4.51,Low,3.0,4.0,50.0,nan,Low,Stressed,1.0,3.65,2.0
+E006,45,Female,HR,nan,4.0,7,nan,High,3.81,Low,3.0,5.0,100.0,Desktop,Low,nan,,2.94,3.0
+E001,52,M,it,yes,6.0,6 hrs,nan,Low,10.29,Medium,1.0,6.0,150.0,Mobile,Medium,Stressed,4.0,6.1,1.0
+E005,40,nan,Sales,no,12.0,nan,Poor,nan,1.64,Medium,2.0,5.0,,Mobile,Low,Stressed,4.0,4.46,0.0
+E006,33,Female,hr,nan,4.0,6 hrs,Fair,High,10.37,Low,,5.0,100.0,nan,Medium,Stressed,3.0,6.06,2.0
+E006,35,Female,HR,no,8.0,7,Fair,nan,6.28,Medium,2.0,5.0,100.0,Mobile,Medium,Tired,5.0,6.64,5.0
+E004,33,F,Sales,no,10.0,nan,Good,Low,4.83,Medium,2.0,1.0,50.0,nan,Low,Tired,3.0,1.71,1.0
+E004,36,Female,Admin,Yes,12.0,8,nan,Low,3.32,High,4.0,2.0,10.0,Desktop,Medium,Calm,2.0,7.38,1.0
+E006,40,Female,HR,yes,,10.5 hrs,Fair,Low,4.92,Medium,0.0,2.0,100.0,Desktop,nan,Stressed,0.0,3.66,
+E002,49,FEMALE,it,no,6.0,8,Poor,Low,3.87,nan,4.0,3.0,10.0,nan,Medium,Stressed,0.0,5.96,5.0
+E005,26,FEMALE,it,yes,,10.5 hrs,Poor,Medium,7.76,Low,,2.0,10.0,nan,Low,Stressed,,4.68,0.0
+E003,26,F,hr,yes,4.0,8,Fair,Medium,6.26,Medium,2.0,2.0,50.0,Desktop,nan,Tired,2.0,4.9,0.0
+E006,27,Male,it,Yes,6.0,7,Poor,Medium,8.34,Low,1.0,2.0,100.0,Desktop,nan,nan,5.0,9.39,0.0
+E004,44,male,Sales,yes,6.0,6 hrs,Fair,High,4.42,Medium,,,,nan,Low,Stressed,4.0,6.64,0.0
+E005,24,nan,nan,no,12.0,10.5 hrs,Fair,High,5.28,Low,3.0,5.0,50.0,Laptop,High,Happy,3.0,7.81,2.0
+E005,54,nan,it,No,12.0,7,Fair,nan,4.81,nan,3.0,,50.0,Desktop,Medium,Calm,1.0,6.3,0.0
+E004,42,Female,nan,no,12.0,6 hrs,Fair,nan,4.25,Medium,4.0,5.0,150.0,Desktop,Medium,Tired,0.0,7.24,0.0
+E005,41,M,hr,no,12.0,6 hrs,Good,High,2.94,Medium,,6.0,,nan,High,nan,,6.83,0.0
+E005,22,nan,Admin,yes,10.0,nan,Fair,nan,6.44,nan,4.0,1.0,50.0,nan,nan,Happy,3.0,6.51,
+E004,38,FEMALE,IT,no,8.0,nan,Poor,High,5.68,Medium,1.0,,150.0,nan,High,Stressed,0.0,8.21,2.0
+E001,50,male,HR,No,12.0,nan,nan,Medium,4.91,Low,3.0,5.0,10.0,Laptop,Low,Tired,4.0,6.31,3.0
+E006,29,Male,HR,yes,4.0,10.5 hrs,Good,High,6.01,nan,4.0,5.0,,nan,High,Stressed,4.0,10.57,1.0
+E002,47,male,Sales,nan,6.0,10.5 hrs,nan,High,4.18,High,0.0,2.0,,Laptop,nan,Calm,2.0,7.92,4.0
+E003,49,Female,hr,no,,6 hrs,nan,nan,5.03,Low,4.0,1.0,10.0,nan,Low,Tired,2.0,3.72,5.0
+E002,47,male,hr,no,12.0,10.5 hrs,nan,nan,6.72,Medium,4.0,1.0,20.0,nan,Low,Happy,0.0,5.65,
+E001,34,Female,hr,Yes,4.0,6 hrs,nan,High,7.0,Low,2.0,2.0,,Laptop,Low,nan,0.0,6.79,1.0
+E001,34,F,HR,nan,10.0,7,nan,Low,8.06,nan,0.0,,20.0,Mobile,Medium,nan,3.0,6.09,2.0
+E005,46,FEMALE,it,nan,4.0,8,Poor,nan,2.78,Medium,0.0,2.0,10.0,Desktop,Medium,Calm,2.0,7.37,5.0
+E002,44,FEMALE,HR,No,,6 hrs,Fair,High,3.07,Medium,1.0,1.0,100.0,nan,Low,nan,,7.59,0.0
+E001,43,Female,HR,nan,,6 hrs,Poor,nan,2.7,nan,2.0,4.0,20.0,Mobile,High,nan,,3.28,2.0
+E002,42,M,HR,Yes,4.0,7,Good,Low,3.7,High,0.0,2.0,50.0,Laptop,Medium,Calm,4.0,8.56,
+E001,51,FEMALE,Admin,No,10.0,nan,Poor,nan,4.33,Medium,2.0,2.0,,nan,nan,Happy,5.0,5.01,
+E003,32,M,Admin,nan,,nan,Good,High,5.87,Medium,2.0,1.0,20.0,Laptop,Medium,Tired,3.0,4.81,3.0
+E001,25,Female,it,No,10.0,nan,Fair,High,7.33,Medium,3.0,,,Laptop,High,Tired,3.0,4.8,4.0
+E002,54,F,IT,nan,6.0,6 hrs,nan,Low,4.21,High,0.0,4.0,10.0,Laptop,Medium,Calm,1.0,7.62,3.0
+E005,33,Female,Sales,nan,12.0,6 hrs,Fair,High,6.15,Low,3.0,6.0,100.0,Mobile,High,Stressed,,5.47,0.0
+E002,30,F,IT,nan,,10.5 hrs,Poor,Low,7.56,High,4.0,4.0,10.0,Laptop,High,Calm,5.0,4.67,2.0
+E004,53,nan,IT,no,4.0,10.5 hrs,Poor,High,4.09,Low,4.0,3.0,100.0,Desktop,Medium,Calm,4.0,5.15,2.0
+E002,32,FEMALE,HR,nan,8.0,8,Fair,High,4.44,Medium,3.0,4.0,,nan,High,Calm,3.0,2.41,0.0
+E003,45,M,IT,no,8.0,8,Fair,nan,5.13,Low,4.0,2.0,20.0,nan,High,Calm,5.0,4.32,0.0
+E006,28,Female,HR,yes,6.0,10.5 hrs,Poor,nan,1.65,Low,3.0,5.0,50.0,Desktop,nan,nan,1.0,3.52,4.0
+E003,29,nan,HR,Yes,8.0,6 hrs,Fair,Low,6.02,Low,1.0,1.0,50.0,nan,Low,nan,5.0,5.46,3.0
+E003,54,FEMALE,Sales,No,6.0,7,Good,nan,2.59,Low,2.0,6.0,10.0,Desktop,Low,Happy,2.0,7.33,0.0
+E001,46,nan,hr,No,12.0,10.5 hrs,Good,Medium,6.58,Medium,1.0,2.0,,Mobile,Medium,Calm,4.0,7.11,0.0
+E003,22,F,HR,yes,6.0,6 hrs,Poor,Low,4.14,nan,0.0,6.0,100.0,Laptop,High,Tired,2.0,8.51,3.0
+E002,24,Female,Admin,nan,10.0,10.5 hrs,Poor,Medium,3.98,High,1.0,1.0,20.0,Mobile,Medium,Stressed,1.0,8.07,0.0
+E006,49,nan,IT,Yes,10.0,nan,Fair,Low,3.04,Low,1.0,6.0,100.0,Desktop,Medium,nan,,4.94,5.0
+E005,54,nan,Sales,yes,10.0,10.5 hrs,Fair,Medium,6.08,Medium,4.0,4.0,100.0,Laptop,Low,Tired,4.0,6.04,4.0
+E003,22,F,nan,yes,,nan,nan,nan,6.07,Medium,,1.0,100.0,Mobile,High,nan,0.0,5.93,4.0
+E002,48,male,nan,No,10.0,6 hrs,Good,nan,4.09,Medium,,2.0,,Laptop,Medium,Happy,0.0,1.7,
+E001,31,F,nan,no,10.0,nan,Poor,High,8.6,Medium,3.0,5.0,20.0,Laptop,Medium,Stressed,0.0,3.57,3.0
+E001,33,male,IT,no,10.0,10.5 hrs,Poor,Medium,5.07,Low,0.0,2.0,,Mobile,Low,nan,5.0,5.67,
+E005,31,FEMALE,hr,nan,10.0,nan,Poor,High,4.97,High,,,100.0,nan,Low,Stressed,3.0,5.65,1.0
+E005,45,Female,it,nan,,7,Poor,Low,5.12,Medium,4.0,3.0,,Desktop,Low,Stressed,5.0,7.02,4.0
+E002,49,nan,hr,yes,10.0,nan,nan,Medium,3.64,High,0.0,1.0,50.0,Mobile,Medium,Tired,5.0,6.93,2.0
+E005,43,FEMALE,Sales,nan,10.0,nan,Good,High,3.01,High,2.0,2.0,10.0,Mobile,High,nan,5.0,2.46,2.0
+E005,37,Male,hr,no,12.0,8,nan,Low,4.25,High,3.0,4.0,150.0,nan,Low,Stressed,5.0,7.04,1.0
+E001,34,F,nan,Yes,,7,Good,Medium,6.27,nan,4.0,4.0,100.0,Desktop,Low,Calm,,6.36,4.0
+E002,44,FEMALE,hr,No,10.0,6 hrs,Poor,High,1.3,Medium,1.0,,50.0,Mobile,High,Stressed,0.0,7.25,
+E006,35,FEMALE,Sales,no,6.0,nan,Good,Medium,2.0,Medium,2.0,6.0,,Laptop,Medium,Stressed,3.0,8.13,0.0
+E005,53,nan,Sales,nan,12.0,7,Poor,Medium,3.78,Medium,1.0,2.0,50.0,Desktop,Medium,nan,3.0,5.71,5.0
+E002,24,male,nan,No,,6 hrs,nan,High,1.41,High,,6.0,10.0,nan,High,Calm,1.0,8.49,1.0
+E003,48,F,Admin,No,8.0,7,Good,nan,2.17,Medium,0.0,3.0,10.0,Mobile,Low,Stressed,0.0,4.22,0.0
+E001,40,male,IT,yes,4.0,8,Fair,nan,6.62,Medium,2.0,1.0,150.0,Laptop,nan,nan,4.0,4.11,5.0
+E006,43,Female,HR,nan,,6 hrs,Good,High,4.12,High,4.0,3.0,150.0,Desktop,High,nan,5.0,6.86,2.0
+E001,22,FEMALE,it,yes,12.0,6 hrs,Poor,Low,3.31,Medium,1.0,5.0,150.0,Mobile,nan,Stressed,3.0,5.26,5.0
+E001,26,F,it,No,10.0,nan,Fair,High,5.28,Low,,,20.0,Desktop,Medium,Happy,1.0,6.52,1.0
+E004,54,FEMALE,nan,yes,12.0,10.5 hrs,Poor,High,5.23,nan,1.0,6.0,20.0,Laptop,Medium,Happy,3.0,9.99,4.0
+E002,40,Female,Admin,nan,4.0,6 hrs,Fair,Medium,7.33,Low,0.0,2.0,50.0,Laptop,nan,Tired,4.0,6.79,2.0
+E003,27,M,it,no,4.0,6 hrs,Fair,nan,1.44,Low,0.0,6.0,,Desktop,Low,Happy,4.0,6.42,4.0
+E005,36,Female,hr,Yes,,8,Good,nan,3.15,Low,,3.0,10.0,Laptop,nan,Happy,0.0,4.26,0.0
+E003,54,male,Sales,no,10.0,8,Good,nan,3.81,High,3.0,,100.0,Laptop,Low,nan,,2.6,4.0
+E002,45,male,Admin,No,10.0,8,Fair,nan,5.78,Medium,,5.0,10.0,Desktop,High,nan,3.0,5.85,5.0
+E001,48,FEMALE,Sales,no,6.0,nan,Fair,High,10.78,Low,3.0,3.0,20.0,Desktop,Medium,Stressed,,8.13,1.0
+E004,32,male,nan,yes,4.0,6 hrs,Fair,Medium,6.17,Low,,5.0,50.0,nan,Medium,Stressed,4.0,5.35,0.0
+E002,44,F,Sales,nan,10.0,8,Poor,nan,4.47,Medium,,,100.0,Mobile,nan,nan,2.0,6.8,1.0
+E006,54,Female,HR,no,4.0,8,Good,nan,2.57,High,0.0,4.0,150.0,nan,High,Stressed,4.0,8.85,5.0
+E006,50,FEMALE,Sales,no,6.0,7,Poor,Medium,2.32,Low,3.0,4.0,150.0,nan,nan,nan,4.0,8.8,0.0
+E002,52,Female,Sales,nan,8.0,7,Good,High,6.81,Medium,,2.0,20.0,nan,nan,Happy,3.0,6.86,
+E005,22,Female,Admin,yes,4.0,8,nan,High,3.41,Medium,1.0,3.0,50.0,nan,nan,Stressed,5.0,6.34,
+E003,39,FEMALE,hr,Yes,6.0,nan,Poor,High,4.29,nan,0.0,4.0,,Mobile,Low,Happy,4.0,2.96,1.0
+E003,39,nan,IT,no,6.0,10.5 hrs,Good,nan,8.31,Low,2.0,6.0,10.0,Desktop,Medium,Tired,1.0,4.74,2.0
+E005,27,M,it,No,6.0,7,Fair,nan,1.57,Low,0.0,,20.0,Laptop,Medium,Stressed,5.0,5.44,
+E004,22,nan,hr,yes,12.0,7,Fair,nan,5.54,nan,,1.0,,Laptop,nan,nan,4.0,4.3,1.0
+E001,51,male,hr,yes,,6 hrs,Good,High,3.19,Medium,4.0,,,Desktop,Low,nan,2.0,6.5,2.0
+E001,25,Male,hr,no,10.0,6 hrs,Fair,nan,8.27,Medium,4.0,6.0,10.0,Desktop,Medium,Tired,4.0,9.82,5.0
+E006,53,nan,it,nan,4.0,8,Fair,Low,3.12,Low,0.0,4.0,100.0,Desktop,Low,nan,0.0,9.04,3.0
+E004,31,Male,nan,no,,6 hrs,nan,Medium,6.34,Low,2.0,4.0,10.0,Laptop,High,Happy,3.0,6.49,4.0
+E005,26,Male,hr,no,12.0,6 hrs,nan,Low,1.38,nan,0.0,3.0,100.0,nan,Low,nan,2.0,7.56,
+E002,30,male,IT,nan,4.0,10.5 hrs,nan,Low,8.11,Low,2.0,5.0,,nan,Low,Tired,1.0,4.54,0.0
+E003,26,M,nan,No,,nan,Poor,nan,6.84,Low,,1.0,50.0,nan,High,Calm,,8.93,4.0
+E002,32,Female,Sales,nan,12.0,8,nan,Medium,3.89,High,1.0,1.0,20.0,Mobile,Medium,Calm,4.0,2.88,5.0
+E003,48,FEMALE,IT,no,10.0,10.5 hrs,nan,Low,5.79,nan,1.0,5.0,10.0,nan,Medium,Happy,4.0,7.83,2.0
+E002,25,M,Admin,Yes,6.0,8,nan,High,6.91,Medium,2.0,3.0,50.0,Mobile,Low,Calm,,6.99,
+E005,31,Male,nan,nan,,nan,Good,High,5.31,Low,3.0,4.0,50.0,Laptop,Low,nan,,4.49,2.0
+E005,54,F,Sales,No,,8,Fair,High,4.22,Medium,1.0,5.0,10.0,Mobile,High,Tired,,5.58,2.0
+E004,29,male,Sales,nan,4.0,6 hrs,Good,High,4.8,Low,4.0,,150.0,Desktop,High,Happy,1.0,3.73,1.0
+E002,45,nan,hr,nan,6.0,nan,nan,Medium,5.22,High,0.0,,,Desktop,Medium,Calm,,3.82,4.0
+E002,54,male,hr,yes,10.0,10.5 hrs,Poor,High,5.11,nan,,,150.0,Laptop,Medium,nan,4.0,2.82,
+E004,40,nan,it,yes,4.0,10.5 hrs,Good,Medium,5.87,nan,3.0,1.0,100.0,nan,High,nan,,7.54,2.0
+E004,23,FEMALE,HR,no,8.0,7,nan,Medium,2.96,Medium,4.0,1.0,50.0,Laptop,Low,Stressed,0.0,8.41,3.0
+E005,32,F,IT,no,8.0,10.5 hrs,Poor,Medium,3.7,High,0.0,,20.0,Desktop,High,Stressed,5.0,1.68,5.0
+E005,38,Female,it,nan,8.0,7,Poor,Medium,4.22,Medium,4.0,,20.0,nan,Medium,Tired,5.0,9.68,2.0
+E006,24,M,it,Yes,10.0,6 hrs,Poor,nan,5.94,High,3.0,,50.0,Desktop,Low,Happy,2.0,5.98,
+E002,43,F,IT,no,8.0,10.5 hrs,Fair,Low,1.94,Low,2.0,4.0,150.0,Laptop,nan,Calm,4.0,6.58,4.0
+E005,42,M,nan,nan,,nan,Poor,nan,5.31,Low,0.0,4.0,,nan,nan,Calm,1.0,3.06,2.0
+E005,46,M,Admin,nan,4.0,7,nan,Low,6.56,High,4.0,2.0,50.0,Laptop,High,nan,,8.64,2.0
+E002,23,Female,IT,nan,,10.5 hrs,Good,nan,5.1,Low,,6.0,100.0,Desktop,Medium,Calm,1.0,6.4,0.0
+E004,22,Female,Sales,nan,8.0,6 hrs,Good,High,5.15,nan,,5.0,50.0,nan,Low,Tired,2.0,8.28,2.0
+E002,28,nan,Admin,nan,4.0,nan,nan,Medium,4.39,High,4.0,4.0,10.0,Desktop,nan,Stressed,0.0,8.44,4.0
+E001,41,Female,HR,yes,,nan,Fair,High,5.12,High,3.0,2.0,150.0,nan,Low,nan,2.0,8.67,5.0
+E002,27,FEMALE,nan,No,10.0,6 hrs,Fair,High,4.12,Medium,3.0,3.0,10.0,Mobile,Low,Happy,4.0,4.7,0.0
+E001,42,male,hr,No,6.0,10.5 hrs,Poor,High,4.67,High,,,10.0,Mobile,Low,nan,5.0,5.58,0.0
+E002,29,Male,HR,nan,,8,nan,nan,4.12,Medium,,1.0,50.0,Desktop,Low,Calm,0.0,4.78,2.0
+E001,25,Female,HR,no,12.0,10.5 hrs,Poor,High,4.64,High,3.0,5.0,,Laptop,High,Tired,0.0,7.79,2.0
+E001,37,male,hr,Yes,8.0,7,Poor,Medium,4.36,nan,2.0,6.0,50.0,Mobile,Low,Happy,1.0,6.67,3.0
+E002,24,nan,HR,nan,12.0,7,nan,Medium,2.64,nan,1.0,3.0,,Mobile,nan,nan,0.0,8.14,
+E006,28,Female,nan,Yes,6.0,10.5 hrs,Fair,Low,1.99,nan,4.0,5.0,20.0,nan,nan,Calm,4.0,8.23,
+E005,23,Male,nan,yes,10.0,7,Fair,nan,5.16,Medium,2.0,5.0,,nan,High,nan,,2.55,4.0
+E003,22,F,nan,No,,8,Good,Medium,6.21,Medium,4.0,4.0,10.0,nan,nan,Happy,4.0,8.7,5.0
+E005,22,Female,it,yes,10.0,8,nan,Medium,8.11,Low,,2.0,50.0,Desktop,Low,Calm,,7.9,
+E001,28,male,it,no,6.0,nan,Poor,nan,7.2,Medium,2.0,5.0,20.0,Laptop,nan,Stressed,4.0,5.26,4.0
+E002,45,nan,nan,no,12.0,7,nan,High,6.81,Medium,,6.0,10.0,Laptop,Medium,Happy,5.0,6.7,1.0
+E002,26,nan,hr,nan,,10.5 hrs,Poor,Medium,5.46,nan,,3.0,20.0,nan,Low,Stressed,3.0,5.75,5.0
+E002,42,FEMALE,hr,no,8.0,nan,Good,High,5.24,High,,6.0,150.0,Desktop,High,Stressed,0.0,7.23,1.0
+E002,49,nan,IT,no,4.0,8,Good,Medium,3.42,Medium,0.0,5.0,100.0,nan,Medium,Calm,0.0,5.26,4.0
+E006,39,F,IT,yes,10.0,nan,Good,Low,3.2,Low,1.0,6.0,10.0,Laptop,nan,nan,4.0,6.96,2.0
+E003,45,nan,nan,Yes,6.0,6 hrs,Good,High,5.38,High,,6.0,50.0,Desktop,Medium,nan,,6.13,0.0
+E004,53,nan,Admin,No,,7,Poor,Medium,3.33,Medium,4.0,,,nan,nan,Tired,1.0,5.14,3.0
+E001,54,F,HR,no,12.0,10.5 hrs,Fair,nan,4.82,High,3.0,2.0,150.0,nan,nan,Happy,5.0,6.38,2.0
+E003,31,F,HR,no,8.0,8,Poor,nan,0.0,High,1.0,1.0,20.0,Laptop,nan,Happy,0.0,11.41,5.0
+E005,30,Male,hr,yes,12.0,nan,Good,nan,5.93,High,4.0,5.0,100.0,Desktop,High,Calm,3.0,4.63,5.0
+E004,54,male,Admin,No,8.0,10.5 hrs,Fair,Medium,2.93,High,0.0,3.0,,Laptop,Medium,Calm,0.0,5.5,0.0
+E004,54,M,HR,yes,,7,nan,High,2.14,High,,,10.0,Desktop,High,Tired,2.0,4.66,5.0
+E002,28,nan,Sales,Yes,4.0,10.5 hrs,Poor,Low,6.44,Medium,4.0,,100.0,Desktop,nan,Tired,3.0,4.87,4.0
+E003,25,M,it,yes,4.0,7,nan,Low,6.93,High,4.0,1.0,150.0,nan,Low,Stressed,1.0,7.63,
+E005,49,M,HR,No,6.0,7,Good,Medium,4.83,High,4.0,6.0,100.0,Laptop,Low,Tired,3.0,7.43,5.0
+E002,44,FEMALE,HR,No,6.0,7,nan,Medium,3.57,Low,1.0,1.0,10.0,Desktop,High,nan,3.0,5.99,2.0
+E002,53,Female,IT,no,8.0,nan,Fair,Medium,6.44,Low,,4.0,150.0,Mobile,Low,Stressed,0.0,8.05,5.0
+E006,37,nan,Sales,Yes,8.0,7,Fair,High,3.46,High,4.0,4.0,20.0,nan,Medium,Tired,3.0,7.59,3.0
+E001,31,Female,HR,nan,8.0,10.5 hrs,Fair,nan,4.68,Medium,3.0,5.0,10.0,Laptop,Low,nan,4.0,5.68,
+E004,35,Female,it,no,8.0,6 hrs,Poor,High,7.7,Low,,,100.0,Desktop,Low,nan,5.0,2.93,5.0
+E005,45,FEMALE,HR,yes,,10.5 hrs,nan,High,5.75,Low,2.0,3.0,10.0,nan,nan,Stressed,3.0,7.66,
+E004,39,M,hr,yes,,nan,nan,Medium,4.91,High,3.0,4.0,150.0,Laptop,Medium,Stressed,0.0,6.34,1.0
+E003,37,F,Sales,No,4.0,7,nan,Low,4.45,Medium,0.0,6.0,100.0,Laptop,Medium,nan,4.0,6.04,0.0
+E001,46,Female,HR,No,6.0,6 hrs,Good,High,5.09,nan,1.0,2.0,20.0,nan,Low,Calm,1.0,5.07,2.0
+E002,29,F,Admin,No,6.0,nan,Poor,Low,5.53,Medium,2.0,2.0,,Desktop,nan,Stressed,2.0,7.49,3.0
+E001,45,F,Sales,nan,10.0,8,Poor,Medium,2.75,Low,1.0,6.0,50.0,nan,Low,Happy,3.0,6.7,2.0
+E002,41,FEMALE,HR,nan,6.0,8,nan,High,7.42,Low,1.0,1.0,20.0,Mobile,Low,Calm,4.0,5.53,4.0
+E001,51,FEMALE,it,no,6.0,8,Poor,nan,4.08,Low,4.0,6.0,10.0,nan,High,Happy,4.0,3.55,0.0
+E002,41,male,it,nan,12.0,6 hrs,nan,nan,4.59,Low,3.0,1.0,50.0,Laptop,nan,Tired,1.0,8.14,4.0
+E004,39,nan,Sales,No,12.0,10.5 hrs,nan,High,6.63,Low,2.0,1.0,,Mobile,High,Stressed,1.0,7.21,5.0
+E004,25,Female,nan,no,10.0,6 hrs,nan,nan,4.72,High,4.0,2.0,,Mobile,Low,Stressed,2.0,6.51,4.0
+E004,27,M,IT,no,8.0,6 hrs,Fair,High,6.76,High,2.0,4.0,150.0,Desktop,Low,nan,2.0,0.69,5.0
+E004,24,Male,IT,Yes,10.0,6 hrs,Good,nan,4.91,High,,6.0,,nan,nan,Stressed,0.0,5.92,1.0
+E001,39,FEMALE,hr,nan,10.0,8,Poor,Medium,5.2,Low,,4.0,100.0,Desktop,Medium,Happy,2.0,5.52,4.0
+E002,39,F,nan,yes,4.0,10.5 hrs,Good,nan,5.43,High,3.0,5.0,100.0,nan,Low,Calm,2.0,4.76,3.0
+E004,44,male,IT,yes,,6 hrs,Fair,nan,5.75,Low,4.0,3.0,150.0,Laptop,Low,Tired,,7.51,0.0
+E001,27,Male,Sales,Yes,6.0,10.5 hrs,Poor,Medium,6.12,Medium,2.0,2.0,,Desktop,High,Calm,4.0,7.43,1.0
+E002,47,FEMALE,IT,No,4.0,7,nan,Medium,7.1,nan,,,10.0,Laptop,High,Happy,3.0,6.87,
+E001,42,male,hr,Yes,,6 hrs,Good,nan,6.99,Medium,4.0,1.0,20.0,Laptop,nan,Tired,,8.08,2.0
+E006,45,F,HR,No,6.0,6 hrs,Fair,Low,3.41,nan,1.0,3.0,50.0,Mobile,High,nan,,3.96,4.0
+E004,36,Female,IT,nan,10.0,6 hrs,Poor,Low,7.91,High,,1.0,150.0,Desktop,Medium,Stressed,,5.09,2.0
+E003,48,nan,Sales,nan,6.0,7,Poor,High,1.6,nan,0.0,3.0,,nan,Low,Stressed,3.0,6.15,1.0
+E001,53,nan,Sales,no,8.0,7,Good,nan,3.74,Medium,2.0,3.0,10.0,Desktop,High,nan,5.0,4.76,2.0
+E004,33,male,hr,no,8.0,8,Good,High,4.72,Medium,,4.0,10.0,Laptop,Medium,Happy,2.0,7.45,3.0
+E005,26,FEMALE,Admin,no,10.0,nan,Poor,Medium,2.67,nan,3.0,,50.0,Mobile,Low,nan,,4.96,1.0
+E002,28,nan,hr,no,12.0,10.5 hrs,Poor,nan,5.56,Medium,2.0,5.0,150.0,Desktop,Low,Happy,5.0,8.6,0.0
+E006,43,nan,Admin,yes,8.0,nan,Fair,Medium,6.48,High,0.0,5.0,20.0,Mobile,Medium,Tired,5.0,4.14,0.0
+E004,48,Female,it,no,10.0,6 hrs,nan,nan,3.57,Medium,2.0,1.0,20.0,Mobile,Low,Calm,0.0,10.26,
+E005,36,F,it,no,4.0,6 hrs,nan,nan,5.93,nan,2.0,2.0,150.0,Laptop,Medium,Calm,0.0,10.06,0.0
+E001,47,M,it,no,12.0,8,Fair,Medium,6.67,High,,5.0,100.0,Desktop,Medium,nan,3.0,5.81,0.0
+E001,44,nan,Admin,No,8.0,nan,Poor,nan,1.13,nan,2.0,2.0,,Desktop,High,Stressed,1.0,8.29,1.0
+E005,34,male,HR,no,10.0,6 hrs,Good,nan,5.35,Low,3.0,1.0,20.0,Desktop,nan,nan,4.0,5.2,1.0
+E006,47,Male,Sales,Yes,10.0,nan,Good,High,5.75,Low,0.0,2.0,100.0,Mobile,Medium,Stressed,2.0,8.03,5.0
+E005,24,F,it,no,4.0,8,Poor,Medium,3.17,High,,3.0,150.0,nan,High,nan,4.0,5.65,1.0
+E002,50,Female,Sales,no,4.0,nan,Fair,Low,2.61,High,0.0,3.0,,Desktop,Low,nan,,3.43,4.0
+E001,23,F,hr,yes,12.0,10.5 hrs,Poor,Low,3.62,Medium,3.0,1.0,10.0,Laptop,High,Calm,2.0,-1.07,5.0
+E005,49,Female,HR,no,,8,Good,nan,4.63,nan,2.0,2.0,150.0,Mobile,Medium,Stressed,2.0,5.46,1.0
+E003,44,F,hr,No,8.0,nan,Poor,High,3.5,Low,2.0,,10.0,nan,High,Calm,5.0,6.56,1.0
+E003,27,M,Sales,nan,10.0,6 hrs,Poor,nan,6.11,Medium,,,150.0,Desktop,nan,Stressed,3.0,8.66,
+E005,32,male,nan,no,12.0,7,Fair,High,5.85,Low,0.0,2.0,100.0,nan,Low,Tired,4.0,6.07,1.0
+E002,38,Male,Admin,no,12.0,7,nan,nan,5.75,Medium,2.0,1.0,,Mobile,High,Tired,4.0,8.01,0.0
+E001,24,nan,nan,no,4.0,8,Good,Low,7.52,Medium,1.0,,100.0,nan,Low,Tired,1.0,5.09,3.0
+E003,43,M,it,yes,10.0,7,Good,Medium,6.29,Low,2.0,5.0,,Mobile,Medium,Happy,1.0,5.33,0.0
+E005,50,male,nan,nan,6.0,10.5 hrs,Poor,High,5.57,Medium,2.0,4.0,150.0,nan,nan,Calm,4.0,8.11,5.0
+E005,50,Male,hr,yes,,8,Good,nan,2.55,Low,4.0,5.0,10.0,nan,nan,Calm,1.0,1.07,
+E004,26,F,Admin,yes,,6 hrs,Good,nan,7.31,High,0.0,6.0,150.0,Mobile,High,Tired,1.0,6.03,3.0
+E005,31,nan,nan,yes,4.0,6 hrs,nan,High,7.53,nan,0.0,4.0,10.0,nan,Low,nan,2.0,5.2,
+E002,31,Male,IT,No,10.0,8,Good,High,4.34,Medium,1.0,2.0,100.0,Laptop,Low,Calm,3.0,8.72,3.0
+E003,30,FEMALE,HR,nan,12.0,7,Good,Low,3.38,Low,1.0,4.0,50.0,Desktop,High,Stressed,,4.94,
+E004,42,Male,Sales,No,,7,Fair,High,6.51,Low,1.0,,20.0,nan,High,Calm,2.0,7.03,3.0
+E003,34,male,Admin,No,12.0,6 hrs,Fair,nan,1.36,nan,0.0,4.0,100.0,nan,High,Calm,5.0,7.84,
+E003,31,M,it,nan,8.0,10.5 hrs,Fair,Low,5.8,nan,4.0,2.0,150.0,nan,High,Stressed,1.0,3.01,5.0
+E002,32,nan,hr,No,6.0,7,Fair,Low,7.99,nan,4.0,3.0,150.0,Desktop,nan,Tired,2.0,5.72,5.0
+E005,25,M,HR,nan,4.0,10.5 hrs,Fair,Medium,4.24,Medium,3.0,4.0,10.0,Mobile,High,Tired,2.0,5.14,0.0
+E002,52,nan,it,no,,7,nan,Medium,5.48,Low,0.0,,20.0,Desktop,Low,Stressed,0.0,7.89,4.0
+E005,54,FEMALE,hr,yes,8.0,8,Good,Medium,5.2,Medium,3.0,,,nan,Medium,Calm,2.0,7.35,
+E004,29,male,nan,No,8.0,nan,Poor,High,7.09,Medium,2.0,1.0,100.0,Mobile,Low,Calm,2.0,5.53,2.0
+E002,53,Male,Admin,nan,6.0,6 hrs,nan,Low,5.21,High,1.0,5.0,20.0,nan,High,Tired,3.0,3.91,4.0
+E002,54,FEMALE,Sales,Yes,4.0,8,Poor,High,4.31,nan,3.0,2.0,20.0,Mobile,nan,Happy,4.0,8.08,0.0
+E006,29,F,Admin,No,4.0,7,Fair,Low,1.96,High,,2.0,100.0,nan,High,Tired,0.0,5.86,3.0
+E001,35,Female,IT,No,12.0,6 hrs,Good,nan,5.19,High,3.0,4.0,10.0,nan,Medium,Stressed,0.0,2.76,2.0
+E002,29,F,IT,nan,4.0,nan,Fair,High,4.86,Medium,0.0,3.0,,Mobile,High,Happy,0.0,2.94,4.0
+E006,28,male,Admin,Yes,8.0,nan,nan,Low,0.93,Medium,1.0,3.0,10.0,Laptop,Medium,Happy,5.0,6.88,
+E001,34,FEMALE,nan,Yes,12.0,7,Poor,Medium,2.99,Low,1.0,5.0,10.0,Desktop,High,Stressed,0.0,3.45,5.0
+E005,42,M,Sales,no,4.0,6 hrs,Good,Medium,3.8,High,4.0,5.0,50.0,Mobile,nan,nan,3.0,9.72,
+E005,53,FEMALE,HR,No,6.0,7,nan,nan,3.81,nan,3.0,,20.0,Desktop,Low,Tired,4.0,4.13,5.0
+E005,32,Female,Sales,yes,8.0,nan,nan,High,4.94,High,4.0,3.0,50.0,Laptop,Medium,Calm,5.0,6.0,1.0
+E006,35,male,nan,No,10.0,8,Good,Low,4.78,Low,3.0,6.0,10.0,Laptop,Low,Tired,3.0,6.32,5.0
+E006,32,FEMALE,hr,yes,6.0,8,Good,Medium,4.87,High,0.0,3.0,,Mobile,High,Stressed,0.0,4.54,4.0
+E001,23,nan,Admin,yes,6.0,10.5 hrs,nan,Low,9.52,High,0.0,3.0,100.0,Laptop,Low,Calm,4.0,1.52,0.0
+E005,38,F,Admin,nan,4.0,nan,Poor,High,4.12,High,2.0,4.0,20.0,Laptop,nan,nan,3.0,6.38,2.0
+E003,35,Male,Admin,No,12.0,nan,Poor,Medium,3.26,Low,3.0,,100.0,nan,nan,Stressed,4.0,4.49,1.0
+E002,46,F,Admin,nan,12.0,7,nan,nan,8.13,High,3.0,1.0,150.0,nan,Low,Tired,5.0,6.23,
+E006,48,male,HR,no,8.0,10.5 hrs,nan,nan,7.93,Medium,1.0,5.0,20.0,Laptop,Low,Happy,3.0,5.76,5.0
+E006,29,FEMALE,IT,yes,4.0,10.5 hrs,Fair,High,2.84,High,1.0,6.0,100.0,nan,nan,Stressed,,6.53,5.0
+E006,38,F,nan,Yes,12.0,6 hrs,Fair,High,7.43,Medium,4.0,6.0,10.0,Laptop,Medium,Stressed,4.0,9.12,
+E001,26,FEMALE,hr,yes,,7,Poor,Low,1.31,High,2.0,2.0,50.0,nan,Medium,Tired,3.0,4.91,2.0
+E005,33,F,nan,no,10.0,8,Fair,nan,10.74,Medium,0.0,3.0,100.0,Laptop,nan,nan,0.0,5.06,2.0
+E003,39,male,it,yes,,6 hrs,Poor,High,8.57,High,3.0,3.0,,Laptop,nan,Tired,0.0,2.67,
+E002,47,M,it,nan,4.0,10.5 hrs,Good,High,6.06,nan,4.0,1.0,150.0,Desktop,Medium,Tired,0.0,5.61,4.0
+E002,52,F,it,No,4.0,8,Fair,nan,6.72,Medium,2.0,,10.0,Laptop,Low,nan,5.0,6.82,5.0
+E005,27,Male,IT,Yes,12.0,nan,Poor,Low,5.89,nan,1.0,3.0,150.0,Desktop,Low,nan,,5.03,3.0
+E003,36,F,Sales,nan,6.0,7,Poor,Low,3.68,Medium,2.0,5.0,,Mobile,High,Stressed,3.0,6.83,5.0
+E001,47,male,HR,No,4.0,10.5 hrs,nan,nan,7.39,High,4.0,6.0,,Laptop,Medium,Happy,4.0,5.64,4.0
+E006,33,F,Admin,Yes,6.0,nan,Poor,nan,7.71,Low,0.0,3.0,50.0,Laptop,nan,Tired,4.0,3.4,1.0
+E006,35,Male,IT,no,8.0,10.5 hrs,Fair,nan,3.55,High,1.0,1.0,150.0,Desktop,High,Happy,1.0,6.62,0.0
+E005,22,nan,hr,yes,8.0,8,nan,nan,4.94,Low,,4.0,,Laptop,Low,nan,2.0,5.59,5.0
+E002,38,Male,hr,Yes,12.0,6 hrs,nan,nan,2.53,nan,1.0,5.0,100.0,nan,Medium,nan,,6.25,4.0
+E006,54,male,it,no,8.0,8,Fair,High,4.9,Low,0.0,4.0,,Desktop,High,Tired,,4.87,3.0
+E002,50,FEMALE,HR,No,,7,Good,Medium,4.46,Low,1.0,2.0,,Desktop,Low,Stressed,0.0,4.69,3.0
+E002,52,F,it,Yes,,7,Fair,nan,7.5,Low,4.0,1.0,100.0,nan,nan,Tired,0.0,6.31,4.0
+E005,29,M,hr,no,,10.5 hrs,Fair,Medium,8.2,Low,1.0,2.0,10.0,Laptop,Low,Stressed,0.0,5.54,1.0
+E004,51,Male,hr,No,12.0,8,nan,Low,2.87,nan,3.0,2.0,50.0,Mobile,Low,Calm,1.0,9.45,3.0
+E004,34,nan,Admin,nan,12.0,6 hrs,Fair,High,6.54,Low,2.0,6.0,50.0,Mobile,Medium,Stressed,1.0,7.6,3.0
+E004,37,Male,Sales,yes,,7,Good,Medium,6.76,High,4.0,2.0,20.0,Mobile,nan,Tired,1.0,7.09,5.0
+E003,23,F,Admin,no,6.0,6 hrs,Good,Low,1.5,Medium,0.0,2.0,20.0,Desktop,Medium,Tired,0.0,5.65,5.0
+E005,39,FEMALE,Sales,nan,,nan,Good,Low,6.93,Medium,4.0,1.0,100.0,Desktop,nan,Stressed,4.0,1.95,
+E002,40,F,Admin,No,6.0,10.5 hrs,nan,Low,2.04,High,3.0,4.0,,nan,High,Happy,0.0,4.38,1.0
+E006,34,nan,Sales,Yes,8.0,6 hrs,Fair,nan,3.98,nan,1.0,3.0,150.0,Laptop,Low,Stressed,,4.71,1.0
+E003,25,nan,it,yes,6.0,10.5 hrs,Poor,High,3.2,High,1.0,2.0,,nan,Medium,Calm,1.0,5.45,1.0
+E004,40,male,nan,No,4.0,nan,Fair,Low,1.86,High,,6.0,,Desktop,nan,Calm,1.0,5.93,
+E001,46,M,HR,no,10.0,6 hrs,Good,nan,7.21,Low,4.0,,150.0,Mobile,Medium,Happy,2.0,7.31,1.0
+E003,52,F,Sales,yes,4.0,6 hrs,Fair,Medium,3.12,Low,1.0,3.0,10.0,Laptop,Low,Calm,3.0,6.55,4.0
+E003,25,Male,IT,nan,4.0,nan,nan,High,4.21,nan,1.0,6.0,50.0,Mobile,Low,Tired,2.0,8.32,4.0
+E005,28,Male,Sales,yes,12.0,8,Fair,Medium,4.99,nan,3.0,3.0,100.0,Laptop,High,Happy,2.0,5.38,2.0
+E006,37,male,it,nan,10.0,6 hrs,nan,Medium,6.49,Medium,0.0,2.0,150.0,Mobile,nan,Happy,0.0,6.51,
+E003,26,FEMALE,HR,No,12.0,6 hrs,Poor,nan,3.06,nan,,5.0,20.0,Laptop,nan,Happy,3.0,6.69,2.0
+E006,44,F,Sales,Yes,6.0,7,Poor,Medium,5.97,High,,,100.0,Mobile,High,Stressed,,6.49,
+E005,53,Female,Admin,yes,,8,nan,High,4.54,Medium,,3.0,10.0,nan,High,Stressed,3.0,8.56,2.0
+E001,45,FEMALE,HR,Yes,6.0,6 hrs,Fair,Medium,2.98,Medium,2.0,5.0,100.0,Desktop,nan,Happy,0.0,7.61,3.0
+E002,46,Male,IT,Yes,10.0,nan,Good,nan,7.04,Low,4.0,4.0,150.0,nan,nan,Calm,4.0,3.36,1.0
+E002,49,nan,hr,yes,8.0,10.5 hrs,nan,Low,9.16,Low,0.0,3.0,10.0,Mobile,Medium,Tired,5.0,5.77,4.0
+E004,40,F,Admin,yes,6.0,nan,Fair,nan,5.41,Medium,2.0,1.0,,Laptop,nan,Tired,,5.97,4.0
+E004,28,nan,HR,Yes,4.0,8,Fair,Low,3.78,Low,0.0,6.0,20.0,nan,Medium,Stressed,0.0,10.3,1.0
+E001,38,Male,nan,no,10.0,7,Fair,Medium,3.53,Low,4.0,,20.0,Mobile,Medium,nan,4.0,5.34,2.0
+E002,23,M,Sales,no,10.0,7,Good,Low,6.61,Low,,4.0,150.0,Desktop,Medium,Happy,,4.04,5.0
+E004,37,FEMALE,Admin,yes,6.0,7,Good,nan,5.03,Medium,3.0,4.0,10.0,Laptop,Medium,nan,4.0,6.88,
+E006,39,Female,it,Yes,6.0,nan,Good,nan,2.88,Medium,3.0,,20.0,nan,Low,Tired,3.0,6.99,3.0
+E003,22,M,nan,Yes,12.0,10.5 hrs,nan,High,1.61,Medium,3.0,5.0,10.0,Desktop,High,Stressed,0.0,5.85,4.0
+E005,24,Female,nan,No,12.0,10.5 hrs,nan,High,5.76,High,0.0,2.0,100.0,Mobile,High,Stressed,0.0,5.56,0.0
+E004,42,M,it,Yes,4.0,6 hrs,Good,Low,2.47,Medium,4.0,6.0,50.0,Laptop,nan,Stressed,3.0,7.9,3.0
+E001,51,FEMALE,it,no,10.0,10.5 hrs,nan,Low,4.19,Low,1.0,1.0,50.0,Mobile,High,Stressed,2.0,4.29,3.0
+E002,32,Male,it,No,8.0,10.5 hrs,Good,High,8.26,Medium,1.0,,50.0,Laptop,High,Stressed,0.0,5.32,2.0
+E001,43,Female,nan,no,8.0,6 hrs,nan,Medium,3.34,High,3.0,,20.0,Desktop,Low,Happy,5.0,4.96,1.0
+E005,46,FEMALE,HR,nan,10.0,nan,Fair,High,7.11,Low,0.0,1.0,150.0,Desktop,Medium,nan,,8.19,
+E005,24,Female,it,yes,4.0,nan,Good,Medium,2.96,nan,1.0,5.0,50.0,Desktop,Medium,Tired,5.0,6.57,
+E001,51,FEMALE,hr,nan,12.0,8,nan,Low,6.75,Medium,0.0,5.0,,nan,Medium,Tired,1.0,3.87,0.0
+E004,45,M,nan,yes,12.0,nan,Fair,Low,6.15,Medium,4.0,4.0,150.0,nan,High,Stressed,1.0,4.07,2.0
+E004,44,FEMALE,nan,no,12.0,7,Fair,nan,5.98,nan,3.0,,50.0,nan,High,Stressed,0.0,9.75,1.0
+E002,29,M,nan,no,8.0,7,nan,nan,3.78,Low,2.0,5.0,100.0,Mobile,nan,Stressed,4.0,8.17,
+E006,25,Male,IT,nan,8.0,8,Fair,Medium,6.27,Medium,3.0,2.0,50.0,nan,Low,Calm,5.0,7.68,0.0
+E002,52,M,HR,yes,4.0,10.5 hrs,Poor,Medium,5.75,High,2.0,4.0,150.0,Laptop,Low,Tired,5.0,6.02,5.0
+E003,50,male,HR,yes,8.0,8,Good,High,8.78,Low,1.0,4.0,20.0,Desktop,nan,Stressed,3.0,9.02,5.0
+E006,34,Male,it,No,6.0,6 hrs,Good,Medium,3.77,Medium,,4.0,,Mobile,nan,nan,,3.79,4.0
+E003,30,nan,nan,Yes,8.0,8,Fair,Low,7.57,Low,2.0,1.0,100.0,Mobile,nan,Calm,5.0,7.51,0.0
+E002,42,nan,Admin,No,12.0,8,nan,Low,3.2,Medium,,6.0,150.0,nan,Medium,Happy,4.0,5.11,2.0
+E006,24,nan,nan,no,4.0,7,Poor,Low,4.52,nan,0.0,6.0,10.0,Laptop,Medium,Calm,1.0,5.5,0.0
+E006,46,F,it,nan,10.0,6 hrs,nan,nan,3.72,Medium,,1.0,50.0,Desktop,Medium,Calm,1.0,7.45,0.0
+E003,46,F,HR,yes,10.0,6 hrs,Good,Medium,4.01,Low,2.0,4.0,100.0,Mobile,Medium,Calm,,5.71,0.0
+E001,33,FEMALE,it,No,4.0,8,Fair,Medium,4.69,Medium,1.0,2.0,20.0,Desktop,nan,nan,3.0,5.13,4.0
+E004,50,FEMALE,it,nan,6.0,6 hrs,Poor,nan,7.88,Medium,1.0,3.0,10.0,Laptop,nan,Tired,1.0,5.01,5.0
+E006,32,male,it,nan,10.0,6 hrs,Fair,nan,5.91,Low,3.0,4.0,50.0,Desktop,nan,Stressed,,2.03,5.0
+E006,32,FEMALE,it,Yes,12.0,nan,Poor,nan,7.47,Medium,1.0,5.0,100.0,nan,Medium,nan,2.0,7.53,1.0
+E003,47,Male,it,yes,10.0,6 hrs,Fair,Low,5.03,Medium,0.0,,,Desktop,Medium,nan,1.0,3.99,0.0
+E006,35,Male,Sales,nan,10.0,10.5 hrs,nan,Medium,7.57,Low,2.0,,150.0,Mobile,High,Stressed,5.0,9.72,
+E003,37,nan,Sales,yes,12.0,6 hrs,Good,High,5.45,nan,4.0,6.0,50.0,nan,nan,Calm,4.0,5.42,3.0
+E001,31,M,nan,No,8.0,7,Fair,High,3.42,High,1.0,,100.0,nan,Low,Happy,4.0,8.62,
+E006,52,Female,nan,nan,6.0,nan,Fair,Medium,7.11,High,,3.0,50.0,nan,Low,Calm,2.0,2.38,2.0
+E005,52,FEMALE,Admin,nan,12.0,7,Poor,Medium,7.97,High,2.0,1.0,,nan,High,Calm,,7.46,3.0
+E002,31,male,Admin,No,12.0,7,nan,nan,6.28,High,3.0,1.0,100.0,Mobile,Medium,Tired,4.0,7.98,
+E001,47,nan,Sales,yes,,10.5 hrs,nan,nan,6.66,High,4.0,3.0,150.0,Laptop,nan,Calm,,8.61,1.0
+E005,41,F,HR,yes,4.0,nan,Poor,Low,7.56,High,3.0,6.0,50.0,Laptop,Medium,Happy,4.0,2.94,2.0
+E001,30,Male,IT,nan,6.0,8,nan,nan,4.46,Low,0.0,6.0,100.0,nan,Medium,nan,,4.59,1.0
+E004,36,Male,HR,No,8.0,6 hrs,Good,Medium,3.56,Low,3.0,5.0,10.0,Laptop,Low,Calm,4.0,7.15,
+E001,30,Male,Admin,no,,10.5 hrs,Fair,Low,5.73,Low,2.0,1.0,20.0,Mobile,Low,nan,0.0,6.3,2.0
+E001,28,Female,nan,yes,12.0,10.5 hrs,Poor,High,8.45,Medium,4.0,1.0,,Laptop,nan,Tired,2.0,6.59,5.0
+E004,47,Female,Sales,no,,8,nan,Medium,5.6,nan,3.0,4.0,100.0,Laptop,nan,Happy,,5.28,5.0
+E006,45,FEMALE,HR,nan,8.0,10.5 hrs,Good,High,6.26,nan,3.0,2.0,100.0,Mobile,Medium,Stressed,2.0,9.1,3.0
+E002,33,F,IT,no,,8,Good,Medium,5.15,High,,5.0,100.0,Laptop,Medium,Stressed,1.0,11.22,3.0
+E005,41,male,it,no,,8,nan,Medium,5.59,High,,4.0,50.0,nan,High,Tired,5.0,6.21,
+E003,35,Female,hr,yes,,8,nan,Low,3.94,Low,0.0,,,nan,Medium,Happy,2.0,6.91,4.0
+E002,43,M,Sales,nan,12.0,10.5 hrs,Poor,Low,6.1,nan,2.0,2.0,20.0,Mobile,High,nan,,6.11,
+E001,37,Female,Sales,no,12.0,8,nan,nan,6.76,Medium,3.0,,,nan,Medium,Tired,3.0,8.57,
+E003,50,Male,IT,yes,4.0,10.5 hrs,Poor,Medium,1.99,Medium,2.0,1.0,50.0,nan,Medium,Calm,2.0,7.66,
+E004,53,male,it,no,10.0,nan,Fair,Medium,2.0,Low,1.0,2.0,100.0,nan,Medium,nan,,3.87,1.0
+E002,40,FEMALE,it,yes,6.0,8,Good,Low,1.49,High,0.0,1.0,,nan,nan,Calm,3.0,4.77,3.0
+E006,53,Female,hr,nan,4.0,10.5 hrs,Poor,High,7.95,nan,,6.0,100.0,nan,nan,Calm,4.0,3.98,2.0
+E005,41,Male,it,No,8.0,10.5 hrs,Good,nan,3.15,Medium,0.0,4.0,20.0,Laptop,nan,nan,5.0,11.39,0.0
+E002,41,nan,IT,yes,,10.5 hrs,Fair,Medium,5.7,High,0.0,1.0,10.0,Mobile,High,Calm,,7.27,
+E002,29,M,nan,yes,12.0,6 hrs,nan,Low,8.57,nan,2.0,2.0,50.0,Desktop,High,Stressed,3.0,4.81,0.0
+E006,34,M,it,no,,6 hrs,Poor,Medium,5.67,Medium,,4.0,10.0,Mobile,nan,nan,5.0,4.65,0.0
+E003,27,nan,nan,nan,12.0,8,nan,Low,6.03,High,,2.0,,Mobile,High,Tired,5.0,7.61,4.0
+E004,37,FEMALE,Admin,Yes,6.0,nan,Good,nan,3.31,Medium,3.0,2.0,100.0,Mobile,nan,Stressed,0.0,7.81,
+E006,26,FEMALE,Admin,Yes,4.0,8,Poor,High,5.67,High,3.0,3.0,100.0,Laptop,Low,Tired,,7.6,3.0
+E004,27,Female,nan,No,4.0,7,Fair,Medium,3.01,High,2.0,1.0,150.0,Mobile,nan,Happy,5.0,5.15,1.0
+E006,54,FEMALE,IT,nan,8.0,7,Fair,Medium,1.19,High,2.0,1.0,150.0,Mobile,Low,Tired,4.0,6.61,1.0
+E002,36,F,Sales,yes,4.0,nan,nan,nan,5.1,nan,1.0,2.0,10.0,Laptop,Medium,nan,,6.22,
+E004,36,F,Sales,Yes,4.0,nan,Fair,High,5.64,Low,4.0,,150.0,nan,High,Tired,,4.13,
+E003,35,Male,Sales,No,10.0,nan,Fair,Medium,3.94,High,4.0,6.0,,Desktop,High,Happy,3.0,4.15,4.0
+E003,26,Male,HR,nan,6.0,6 hrs,nan,nan,3.51,High,0.0,1.0,20.0,nan,nan,Calm,5.0,6.82,2.0
+E005,47,Male,Sales,No,,6 hrs,nan,Medium,4.57,Medium,3.0,5.0,,Mobile,Medium,nan,4.0,6.39,5.0
+E004,38,F,IT,Yes,4.0,7,Poor,Medium,3.55,Medium,,6.0,10.0,nan,Medium,Stressed,0.0,7.11,
+E005,37,Female,hr,no,8.0,nan,Poor,nan,6.48,nan,0.0,6.0,,Laptop,Medium,Stressed,4.0,7.58,3.0
+E006,44,Female,Admin,no,,10.5 hrs,nan,nan,5.89,Low,,6.0,150.0,Desktop,Medium,Tired,4.0,9.0,3.0
+E001,34,FEMALE,it,nan,12.0,7,Good,Low,8.26,Medium,3.0,1.0,150.0,nan,High,Stressed,2.0,4.45,2.0
+E003,54,Female,Sales,No,4.0,nan,Good,Low,4.29,nan,3.0,6.0,20.0,Mobile,nan,Happy,1.0,7.26,2.0
+E002,50,Male,HR,yes,4.0,10.5 hrs,Poor,Medium,5.14,nan,1.0,6.0,,Desktop,nan,Stressed,3.0,7.5,3.0
+E003,48,male,Admin,Yes,,nan,Poor,nan,5.35,nan,2.0,4.0,20.0,Mobile,Low,Tired,1.0,5.38,3.0
+E001,36,Male,Admin,no,12.0,8,nan,High,4.25,High,2.0,1.0,10.0,nan,High,Stressed,0.0,6.24,0.0
+E002,30,F,nan,no,10.0,10.5 hrs,Good,High,1.03,Low,2.0,6.0,50.0,nan,Low,Calm,0.0,5.43,
+E004,47,nan,HR,No,6.0,8,nan,Medium,5.89,Low,4.0,,,Mobile,Medium,Calm,4.0,10.22,
+E004,24,male,IT,no,10.0,6 hrs,Poor,Low,9.67,Low,2.0,5.0,,Desktop,nan,Stressed,1.0,6.21,
+E003,26,FEMALE,hr,No,8.0,7,Fair,nan,7.0,High,4.0,6.0,20.0,Desktop,Low,nan,3.0,6.9,1.0
+E002,41,M,Sales,Yes,,nan,Fair,nan,8.92,High,,2.0,150.0,Desktop,High,Stressed,,5.47,0.0
+E006,41,nan,Sales,No,4.0,7,Fair,Low,6.79,Medium,0.0,1.0,10.0,nan,nan,Calm,3.0,5.04,0.0
+E002,26,Female,HR,no,10.0,nan,nan,nan,4.7,Medium,4.0,4.0,50.0,nan,High,Calm,,3.4,1.0
+E005,31,Female,IT,No,6.0,8,Good,Medium,6.2,Medium,3.0,5.0,,Mobile,nan,Happy,4.0,8.2,4.0
+E001,37,F,HR,no,8.0,10.5 hrs,Poor,nan,7.14,nan,1.0,3.0,10.0,Mobile,High,Tired,3.0,7.54,5.0
+E004,46,Male,HR,nan,10.0,10.5 hrs,Good,nan,1.8,Low,1.0,2.0,150.0,Laptop,High,Happy,2.0,5.4,4.0
+E003,46,Male,hr,no,4.0,nan,Good,Low,5.89,High,3.0,2.0,50.0,Laptop,nan,nan,,4.2,4.0
+E002,51,male,IT,no,6.0,8,Poor,Low,4.8,Medium,,2.0,50.0,Laptop,High,Tired,1.0,6.36,4.0
+E004,35,Female,hr,no,4.0,nan,Good,High,7.95,nan,0.0,5.0,20.0,Mobile,High,Stressed,0.0,5.0,2.0
+E003,43,nan,IT,nan,4.0,nan,Fair,Medium,5.74,High,1.0,1.0,100.0,Desktop,Medium,Stressed,3.0,5.56,0.0
+E004,49,F,Sales,yes,8.0,nan,Poor,Low,0.08,nan,3.0,1.0,150.0,Laptop,nan,nan,,3.47,2.0
+E003,51,nan,it,no,6.0,10.5 hrs,Fair,Low,5.88,nan,1.0,6.0,100.0,Mobile,Low,Calm,3.0,6.43,
+E004,40,FEMALE,nan,yes,12.0,nan,nan,Low,0.88,nan,4.0,6.0,150.0,nan,nan,Stressed,3.0,6.47,2.0
+E006,41,Male,it,Yes,4.0,10.5 hrs,Fair,nan,7.55,Low,,1.0,10.0,Desktop,nan,Happy,4.0,8.19,1.0
+E005,43,nan,Admin,No,6.0,6 hrs,nan,Medium,3.46,High,1.0,,100.0,Laptop,Medium,Calm,0.0,5.7,4.0
+E001,36,Female,IT,yes,4.0,8,nan,Medium,2.74,High,,6.0,,nan,Low,Stressed,,5.33,3.0
+E004,32,M,it,Yes,10.0,6 hrs,Poor,nan,3.46,nan,,,,Desktop,Low,Calm,1.0,2.89,4.0
+E001,45,F,HR,No,10.0,nan,Fair,nan,3.21,Low,4.0,1.0,,Desktop,Low,Tired,3.0,8.2,0.0
+E004,27,male,Sales,no,6.0,10.5 hrs,Fair,Low,4.69,nan,,2.0,50.0,nan,High,Stressed,2.0,7.79,2.0
+E002,38,Male,nan,no,8.0,8,Fair,High,3.28,Medium,4.0,3.0,20.0,Laptop,High,Stressed,5.0,6.06,0.0
+E005,49,Male,nan,no,12.0,7,Poor,High,4.4,High,1.0,2.0,150.0,Laptop,High,Calm,,3.34,2.0
+E006,52,FEMALE,Admin,nan,10.0,8,nan,Medium,1.92,High,1.0,,20.0,nan,Low,Tired,4.0,3.57,2.0
+E005,30,Male,nan,nan,8.0,8,nan,High,4.5,Low,,6.0,150.0,nan,nan,Happy,1.0,4.91,2.0
+E001,31,F,Sales,nan,12.0,nan,nan,Low,7.85,High,4.0,3.0,,nan,nan,Tired,3.0,7.93,3.0
+E002,42,Female,it,nan,10.0,6 hrs,Poor,nan,4.1,High,1.0,3.0,50.0,Mobile,Low,Happy,1.0,6.58,
+E003,52,Female,nan,Yes,12.0,6 hrs,Poor,Medium,6.25,High,,1.0,50.0,Desktop,Low,nan,4.0,3.01,4.0
+E005,50,Female,nan,Yes,,7,Good,Medium,2.49,Low,0.0,4.0,50.0,Laptop,Medium,Tired,,6.81,2.0
+E006,32,M,IT,no,4.0,nan,Fair,nan,6.16,nan,2.0,5.0,50.0,Laptop,High,Happy,5.0,4.32,1.0
+E002,54,M,HR,No,6.0,8,nan,High,7.28,High,2.0,4.0,50.0,nan,High,Calm,2.0,4.96,5.0
+E002,22,Male,IT,nan,10.0,6 hrs,Good,Medium,7.85,nan,3.0,3.0,,Desktop,High,Happy,,7.94,5.0
+E001,42,nan,it,No,10.0,6 hrs,Good,nan,5.4,Low,,4.0,20.0,nan,Medium,nan,3.0,7.53,2.0
+E006,44,M,Sales,Yes,4.0,10.5 hrs,Fair,nan,6.34,nan,2.0,6.0,10.0,Desktop,Medium,Happy,2.0,8.19,4.0
+E002,30,nan,Sales,nan,10.0,8,Poor,High,2.44,Medium,0.0,3.0,100.0,nan,Medium,Tired,4.0,5.95,4.0
+E002,22,nan,IT,Yes,10.0,nan,Good,High,4.23,High,,2.0,20.0,nan,Low,Happy,2.0,7.77,
+E003,42,M,hr,Yes,,6 hrs,Poor,Low,3.4,Low,2.0,6.0,,Desktop,Medium,Tired,4.0,4.83,
+E001,43,FEMALE,IT,yes,10.0,nan,Poor,High,5.66,Low,2.0,2.0,100.0,Laptop,nan,nan,5.0,5.48,3.0
+E001,25,M,hr,Yes,10.0,8,Fair,High,3.94,nan,0.0,6.0,10.0,Laptop,Low,Happy,2.0,5.35,2.0
+E006,22,male,Admin,no,10.0,8,Good,nan,6.37,High,4.0,1.0,150.0,Mobile,Low,Happy,1.0,6.05,1.0
+E002,31,male,IT,Yes,8.0,6 hrs,nan,Medium,9.94,Low,2.0,,10.0,Desktop,High,nan,,3.43,3.0
+E003,36,nan,hr,nan,10.0,7,Good,nan,6.24,Medium,3.0,6.0,10.0,Laptop,High,Happy,1.0,5.55,3.0
+E004,50,male,hr,no,4.0,nan,nan,Low,7.82,nan,2.0,5.0,,Laptop,Medium,Tired,4.0,8.9,2.0
+E005,26,Male,nan,Yes,,nan,nan,nan,2.63,Medium,2.0,2.0,150.0,Desktop,nan,Stressed,1.0,3.81,2.0
+E001,50,Female,Admin,no,10.0,10.5 hrs,Poor,Low,4.83,Medium,0.0,6.0,100.0,Laptop,Low,Stressed,5.0,3.34,3.0
+E003,48,FEMALE,nan,Yes,12.0,8,nan,High,5.43,nan,0.0,5.0,50.0,Desktop,Low,Tired,2.0,3.5,3.0
+E006,46,Male,hr,no,,8,Fair,Medium,5.13,Medium,,1.0,150.0,Laptop,Low,Happy,,11.32,3.0
+E003,37,Female,hr,No,,6 hrs,Good,Medium,8.69,nan,3.0,6.0,150.0,nan,High,Tired,2.0,6.93,0.0
+E002,37,FEMALE,HR,yes,12.0,6 hrs,Poor,nan,3.51,nan,1.0,,10.0,Desktop,High,nan,,5.46,3.0
+E005,46,nan,hr,no,4.0,6 hrs,Poor,Medium,5.65,Low,0.0,5.0,150.0,Desktop,nan,Tired,3.0,6.14,4.0
+E001,22,FEMALE,nan,nan,8.0,10.5 hrs,nan,Low,0.14,Low,1.0,,20.0,Laptop,High,Stressed,4.0,6.46,5.0
+E004,26,FEMALE,hr,yes,4.0,7,Poor,Low,5.85,Medium,3.0,6.0,50.0,Desktop,nan,Calm,1.0,4.72,1.0
+E002,41,male,Sales,yes,8.0,6 hrs,Fair,High,6.01,Medium,2.0,2.0,10.0,Mobile,High,nan,5.0,4.97,1.0
+E001,26,male,HR,Yes,6.0,6 hrs,Fair,nan,4.9,Medium,,2.0,100.0,Mobile,nan,Happy,4.0,5.68,5.0
+E006,50,male,hr,no,12.0,6 hrs,Poor,High,5.79,Medium,2.0,4.0,100.0,Desktop,High,Tired,1.0,4.55,2.0
+E001,39,FEMALE,nan,yes,,10.5 hrs,Poor,Medium,3.87,Medium,,4.0,100.0,Mobile,High,nan,3.0,5.21,
+E003,23,F,nan,nan,,nan,Fair,High,2.56,Low,1.0,6.0,100.0,Laptop,Medium,Stressed,2.0,6.71,3.0
+E005,37,FEMALE,it,nan,,7,nan,Medium,3.02,Medium,3.0,4.0,100.0,Laptop,Medium,Happy,,4.01,1.0
+E004,50,male,nan,nan,12.0,nan,Poor,Low,3.29,Medium,3.0,6.0,10.0,Desktop,Medium,Tired,2.0,11.22,1.0
+E005,54,FEMALE,HR,Yes,12.0,8,nan,nan,2.42,High,0.0,6.0,20.0,Laptop,nan,Tired,5.0,7.51,4.0
+E003,37,male,nan,No,8.0,8,Poor,nan,2.34,nan,1.0,,20.0,Laptop,nan,Happy,0.0,3.46,4.0
+E004,38,male,Sales,no,,6 hrs,Fair,High,3.34,nan,,5.0,100.0,Mobile,nan,Calm,4.0,1.04,0.0
+E004,25,male,IT,yes,4.0,nan,Poor,Medium,4.29,Low,0.0,2.0,20.0,Laptop,nan,Calm,1.0,4.62,5.0
+E002,25,nan,Sales,no,8.0,10.5 hrs,Poor,Low,5.26,nan,1.0,1.0,50.0,Laptop,Medium,nan,0.0,7.37,0.0
+E004,46,nan,Admin,yes,,7,Poor,Medium,2.55,Medium,0.0,3.0,20.0,Mobile,Low,Tired,4.0,6.98,1.0
+E001,54,F,Sales,Yes,12.0,nan,Fair,High,3.13,nan,0.0,2.0,150.0,nan,High,nan,,5.78,2.0
+E005,35,Female,HR,no,12.0,nan,Fair,Medium,3.77,Low,3.0,4.0,100.0,Desktop,High,Happy,1.0,4.8,1.0
+E006,45,FEMALE,HR,Yes,12.0,7,Fair,Low,5.87,nan,3.0,6.0,150.0,Desktop,nan,nan,3.0,4.19,2.0
+E006,32,Male,it,Yes,,nan,Good,High,2.61,nan,2.0,4.0,150.0,nan,Medium,Tired,4.0,5.19,
+E005,46,male,nan,no,12.0,nan,Good,Low,3.97,High,2.0,5.0,100.0,Mobile,Low,Calm,1.0,3.98,1.0
+E002,49,F,it,no,6.0,7,Good,High,6.94,High,3.0,4.0,,Mobile,Medium,Calm,,5.2,4.0
+E004,28,Male,HR,yes,12.0,10.5 hrs,Good,nan,3.41,Medium,3.0,5.0,10.0,Laptop,High,Happy,2.0,8.66,3.0
+E003,31,nan,nan,nan,,7,Fair,Medium,2.51,nan,0.0,1.0,,Laptop,nan,Stressed,4.0,4.46,1.0
+E001,52,Female,HR,Yes,8.0,6 hrs,Poor,Low,4.83,Medium,2.0,6.0,20.0,Desktop,nan,nan,1.0,7.22,0.0
+E002,40,FEMALE,HR,No,12.0,6 hrs,Fair,Low,3.34,nan,3.0,4.0,,Desktop,Medium,Happy,5.0,7.53,
+E004,39,nan,IT,yes,10.0,6 hrs,Good,Medium,-0.52,Medium,1.0,5.0,50.0,Mobile,nan,Calm,2.0,3.84,
+E006,27,F,Sales,yes,6.0,6 hrs,nan,Low,5.4,Medium,1.0,4.0,,Laptop,Low,Tired,,4.31,2.0
+E003,49,male,it,nan,,8,nan,Low,6.74,nan,2.0,5.0,,Mobile,High,Tired,2.0,8.14,2.0
+E004,28,male,it,nan,12.0,10.5 hrs,Fair,Low,4.96,High,1.0,,10.0,nan,Low,Stressed,0.0,4.15,1.0
+E002,33,male,hr,Yes,10.0,8,Poor,nan,7.09,Low,,6.0,50.0,Desktop,Medium,Stressed,1.0,5.89,2.0
+E003,46,F,Admin,yes,,nan,Good,Low,6.29,Medium,0.0,6.0,,Desktop,High,Calm,0.0,10.08,0.0
+E003,38,nan,IT,yes,8.0,nan,Poor,nan,3.29,Low,2.0,2.0,100.0,Mobile,Low,Stressed,5.0,7.96,4.0
+E003,54,Male,HR,No,6.0,7,Poor,Medium,9.1,nan,,5.0,20.0,Laptop,Low,Stressed,,6.17,3.0
+E003,44,Female,HR,Yes,12.0,6 hrs,Poor,nan,5.64,Medium,3.0,3.0,,Laptop,Low,Tired,0.0,7.68,3.0
+E004,30,FEMALE,IT,Yes,8.0,7,Good,Low,5.86,nan,,1.0,10.0,nan,High,nan,3.0,5.89,2.0
+E003,27,Female,nan,nan,,nan,Fair,Low,3.01,Medium,1.0,2.0,100.0,nan,High,Tired,0.0,8.04,1.0
+E004,23,nan,it,Yes,10.0,6 hrs,Good,Low,1.91,High,0.0,1.0,10.0,nan,nan,Tired,0.0,1.91,2.0
+E003,30,male,HR,No,,10.5 hrs,Good,nan,2.83,Medium,3.0,2.0,150.0,Mobile,Medium,Calm,,5.72,
+E003,24,Female,Admin,Yes,,nan,Fair,High,6.84,Medium,4.0,4.0,,Desktop,nan,Calm,3.0,1.83,0.0
+E002,37,Male,hr,no,6.0,7,Fair,High,8.42,Medium,0.0,5.0,20.0,Mobile,Medium,nan,3.0,6.32,5.0
+E004,46,M,it,no,12.0,7,Fair,Medium,5.58,nan,1.0,4.0,20.0,Mobile,High,Happy,4.0,5.53,1.0
+E006,45,nan,Sales,No,8.0,nan,nan,Medium,5.19,High,0.0,1.0,100.0,Laptop,Low,Stressed,0.0,8.72,4.0
+E004,50,M,Admin,nan,6.0,8,nan,Medium,6.93,nan,4.0,6.0,100.0,nan,nan,Stressed,2.0,7.42,0.0
+E005,47,FEMALE,IT,yes,10.0,10.5 hrs,Fair,Low,7.76,Low,4.0,1.0,100.0,Desktop,High,Tired,3.0,4.95,4.0
+E006,44,FEMALE,it,Yes,12.0,nan,Poor,High,2.1,High,0.0,2.0,20.0,nan,High,Tired,1.0,5.19,1.0
+E002,25,Female,Sales,nan,6.0,nan,nan,High,8.26,Medium,3.0,1.0,,nan,High,nan,4.0,6.76,4.0
+E004,35,FEMALE,hr,nan,10.0,7,Good,Medium,4.24,Medium,,5.0,150.0,nan,nan,Stressed,,4.85,0.0
+E002,28,nan,nan,Yes,10.0,6 hrs,Good,High,7.17,Medium,3.0,1.0,20.0,Desktop,High,Tired,4.0,5.94,0.0
+E006,29,F,IT,yes,8.0,6 hrs,nan,Medium,2.86,Low,4.0,4.0,100.0,Laptop,Medium,Tired,0.0,8.63,2.0
+E002,40,Male,nan,Yes,,6 hrs,Good,Low,7.07,Low,2.0,6.0,50.0,Desktop,Medium,Calm,5.0,4.34,5.0
+E002,23,male,Admin,yes,10.0,7,Fair,High,2.13,Medium,2.0,5.0,,Desktop,Low,Happy,2.0,5.1,1.0
+E001,22,male,HR,No,10.0,6 hrs,Good,Low,7.24,Medium,3.0,1.0,150.0,Laptop,nan,nan,5.0,5.39,3.0
+E004,34,Female,nan,yes,,nan,nan,Low,6.29,Low,2.0,3.0,20.0,Desktop,nan,Happy,5.0,12.32,
+E002,45,male,HR,nan,4.0,8,Poor,High,1.86,nan,3.0,3.0,50.0,Desktop,nan,Happy,,7.22,5.0
+E001,53,Female,Admin,No,10.0,8,Good,nan,7.55,High,1.0,6.0,,Mobile,nan,nan,3.0,8.26,3.0
+E001,51,FEMALE,Sales,no,12.0,8,Good,Medium,3.05,High,3.0,4.0,150.0,Desktop,nan,Stressed,1.0,7.54,4.0
+E003,27,FEMALE,it,No,6.0,6 hrs,Poor,High,7.29,Low,1.0,2.0,20.0,Mobile,High,Tired,0.0,7.67,3.0
+E003,54,F,hr,yes,,8,nan,Low,5.29,Low,,2.0,,Mobile,High,nan,,6.95,3.0
+E006,44,F,Sales,No,,6 hrs,Poor,Medium,2.51,nan,4.0,6.0,,Mobile,Medium,Tired,2.0,6.73,
+E004,31,Male,hr,No,,nan,Good,Low,2.97,Medium,2.0,1.0,100.0,nan,nan,Calm,0.0,3.1,0.0
+E003,36,male,nan,no,12.0,nan,nan,Medium,12.81,Low,,5.0,20.0,Laptop,nan,Happy,0.0,6.72,0.0
+E006,44,nan,hr,yes,,7,Fair,High,9.61,nan,,6.0,,nan,nan,Calm,4.0,5.78,0.0
+E004,22,F,nan,nan,12.0,7,nan,Low,4.58,Low,4.0,2.0,150.0,Laptop,Medium,Happy,5.0,7.09,3.0
+E006,29,Male,hr,No,8.0,10.5 hrs,nan,Medium,5.85,Medium,0.0,3.0,100.0,Desktop,nan,Stressed,1.0,5.86,4.0
+E001,24,M,IT,Yes,4.0,nan,Fair,Medium,7.41,Low,0.0,2.0,,Mobile,nan,nan,1.0,7.53,1.0
+E001,35,F,Sales,nan,,6 hrs,nan,High,2.42,Medium,,3.0,10.0,nan,High,Stressed,1.0,7.88,
+E004,38,Male,IT,No,4.0,10.5 hrs,Good,Medium,6.38,nan,,2.0,50.0,Desktop,Medium,Happy,1.0,0.18,2.0
+E006,27,Female,it,nan,,nan,Good,Medium,6.97,High,4.0,4.0,,nan,High,Calm,3.0,5.13,4.0
+E006,26,Female,it,Yes,12.0,6 hrs,Good,Low,5.72,nan,3.0,6.0,100.0,Desktop,Low,Happy,3.0,2.29,
+E003,50,Male,HR,nan,6.0,nan,Good,High,7.78,High,3.0,5.0,100.0,nan,nan,Stressed,1.0,6.48,
+E003,39,FEMALE,HR,nan,4.0,nan,Fair,High,5.31,nan,2.0,6.0,150.0,Desktop,Low,Stressed,,5.4,0.0
+E004,51,M,HR,Yes,4.0,6 hrs,Good,Low,7.21,High,4.0,,,Desktop,nan,Calm,2.0,8.71,4.0
+E005,36,Male,Admin,Yes,12.0,nan,nan,nan,5.47,nan,0.0,1.0,,nan,Low,Calm,3.0,6.41,1.0
+E003,36,F,it,Yes,4.0,nan,Poor,Low,1.93,Medium,4.0,3.0,150.0,Desktop,High,Stressed,3.0,5.03,5.0
+E002,37,FEMALE,hr,no,8.0,nan,Fair,Low,6.88,High,4.0,2.0,50.0,Mobile,Medium,Happy,,7.88,0.0
+E003,54,Male,nan,Yes,12.0,7,Fair,nan,7.6,High,2.0,1.0,150.0,Mobile,Low,Happy,,5.36,1.0
+E005,31,male,Admin,nan,4.0,8,Poor,Medium,4.7,Medium,3.0,3.0,100.0,Mobile,High,nan,,5.0,5.0
+E006,40,F,hr,Yes,4.0,nan,Good,High,2.32,Medium,,6.0,50.0,Mobile,Low,Stressed,2.0,6.79,2.0
+E001,24,F,Sales,No,4.0,6 hrs,Good,High,6.74,High,0.0,3.0,50.0,Laptop,Low,nan,1.0,9.23,4.0
+E001,25,Female,it,Yes,12.0,nan,nan,nan,5.63,High,2.0,4.0,20.0,nan,Medium,Stressed,,7.71,2.0
+E006,32,male,nan,Yes,6.0,7,Good,High,5.59,High,0.0,2.0,100.0,Mobile,High,nan,0.0,7.13,
+E001,54,male,nan,yes,10.0,7,Good,nan,5.38,Low,0.0,,100.0,Mobile,Medium,Tired,,11.5,3.0
+E003,49,F,nan,nan,,nan,nan,Medium,7.02,nan,3.0,6.0,150.0,Mobile,nan,Happy,3.0,4.54,4.0
+E001,53,M,HR,nan,4.0,10.5 hrs,Good,nan,5.58,Medium,,,100.0,Laptop,Medium,Happy,0.0,4.49,
+E005,37,nan,nan,No,10.0,8,Poor,High,4.05,Medium,,1.0,,nan,Medium,Tired,0.0,6.29,5.0
+E005,30,FEMALE,nan,no,10.0,6 hrs,Good,High,1.77,nan,3.0,2.0,150.0,Desktop,Low,Calm,2.0,9.03,3.0
+E003,32,Female,it,yes,4.0,6 hrs,Poor,nan,4.08,Medium,2.0,6.0,100.0,Laptop,Low,Tired,1.0,4.12,1.0
+E006,27,male,hr,No,4.0,6 hrs,Poor,High,6.82,Medium,1.0,,,Mobile,Low,Happy,5.0,9.51,3.0
+E002,48,Female,Admin,No,,6 hrs,Poor,nan,4.33,High,2.0,2.0,20.0,Mobile,High,Stressed,0.0,3.12,5.0
+E003,33,F,Admin,nan,10.0,7,Good,High,6.82,Medium,2.0,5.0,100.0,Laptop,Medium,nan,1.0,5.76,5.0
+E001,43,FEMALE,hr,yes,6.0,8,Good,Low,2.17,Low,1.0,3.0,20.0,nan,nan,Happy,4.0,6.35,1.0
+E003,42,Male,IT,nan,10.0,nan,Fair,Medium,2.98,Low,0.0,,100.0,nan,Low,Tired,5.0,4.23,2.0
+E005,54,male,IT,no,6.0,nan,nan,High,2.86,High,4.0,3.0,100.0,Desktop,nan,Stressed,5.0,4.76,0.0
+E003,38,FEMALE,Sales,nan,8.0,10.5 hrs,nan,High,5.27,High,1.0,5.0,10.0,Laptop,Medium,Happy,5.0,7.59,2.0
+E003,50,nan,it,Yes,6.0,nan,Fair,High,8.58,Medium,4.0,5.0,,nan,Medium,Tired,1.0,8.88,
+E002,31,Female,IT,nan,,8,Poor,nan,9.49,High,0.0,2.0,100.0,Laptop,Medium,Happy,2.0,1.77,3.0
+E005,39,F,IT,Yes,12.0,nan,nan,High,7.12,High,1.0,3.0,20.0,nan,nan,Tired,,6.36,1.0
+E004,34,FEMALE,it,No,4.0,7,Fair,nan,1.08,nan,3.0,1.0,50.0,nan,nan,Tired,2.0,5.77,3.0
+E004,48,Male,hr,no,8.0,nan,Poor,High,3.5,High,2.0,4.0,20.0,Mobile,nan,Happy,4.0,6.21,5.0
+E005,31,FEMALE,Sales,Yes,10.0,6 hrs,Fair,Low,-1.08,Low,1.0,6.0,,nan,Medium,Stressed,,5.37,
+E004,53,F,Sales,no,6.0,6 hrs,Good,Low,5.33,Medium,1.0,5.0,100.0,nan,Medium,Happy,,3.42,
+E001,24,Female,Sales,nan,8.0,6 hrs,Good,Medium,8.25,High,0.0,1.0,150.0,Laptop,Low,Happy,2.0,9.08,0.0
+E004,43,male,IT,nan,12.0,6 hrs,Poor,nan,6.63,nan,3.0,1.0,10.0,nan,High,Stressed,1.0,8.32,4.0
+E001,48,nan,hr,No,6.0,7,Poor,Medium,1.47,Medium,1.0,2.0,150.0,nan,nan,Happy,5.0,5.79,4.0
+E005,24,nan,Sales,nan,,7,Good,High,7.78,Medium,3.0,5.0,10.0,Laptop,High,nan,1.0,5.02,4.0
+E004,54,male,it,Yes,10.0,7,nan,High,7.41,Medium,4.0,1.0,10.0,nan,nan,nan,5.0,4.78,3.0
+E004,23,M,Sales,No,10.0,nan,nan,Low,8.09,nan,1.0,4.0,150.0,Laptop,nan,nan,1.0,0.83,4.0
+E006,32,Female,Admin,no,6.0,6 hrs,Good,Medium,7.22,Low,3.0,1.0,,Laptop,High,Tired,,6.71,1.0
+E001,31,nan,HR,No,12.0,10.5 hrs,nan,High,3.95,nan,2.0,4.0,100.0,Laptop,High,Calm,2.0,7.56,0.0
+E001,54,M,hr,no,4.0,10.5 hrs,Good,High,1.29,nan,0.0,,20.0,Laptop,nan,Happy,1.0,6.28,
+E003,28,M,HR,yes,4.0,6 hrs,Fair,nan,7.34,Medium,,4.0,150.0,Mobile,Medium,Calm,3.0,5.83,5.0
+E002,36,F,hr,Yes,10.0,8,Fair,High,6.55,nan,3.0,4.0,50.0,Mobile,Low,nan,5.0,6.27,2.0
+E004,47,F,nan,Yes,12.0,nan,Fair,Medium,1.06,Medium,0.0,5.0,10.0,Mobile,nan,Stressed,,4.29,5.0
+E006,32,F,it,no,10.0,10.5 hrs,nan,Low,3.07,High,,,20.0,Mobile,Low,nan,,5.0,1.0
+E002,48,Male,nan,nan,4.0,7,Fair,Low,3.13,High,1.0,4.0,50.0,Laptop,Medium,Happy,5.0,5.67,0.0
+E006,28,Female,IT,nan,10.0,8,Poor,High,6.45,nan,1.0,5.0,20.0,Laptop,Medium,Calm,4.0,7.39,2.0
+E002,22,male,IT,yes,6.0,7,Poor,High,4.97,Low,4.0,,100.0,Laptop,Low,Calm,3.0,8.76,4.0
+E004,31,Female,nan,no,,8,Fair,High,4.47,Medium,0.0,1.0,50.0,Laptop,nan,Tired,1.0,5.54,2.0
+E006,42,F,hr,yes,6.0,8,Poor,nan,4.16,nan,2.0,,,Mobile,Low,Stressed,2.0,3.91,
+E001,36,Male,Sales,no,,nan,Fair,High,2.75,nan,2.0,4.0,,nan,nan,nan,4.0,6.07,3.0
+E003,51,Female,HR,yes,12.0,7,Fair,High,6.93,Low,3.0,,150.0,Mobile,High,Stressed,3.0,10.02,3.0
+E006,51,Female,it,no,4.0,7,Good,nan,3.55,Medium,2.0,3.0,20.0,Laptop,nan,Happy,1.0,4.08,4.0
+E005,29,M,Sales,Yes,12.0,10.5 hrs,Fair,Medium,7.32,nan,,1.0,,Laptop,High,Tired,,7.77,4.0
+E004,45,Female,IT,yes,12.0,6 hrs,Poor,nan,2.21,Low,0.0,6.0,,nan,High,nan,,8.67,1.0
+E004,40,M,Sales,yes,4.0,6 hrs,nan,Low,4.02,Medium,1.0,,150.0,Laptop,Low,Happy,2.0,5.28,1.0
+E005,24,M,nan,no,8.0,10.5 hrs,Fair,nan,8.93,High,0.0,,150.0,nan,High,Stressed,1.0,4.6,5.0
+E002,36,FEMALE,nan,No,8.0,8,Good,nan,5.47,Low,0.0,,,Laptop,Low,Tired,5.0,7.15,
+E003,27,F,Admin,No,10.0,10.5 hrs,Poor,Medium,4.02,nan,1.0,3.0,20.0,nan,Low,nan,3.0,6.71,3.0
+E002,39,nan,Admin,Yes,8.0,10.5 hrs,Good,Medium,3.74,High,,3.0,20.0,Desktop,Medium,Stressed,3.0,7.39,0.0
+E005,40,Male,HR,nan,6.0,7,Fair,High,3.26,Medium,0.0,2.0,10.0,Desktop,Low,nan,4.0,10.15,1.0
+E005,51,M,IT,nan,,10.5 hrs,Fair,nan,5.91,Low,2.0,5.0,10.0,Desktop,Medium,Tired,,6.33,0.0
+E003,34,Female,hr,Yes,12.0,8,Fair,Medium,6.8,High,3.0,2.0,50.0,Desktop,Medium,Tired,2.0,3.62,5.0
+E005,33,M,it,nan,10.0,6 hrs,Fair,Low,5.5,High,3.0,5.0,50.0,Laptop,Low,Stressed,0.0,6.13,3.0
+E005,33,M,nan,no,12.0,nan,Poor,High,4.88,nan,0.0,2.0,50.0,Laptop,nan,nan,1.0,6.48,1.0
+E006,45,M,it,No,4.0,10.5 hrs,nan,nan,6.2,High,,1.0,10.0,Laptop,nan,Calm,2.0,8.53,0.0
+E003,25,male,IT,Yes,8.0,10.5 hrs,Fair,Low,2.19,nan,1.0,3.0,150.0,Desktop,Low,Happy,0.0,5.61,5.0
+E004,35,nan,hr,no,4.0,7,Good,Medium,5.76,Medium,4.0,1.0,,nan,High,Tired,2.0,5.18,0.0
+E002,38,nan,Admin,Yes,10.0,7,Poor,High,5.87,nan,,5.0,100.0,nan,Low,nan,1.0,3.26,1.0
+E004,24,male,nan,No,,10.5 hrs,Poor,Low,5.53,Low,0.0,3.0,100.0,Desktop,High,Stressed,1.0,7.09,4.0
+E004,44,male,HR,nan,6.0,10.5 hrs,Poor,nan,3.89,High,0.0,3.0,,Laptop,nan,Stressed,4.0,12.7,5.0
+E006,34,male,it,no,8.0,8,Good,Low,3.45,Medium,4.0,5.0,20.0,Desktop,High,Tired,3.0,5.55,5.0
+E002,30,nan,IT,No,4.0,6 hrs,nan,High,2.4,nan,3.0,1.0,10.0,Mobile,Low,Tired,3.0,6.9,2.0
+E004,42,FEMALE,it,Yes,,6 hrs,Good,nan,7.94,nan,,3.0,20.0,nan,High,Calm,3.0,4.9,4.0
+E003,29,M,Admin,yes,8.0,nan,Good,nan,4.89,nan,3.0,6.0,100.0,Desktop,Medium,Stressed,4.0,3.44,5.0
+E002,38,FEMALE,Admin,no,12.0,6 hrs,Good,Low,4.15,Medium,4.0,,20.0,Desktop,Medium,nan,3.0,6.87,2.0
+E001,37,Female,hr,Yes,6.0,nan,Fair,High,3.96,Medium,1.0,1.0,10.0,Desktop,Low,Happy,2.0,6.06,0.0
+E006,37,nan,HR,Yes,,7,Fair,nan,3.09,Low,0.0,1.0,10.0,Desktop,Low,Happy,3.0,1.23,1.0
+E004,49,F,Admin,No,8.0,nan,Good,High,3.93,Medium,2.0,1.0,10.0,Laptop,Low,Calm,3.0,9.22,5.0
+E005,37,nan,hr,Yes,6.0,nan,Good,Medium,7.42,nan,3.0,3.0,100.0,nan,nan,nan,5.0,6.83,3.0
+E002,35,Male,Admin,no,,6 hrs,Fair,Low,6.16,Medium,3.0,4.0,10.0,Mobile,nan,Happy,1.0,6.15,1.0
+E001,41,FEMALE,nan,no,12.0,10.5 hrs,Fair,High,6.66,nan,,,50.0,Laptop,nan,Happy,4.0,5.16,4.0
+E005,50,male,Sales,Yes,12.0,7,nan,Medium,6.92,Low,3.0,2.0,50.0,Desktop,Medium,nan,4.0,6.81,2.0
+E001,24,male,hr,No,4.0,8,Good,Medium,9.4,Low,1.0,5.0,,Desktop,High,nan,,6.9,1.0
+E004,31,Female,hr,no,10.0,nan,Poor,High,5.06,nan,4.0,1.0,10.0,Desktop,Medium,Tired,3.0,6.8,2.0
+E005,41,M,it,yes,4.0,nan,nan,High,4.14,Medium,1.0,3.0,50.0,Desktop,High,Happy,5.0,8.14,4.0
+E004,23,Male,Admin,nan,6.0,nan,Poor,Low,5.87,Medium,3.0,5.0,10.0,nan,High,Happy,,8.59,4.0
+E005,48,FEMALE,hr,No,4.0,10.5 hrs,nan,Low,6.3,High,,4.0,100.0,Desktop,Low,Calm,,10.01,1.0
+E002,53,M,IT,No,,8,Good,nan,4.93,Low,0.0,6.0,50.0,Mobile,Low,Tired,0.0,4.33,5.0
+E003,31,M,nan,nan,8.0,6 hrs,Poor,Low,3.21,Low,3.0,4.0,100.0,Laptop,nan,Tired,1.0,4.85,3.0
+E003,38,F,it,nan,,7,Fair,High,5.37,nan,0.0,3.0,50.0,nan,Low,Happy,3.0,6.72,5.0
+E001,54,F,it,no,4.0,10.5 hrs,nan,nan,6.09,High,,1.0,150.0,Desktop,Medium,Stressed,0.0,4.44,
+E006,27,FEMALE,Sales,Yes,10.0,8,Poor,Medium,5.69,Medium,0.0,4.0,150.0,Mobile,Medium,Stressed,,4.76,3.0
+E005,39,FEMALE,nan,Yes,,7,nan,Medium,1.32,nan,3.0,,,Laptop,Medium,nan,2.0,6.95,2.0
+E004,30,FEMALE,IT,yes,,6 hrs,Good,High,1.82,Medium,3.0,4.0,,Laptop,Low,Tired,5.0,7.8,1.0
+E006,29,FEMALE,nan,Yes,,7,Poor,nan,6.43,Medium,0.0,4.0,,nan,Low,Happy,5.0,8.55,0.0
+E002,46,male,hr,yes,10.0,nan,Poor,nan,4.26,Medium,1.0,,100.0,Laptop,High,Happy,1.0,5.61,4.0
+E002,52,nan,Sales,yes,,nan,Poor,Low,9.45,High,1.0,6.0,50.0,Desktop,High,Happy,5.0,6.93,5.0
+E002,25,nan,IT,No,6.0,10.5 hrs,nan,Medium,7.68,Low,,3.0,150.0,Desktop,Low,Calm,4.0,6.49,2.0
+E003,41,M,Sales,No,12.0,7,Fair,Medium,2.46,Low,1.0,5.0,10.0,Mobile,Medium,Stressed,0.0,6.04,4.0
+E004,49,nan,nan,no,10.0,nan,Fair,Low,7.05,Medium,2.0,2.0,20.0,Mobile,Low,Calm,3.0,4.37,2.0
+E002,22,M,HR,nan,6.0,10.5 hrs,Fair,Medium,8.2,High,0.0,3.0,150.0,Laptop,nan,Happy,0.0,4.11,1.0
+E002,44,male,nan,nan,10.0,10.5 hrs,Good,Low,4.11,Medium,2.0,1.0,150.0,nan,nan,Happy,4.0,7.33,2.0
+E001,34,nan,hr,yes,10.0,10.5 hrs,Poor,Medium,4.83,Medium,2.0,3.0,10.0,Desktop,Medium,Tired,2.0,4.33,2.0
+E005,37,M,Sales,nan,12.0,6 hrs,Fair,Medium,3.9,nan,0.0,3.0,150.0,Laptop,nan,Tired,0.0,2.45,
+E005,47,FEMALE,HR,yes,8.0,nan,Fair,Medium,2.75,High,2.0,6.0,150.0,nan,Low,Stressed,3.0,5.94,0.0
+E005,52,Male,hr,nan,6.0,nan,Poor,Low,8.15,High,,2.0,150.0,Laptop,Low,nan,0.0,8.91,2.0
+E006,22,nan,Sales,no,10.0,8,Good,Medium,-0.18,Low,,2.0,,nan,High,Happy,5.0,0.41,3.0
+E001,38,F,Sales,No,10.0,6 hrs,nan,Medium,3.65,Low,0.0,2.0,,Mobile,nan,Tired,2.0,5.42,2.0
+E003,37,F,nan,No,4.0,nan,nan,nan,4.16,Medium,4.0,5.0,50.0,Desktop,nan,Stressed,0.0,7.35,2.0
+E006,31,M,Admin,yes,,nan,nan,Medium,5.31,nan,4.0,3.0,,Mobile,nan,Calm,2.0,2.35,1.0
+E001,52,Male,Sales,nan,8.0,8,Poor,High,2.52,nan,0.0,6.0,150.0,Desktop,nan,Happy,,5.57,2.0
+E002,31,F,Sales,Yes,12.0,7,Good,Medium,7.71,nan,0.0,1.0,20.0,nan,Medium,nan,2.0,3.72,
+E004,27,nan,it,no,6.0,7,Poor,Medium,1.33,Medium,0.0,2.0,,nan,Medium,Stressed,,3.99,0.0
+E006,49,Male,Admin,nan,10.0,6 hrs,nan,nan,1.36,Low,1.0,,50.0,Laptop,Low,nan,1.0,5.2,1.0
+E006,49,male,Sales,Yes,,10.5 hrs,Fair,nan,5.12,High,0.0,2.0,50.0,nan,nan,Happy,1.0,3.75,
+E002,34,Female,nan,no,6.0,8,Fair,Low,2.43,Medium,,,100.0,nan,High,Stressed,3.0,3.59,4.0
+E002,33,M,it,no,12.0,8,Fair,Low,5.42,nan,,3.0,150.0,Laptop,Low,Tired,3.0,5.88,3.0
+E004,23,male,it,No,8.0,nan,nan,High,3.52,nan,3.0,1.0,20.0,Laptop,Low,nan,3.0,10.45,3.0
+E005,29,male,HR,yes,4.0,nan,Good,nan,6.61,Medium,4.0,6.0,20.0,Desktop,Medium,Calm,2.0,7.52,4.0
+E006,30,Male,hr,nan,8.0,8,nan,Low,3.14,nan,4.0,2.0,100.0,nan,Low,Calm,2.0,8.02,2.0
+E001,29,M,it,no,4.0,10.5 hrs,Poor,Low,7.89,High,0.0,3.0,20.0,Laptop,High,nan,,7.59,0.0
+E003,24,male,IT,nan,6.0,7,Good,Low,6.26,Medium,4.0,4.0,50.0,Desktop,nan,Happy,1.0,4.6,0.0
+E002,30,FEMALE,it,no,8.0,6 hrs,Fair,nan,3.48,High,0.0,6.0,10.0,Desktop,Low,Happy,5.0,6.62,0.0
+E002,34,male,IT,No,8.0,7,Good,nan,6.25,Low,0.0,,50.0,Mobile,High,Happy,,8.2,0.0
+E003,30,FEMALE,Admin,yes,8.0,6 hrs,Good,High,5.29,nan,4.0,5.0,,Laptop,Medium,Calm,,7.66,
+E001,52,Female,HR,Yes,12.0,10.5 hrs,nan,nan,6.57,nan,4.0,6.0,10.0,Mobile,Medium,Calm,2.0,6.39,2.0
+E002,46,FEMALE,IT,Yes,6.0,8,Good,nan,6.2,Low,3.0,3.0,20.0,Desktop,nan,Tired,,7.04,4.0
+E003,29,FEMALE,HR,No,4.0,10.5 hrs,nan,nan,5.72,Low,2.0,2.0,150.0,nan,Low,Happy,1.0,10.93,
+E002,52,Male,HR,no,8.0,8,Poor,High,5.13,Low,3.0,6.0,10.0,Laptop,High,Calm,0.0,7.68,
+E005,52,male,HR,No,6.0,nan,Good,Medium,6.81,nan,3.0,1.0,50.0,Laptop,Medium,Calm,3.0,5.37,4.0
+E005,38,Female,IT,yes,,6 hrs,Good,Medium,7.34,Low,4.0,,50.0,Desktop,High,Happy,3.0,5.85,3.0
+E002,40,male,IT,Yes,12.0,nan,Good,Low,5.27,Medium,,4.0,,Laptop,Medium,Happy,4.0,3.89,4.0
+E002,24,nan,HR,nan,12.0,8,Fair,Medium,6.21,Low,3.0,1.0,50.0,Desktop,Medium,Calm,5.0,10.69,0.0
+E005,51,nan,Admin,Yes,,6 hrs,nan,Medium,6.87,Medium,,1.0,,Laptop,nan,nan,1.0,9.21,2.0
+E002,31,FEMALE,HR,yes,6.0,6 hrs,nan,High,8.21,Medium,4.0,1.0,50.0,Laptop,High,Calm,4.0,6.17,
+E001,50,F,Admin,no,4.0,nan,Fair,High,7.86,High,1.0,3.0,100.0,nan,High,Tired,3.0,10.36,1.0
+E001,39,FEMALE,hr,No,6.0,6 hrs,nan,Medium,7.06,Medium,0.0,3.0,20.0,Desktop,High,Stressed,4.0,7.26,1.0
+E004,33,male,Admin,Yes,6.0,8,Poor,Medium,4.17,Medium,2.0,6.0,150.0,Mobile,Medium,Happy,0.0,5.14,0.0
+E001,44,Female,Admin,Yes,10.0,8,Fair,Medium,2.37,Low,,,,nan,nan,Tired,,7.81,5.0
+E006,32,F,Admin,nan,12.0,nan,nan,Low,6.12,nan,1.0,5.0,100.0,Desktop,High,nan,4.0,6.8,3.0
+E006,30,Female,HR,No,4.0,10.5 hrs,Poor,High,6.1,Low,,,20.0,Laptop,Low,Stressed,0.0,7.68,
+E006,45,Male,Sales,nan,10.0,8,nan,Medium,4.21,High,0.0,4.0,,Desktop,High,Calm,3.0,3.26,1.0
+E002,46,FEMALE,hr,nan,,8,Fair,nan,2.33,High,0.0,6.0,10.0,Desktop,Medium,Happy,2.0,4.38,5.0
+E002,46,FEMALE,hr,no,6.0,6 hrs,nan,Medium,8.31,nan,2.0,1.0,100.0,nan,nan,Calm,,8.98,0.0
+E003,30,nan,hr,Yes,,6 hrs,Poor,nan,5.85,Medium,3.0,6.0,,Desktop,High,Tired,1.0,9.39,
+E006,33,Male,Sales,No,12.0,8,Poor,Low,2.58,High,0.0,,100.0,Laptop,High,Happy,,8.83,
+E006,32,nan,hr,no,10.0,nan,Poor,nan,4.75,nan,2.0,2.0,100.0,Mobile,High,Calm,4.0,10.44,
+E001,49,male,hr,no,10.0,10.5 hrs,nan,High,2.31,Low,,6.0,100.0,Mobile,Low,Happy,,7.15,2.0
+E005,29,FEMALE,IT,no,4.0,6 hrs,Fair,Low,6.36,Low,,,10.0,Laptop,Medium,Tired,5.0,7.01,1.0
+E005,31,male,nan,yes,6.0,6 hrs,nan,Low,8.7,Low,,6.0,50.0,Mobile,Low,Calm,0.0,4.17,0.0
+E004,46,Female,IT,yes,4.0,10.5 hrs,Good,Medium,4.63,Medium,,,100.0,nan,Low,Stressed,5.0,4.84,1.0
+E003,30,F,HR,no,10.0,6 hrs,Fair,Low,4.82,Medium,,1.0,20.0,Desktop,Medium,nan,3.0,2.02,2.0
+E005,29,F,HR,yes,10.0,nan,Good,Low,4.45,nan,4.0,6.0,50.0,Desktop,Medium,Calm,5.0,5.36,4.0
+E004,24,F,Admin,No,4.0,6 hrs,nan,nan,4.55,High,0.0,4.0,10.0,Mobile,High,Happy,5.0,1.88,4.0
+E001,39,nan,it,Yes,10.0,6 hrs,Fair,Medium,3.45,Low,0.0,1.0,150.0,Mobile,Medium,Calm,3.0,8.16,2.0
+E003,38,M,nan,No,8.0,8,Good,High,7.76,Medium,3.0,3.0,10.0,Mobile,High,Happy,2.0,6.78,2.0
+E003,49,Male,Sales,Yes,12.0,nan,nan,Medium,5.39,Medium,3.0,3.0,150.0,nan,Low,Tired,,1.95,4.0
+E006,36,F,IT,yes,6.0,nan,Fair,High,5.13,High,4.0,6.0,20.0,Desktop,High,nan,5.0,5.62,2.0
+E002,40,FEMALE,HR,No,12.0,8,Poor,nan,4.55,Low,0.0,6.0,150.0,Desktop,Medium,Happy,5.0,9.94,
+E006,43,Male,Sales,nan,6.0,7,Poor,Low,2.45,Low,3.0,4.0,,Laptop,High,Calm,5.0,5.75,2.0
+E001,27,Female,hr,no,10.0,10.5 hrs,Poor,Low,6.88,High,2.0,,100.0,Laptop,Low,Tired,3.0,4.0,2.0
+E006,28,Female,Sales,Yes,4.0,nan,Good,Medium,7.85,nan,,,50.0,nan,Medium,Stressed,5.0,2.43,4.0
+E003,30,nan,IT,Yes,4.0,7,Good,Medium,1.28,nan,,5.0,,Desktop,Medium,Calm,,2.49,4.0
+E006,41,Female,nan,nan,10.0,10.5 hrs,nan,Medium,6.42,High,0.0,1.0,50.0,Desktop,nan,nan,3.0,7.07,5.0
+E004,32,Female,it,nan,6.0,nan,Poor,Low,6.72,High,,4.0,100.0,Laptop,High,Tired,2.0,5.13,1.0
+E006,23,M,Admin,no,10.0,6 hrs,Good,Low,7.57,nan,,6.0,50.0,Laptop,High,Calm,3.0,5.3,4.0
+E005,43,male,IT,yes,6.0,nan,Poor,nan,7.41,High,2.0,6.0,10.0,Desktop,High,Happy,5.0,5.14,1.0
+E001,26,male,Admin,No,10.0,10.5 hrs,nan,High,10.27,Low,1.0,6.0,100.0,nan,Low,Happy,,5.72,
+E001,28,F,nan,No,10.0,7,Fair,Medium,5.8,nan,4.0,6.0,100.0,Mobile,Low,Happy,0.0,3.55,
+E003,27,M,HR,No,10.0,6 hrs,Good,Low,6.99,nan,3.0,2.0,50.0,nan,Medium,Calm,,6.63,4.0
+E006,43,nan,Admin,yes,4.0,10.5 hrs,Good,High,5.02,nan,1.0,6.0,,Desktop,Medium,nan,5.0,3.15,3.0
+E003,31,male,HR,no,6.0,10.5 hrs,Fair,Medium,3.39,Low,3.0,6.0,150.0,Mobile,Low,Happy,,4.49,1.0
+E003,41,nan,Sales,No,,nan,Good,Medium,6.42,High,1.0,2.0,20.0,nan,High,Calm,4.0,8.02,2.0
+E004,49,nan,IT,Yes,10.0,8,nan,High,6.99,Medium,,5.0,150.0,nan,High,Calm,4.0,6.75,3.0
+E002,44,Female,HR,Yes,12.0,8,Good,High,5.68,Medium,3.0,,10.0,Desktop,Low,nan,,7.37,5.0
+E003,22,male,hr,Yes,12.0,6 hrs,Good,High,1.68,Low,4.0,3.0,100.0,Laptop,High,Tired,0.0,10.3,4.0
+E002,50,Male,hr,nan,4.0,10.5 hrs,Fair,Low,2.1,Low,0.0,6.0,100.0,nan,Low,Tired,4.0,5.88,4.0
+E002,30,F,it,nan,8.0,7,nan,nan,6.53,High,2.0,,10.0,nan,High,Calm,,6.04,5.0
+E001,30,male,Sales,yes,,6 hrs,Poor,Medium,4.27,Medium,1.0,6.0,20.0,Laptop,High,Tired,,5.47,3.0
+E005,43,Male,HR,No,4.0,6 hrs,Poor,Medium,5.71,nan,2.0,4.0,100.0,nan,nan,Stressed,,5.11,0.0
+E005,23,FEMALE,it,nan,8.0,nan,Fair,High,5.97,Low,2.0,1.0,150.0,nan,Medium,nan,5.0,3.98,
+E006,37,Male,hr,Yes,4.0,7,nan,Low,4.77,Medium,3.0,4.0,10.0,Laptop,High,Calm,3.0,6.17,2.0
+E004,27,Male,it,nan,12.0,10.5 hrs,Fair,High,4.49,nan,0.0,6.0,100.0,Desktop,High,Tired,5.0,6.71,1.0
+E004,34,Female,it,Yes,10.0,10.5 hrs,Fair,Low,4.74,nan,3.0,5.0,150.0,Desktop,Low,Tired,4.0,6.82,3.0
+E005,54,Female,HR,No,6.0,10.5 hrs,Poor,nan,6.18,High,2.0,4.0,10.0,Desktop,nan,nan,4.0,6.13,1.0
+E006,40,F,HR,yes,10.0,6 hrs,nan,Medium,5.96,Low,,5.0,10.0,Mobile,nan,Happy,3.0,7.85,4.0
+E005,36,Female,HR,no,12.0,nan,nan,Medium,3.4,nan,4.0,5.0,10.0,Desktop,Low,Tired,,6.06,0.0
+E006,54,Male,Sales,no,6.0,6 hrs,Fair,Low,4.97,Low,0.0,6.0,20.0,Mobile,Low,nan,4.0,5.18,5.0
+E006,31,M,Admin,Yes,8.0,8,Poor,nan,2.88,Medium,0.0,5.0,10.0,Mobile,Low,Happy,3.0,4.15,0.0
+E006,22,Female,it,nan,8.0,8,nan,nan,6.03,Medium,,4.0,,Mobile,High,Calm,2.0,2.9,1.0
+E006,33,Female,it,nan,12.0,10.5 hrs,Fair,Medium,4.07,Low,2.0,2.0,50.0,Laptop,Low,Happy,5.0,8.92,5.0
+E001,50,Male,Sales,Yes,6.0,nan,Good,Medium,6.44,nan,3.0,1.0,50.0,Mobile,Medium,Tired,2.0,4.6,
+E001,38,FEMALE,hr,No,10.0,10.5 hrs,Poor,High,4.52,nan,,5.0,10.0,Mobile,Low,Calm,4.0,4.15,4.0
+E005,25,FEMALE,IT,Yes,12.0,10.5 hrs,nan,Low,7.29,Medium,4.0,,100.0,Laptop,High,Calm,,5.16,5.0
+E006,50,male,Admin,No,8.0,6 hrs,nan,Medium,7.67,nan,1.0,6.0,50.0,nan,Medium,Happy,2.0,5.44,
+E003,28,F,hr,yes,12.0,10.5 hrs,nan,nan,5.89,nan,3.0,3.0,150.0,nan,High,Calm,,9.28,5.0
+E006,34,FEMALE,Sales,yes,10.0,10.5 hrs,Poor,nan,4.27,Medium,0.0,5.0,150.0,Mobile,Medium,Happy,4.0,5.34,0.0
+E003,26,Female,Admin,Yes,4.0,nan,Fair,Medium,3.13,High,,,100.0,Desktop,Medium,Happy,,11.27,2.0
+E001,27,M,Admin,yes,,nan,Good,nan,6.92,Medium,3.0,4.0,150.0,nan,Medium,Happy,2.0,6.13,4.0
+E006,28,male,it,nan,,nan,nan,Low,4.87,Low,1.0,5.0,,Desktop,High,nan,4.0,10.11,3.0
+E002,49,F,it,No,,10.5 hrs,Poor,nan,5.1,High,4.0,3.0,100.0,Laptop,Medium,Tired,1.0,7.79,3.0
+E005,31,M,HR,no,4.0,nan,nan,nan,4.22,Low,,,150.0,nan,nan,Calm,5.0,6.72,3.0
+E006,25,M,HR,no,10.0,nan,Fair,Medium,2.23,High,4.0,2.0,10.0,Laptop,nan,Stressed,0.0,9.16,2.0
+E004,24,Female,it,yes,6.0,7,Good,Low,7.15,High,1.0,4.0,150.0,Mobile,High,Tired,5.0,8.24,4.0
+E003,46,Male,it,No,12.0,7,nan,Low,4.83,Medium,1.0,4.0,10.0,nan,nan,Stressed,2.0,7.27,5.0
+E006,44,Male,nan,nan,10.0,8,Poor,High,1.28,Medium,2.0,6.0,150.0,Mobile,Medium,Happy,3.0,10.64,1.0
+E002,48,Male,Admin,no,4.0,6 hrs,Fair,Low,4.72,Low,0.0,4.0,150.0,Mobile,Low,Calm,0.0,5.0,1.0
+E003,35,FEMALE,HR,nan,8.0,6 hrs,Good,High,2.29,Medium,2.0,3.0,150.0,Laptop,Low,Tired,,4.01,4.0
+E002,53,Male,HR,nan,,nan,Poor,Medium,6.18,High,3.0,,10.0,nan,Medium,Stressed,,4.65,2.0
+E005,44,F,hr,no,,8,nan,nan,5.91,Medium,1.0,4.0,150.0,nan,nan,Stressed,4.0,9.5,4.0
+E005,24,Female,it,no,10.0,8,Poor,Low,8.02,Low,2.0,2.0,150.0,nan,Medium,Stressed,,8.9,1.0
+E005,34,FEMALE,Admin,yes,,7,Good,High,2.05,High,0.0,1.0,,Mobile,Low,Tired,0.0,4.95,4.0
+E001,45,F,it,No,,8,Fair,Low,7.87,Low,0.0,1.0,20.0,nan,Low,nan,,1.29,3.0
+E002,22,Male,Sales,Yes,10.0,10.5 hrs,Fair,Medium,6.04,nan,1.0,5.0,10.0,Desktop,High,Happy,3.0,5.59,
+E006,33,F,hr,No,10.0,nan,nan,High,2.27,Medium,,1.0,,Desktop,Low,Calm,3.0,3.97,5.0
+E004,29,M,IT,Yes,4.0,10.5 hrs,nan,High,8.65,High,2.0,3.0,50.0,Mobile,High,Stressed,5.0,5.01,4.0
+E004,40,Female,IT,no,4.0,6 hrs,nan,High,4.75,Low,4.0,1.0,100.0,Laptop,nan,Tired,,3.89,5.0
+E005,30,Female,IT,nan,,7,nan,Medium,2.62,Medium,1.0,3.0,20.0,Desktop,Medium,Stressed,,2.78,0.0
+E004,49,F,Admin,No,10.0,10.5 hrs,Good,High,7.08,Medium,3.0,3.0,,Laptop,High,Tired,4.0,9.77,4.0
+E003,35,male,nan,nan,10.0,nan,nan,nan,2.82,Low,2.0,5.0,,nan,Medium,nan,5.0,4.63,1.0
+E002,48,Female,HR,No,,10.5 hrs,Poor,Medium,7.31,High,2.0,1.0,150.0,Desktop,High,Stressed,2.0,8.83,
+E002,39,M,Admin,No,6.0,10.5 hrs,Good,nan,4.62,Low,1.0,5.0,50.0,Mobile,nan,Stressed,2.0,5.56,1.0
+E002,27,Female,IT,nan,8.0,8,Good,nan,4.3,Medium,,4.0,50.0,Mobile,nan,Calm,1.0,3.74,
+E003,54,male,Sales,yes,12.0,7,nan,Medium,2.4,Low,2.0,2.0,150.0,Laptop,High,Tired,5.0,7.02,5.0
+E006,46,Female,Admin,no,12.0,6 hrs,Good,Low,2.91,nan,2.0,,,Mobile,High,Tired,3.0,5.22,1.0
+E001,34,nan,Admin,yes,,nan,Poor,nan,5.32,Medium,3.0,1.0,,Laptop,nan,nan,1.0,5.59,3.0
+E003,44,Female,HR,yes,12.0,nan,Good,Medium,1.72,High,,4.0,150.0,Laptop,Medium,Stressed,3.0,6.29,1.0
+E002,54,male,HR,No,4.0,6 hrs,Good,nan,6.38,nan,3.0,6.0,20.0,Desktop,nan,Calm,1.0,4.38,0.0
+E002,42,nan,IT,no,4.0,nan,Poor,High,3.95,Low,4.0,,10.0,Desktop,Medium,Happy,5.0,2.76,4.0
+E002,38,nan,HR,No,6.0,8,Poor,nan,4.21,High,3.0,,20.0,Mobile,High,Calm,2.0,5.9,2.0
+E006,31,Female,hr,Yes,,10.5 hrs,Good,nan,6.17,nan,4.0,,10.0,Laptop,Medium,Calm,3.0,7.93,1.0
+E004,44,F,hr,No,4.0,8,Fair,nan,4.59,Low,3.0,4.0,50.0,Desktop,High,Calm,5.0,4.2,4.0
+E001,23,FEMALE,IT,nan,,8,Good,High,7.46,nan,4.0,5.0,100.0,nan,Medium,Calm,5.0,6.31,3.0
+E003,35,nan,Admin,No,,8,Poor,nan,0.9,Medium,,5.0,150.0,Mobile,High,Stressed,2.0,9.01,4.0
+E002,23,F,Sales,Yes,10.0,6 hrs,Poor,Medium,6.6,High,3.0,,20.0,Mobile,Low,Calm,0.0,5.82,1.0
+E005,40,Female,HR,No,8.0,7,Poor,nan,5.05,nan,3.0,,50.0,nan,Low,Tired,2.0,6.17,1.0
+E001,37,Male,it,Yes,8.0,6 hrs,Fair,Medium,3.68,Medium,1.0,2.0,20.0,nan,nan,Tired,3.0,6.11,5.0
+E005,46,Male,Admin,no,,6 hrs,Poor,nan,6.9,Low,3.0,2.0,,nan,nan,Calm,0.0,4.64,
+E001,22,FEMALE,IT,No,8.0,8,nan,nan,6.17,Medium,4.0,,10.0,Desktop,High,Tired,1.0,4.01,1.0
+E002,23,nan,nan,Yes,8.0,7,nan,nan,5.46,Low,1.0,2.0,150.0,nan,Medium,Stressed,4.0,4.02,0.0
+E001,48,Female,HR,no,12.0,6 hrs,Fair,Low,4.49,High,4.0,,,Mobile,High,Happy,3.0,6.74,4.0
+E001,23,M,IT,nan,12.0,7,Poor,Low,3.59,Medium,3.0,2.0,10.0,Desktop,Low,Calm,,7.52,5.0
+E002,51,nan,IT,yes,10.0,8,Poor,High,2.84,Medium,3.0,,,Laptop,Low,Tired,4.0,7.61,
+E006,31,Female,Sales,Yes,6.0,6 hrs,nan,Medium,7.73,Low,4.0,5.0,10.0,nan,High,Tired,4.0,5.24,2.0
+E005,40,Male,it,nan,4.0,7,nan,High,6.65,nan,,3.0,10.0,Mobile,Low,Stressed,0.0,8.19,0.0
+E006,37,male,HR,no,4.0,nan,Good,Medium,6.14,Low,,5.0,,nan,nan,Stressed,1.0,6.61,2.0
+E005,34,FEMALE,IT,nan,12.0,6 hrs,Fair,High,4.15,nan,,3.0,50.0,Laptop,High,Happy,2.0,6.14,1.0
+E004,29,male,IT,No,,6 hrs,Good,High,9.07,Low,2.0,5.0,150.0,Desktop,nan,nan,0.0,-0.68,2.0
+E005,52,M,Admin,yes,8.0,6 hrs,Fair,nan,3.61,High,1.0,6.0,100.0,Laptop,nan,nan,1.0,4.37,2.0
+E005,46,Female,HR,Yes,10.0,7,Poor,nan,4.24,nan,1.0,5.0,20.0,Desktop,nan,nan,,2.96,0.0
+E001,42,M,IT,no,6.0,10.5 hrs,Poor,nan,8.63,Medium,,2.0,10.0,Mobile,Low,Happy,,7.25,0.0
+E004,50,male,IT,yes,12.0,6 hrs,Fair,nan,4.9,nan,3.0,3.0,150.0,Mobile,Medium,Calm,2.0,6.19,4.0
+E002,27,Female,IT,no,,nan,Good,nan,8.48,Low,1.0,4.0,20.0,Mobile,Medium,nan,2.0,3.86,2.0
+E002,39,nan,hr,nan,10.0,nan,nan,High,5.76,Low,4.0,6.0,150.0,Laptop,Medium,nan,1.0,6.61,0.0
+E003,48,F,hr,no,,8,Fair,Medium,3.97,nan,3.0,4.0,,nan,nan,Tired,2.0,3.15,4.0
+E004,26,F,it,no,10.0,10.5 hrs,Fair,Low,4.61,Medium,1.0,6.0,20.0,nan,High,Tired,3.0,3.91,2.0
+E001,28,nan,Sales,nan,12.0,10.5 hrs,Fair,Low,3.57,High,0.0,4.0,150.0,Laptop,nan,Calm,3.0,4.58,
+E003,31,M,Admin,nan,10.0,7,Poor,Medium,6.39,Medium,1.0,2.0,100.0,nan,nan,Stressed,0.0,7.08,2.0
+E003,31,F,Admin,yes,8.0,8,Fair,Low,7.45,nan,,4.0,150.0,Laptop,High,Happy,2.0,8.8,5.0
+E002,49,F,HR,Yes,10.0,7,Poor,High,5.93,Low,4.0,,150.0,nan,Medium,nan,2.0,4.83,1.0
+E005,31,Male,Sales,nan,6.0,8,nan,Medium,5.57,Medium,1.0,5.0,10.0,Desktop,Medium,Happy,1.0,8.64,
+E001,41,F,Sales,yes,10.0,10.5 hrs,nan,Medium,2.92,Low,2.0,2.0,10.0,Mobile,Medium,Tired,3.0,6.09,0.0
+E004,34,Male,Admin,no,4.0,7,Good,Low,7.19,Low,,,10.0,nan,nan,Happy,4.0,6.47,3.0
+E003,32,FEMALE,hr,no,10.0,8,Poor,Low,6.68,Medium,2.0,4.0,,Laptop,nan,Tired,0.0,5.87,
+E001,40,Male,it,No,,10.5 hrs,nan,High,5.56,nan,3.0,2.0,150.0,Desktop,Low,Happy,5.0,5.61,5.0
+E002,49,Male,Sales,nan,12.0,10.5 hrs,nan,nan,4.4,Medium,2.0,5.0,100.0,nan,Medium,Tired,3.0,6.88,0.0
+E003,25,male,Admin,yes,4.0,6 hrs,Good,Medium,5.09,High,4.0,2.0,20.0,nan,nan,Happy,1.0,7.48,5.0
+E003,40,Male,Sales,yes,12.0,7,Good,nan,3.18,Low,0.0,4.0,10.0,Laptop,Low,nan,0.0,4.23,1.0
+E006,35,Male,IT,Yes,,6 hrs,Good,Low,2.05,Low,0.0,2.0,50.0,Desktop,nan,nan,4.0,5.62,5.0
+E002,52,male,HR,yes,6.0,10.5 hrs,Poor,Medium,4.4,nan,3.0,6.0,150.0,Mobile,nan,Calm,,9.34,5.0
+E006,49,Male,it,nan,8.0,7,Fair,nan,3.28,Low,3.0,1.0,100.0,Laptop,Medium,Happy,5.0,6.35,4.0
+E002,40,F,Admin,yes,6.0,7,Poor,High,3.98,Low,2.0,4.0,100.0,nan,High,Stressed,0.0,6.57,
+E002,22,nan,HR,No,4.0,nan,Good,High,4.02,Low,4.0,5.0,10.0,Mobile,nan,Calm,3.0,8.33,0.0
+E006,44,Male,hr,no,,8,Fair,High,4.84,Medium,2.0,3.0,,nan,nan,Happy,4.0,5.0,
+E001,49,FEMALE,Sales,no,,nan,nan,Medium,4.71,Low,4.0,2.0,10.0,Laptop,nan,Stressed,5.0,5.93,2.0
+E001,25,Male,Sales,yes,8.0,nan,Poor,Medium,-1.11,Medium,4.0,6.0,,Desktop,Medium,nan,1.0,7.63,3.0
+E001,39,Male,nan,yes,10.0,10.5 hrs,Good,Medium,5.7,nan,0.0,2.0,50.0,Mobile,nan,nan,0.0,8.48,4.0
+E005,46,FEMALE,HR,yes,4.0,8,Good,Medium,5.26,High,4.0,4.0,50.0,Laptop,Low,nan,3.0,1.27,
+E003,39,nan,hr,yes,8.0,nan,Fair,Medium,6.92,Low,1.0,6.0,10.0,Laptop,Medium,Stressed,1.0,4.53,0.0
+E001,27,male,Admin,No,12.0,nan,Poor,nan,4.57,High,4.0,4.0,20.0,Mobile,Low,Tired,4.0,4.0,4.0
+E005,40,F,nan,nan,8.0,7,nan,nan,7.17,Medium,0.0,1.0,10.0,Desktop,Medium,Happy,0.0,5.75,
+E003,33,nan,nan,No,12.0,10.5 hrs,nan,High,4.69,nan,,5.0,10.0,nan,nan,Calm,2.0,4.15,2.0
+E001,46,Male,IT,No,12.0,nan,Fair,nan,5.68,nan,2.0,6.0,100.0,Mobile,nan,Calm,3.0,7.33,5.0
+E002,22,F,nan,No,,8,Fair,nan,3.17,Medium,4.0,6.0,10.0,Laptop,Low,nan,3.0,6.34,3.0
+E004,26,M,nan,no,8.0,6 hrs,nan,High,7.27,High,1.0,2.0,10.0,Mobile,Low,Tired,2.0,7.78,
+E001,22,F,IT,No,,6 hrs,Fair,High,7.6,Low,3.0,2.0,10.0,Mobile,Medium,Happy,1.0,7.91,
+E004,29,male,Sales,yes,,10.5 hrs,Fair,Low,8.77,Medium,2.0,3.0,20.0,Desktop,Medium,Happy,3.0,7.36,2.0
+E001,39,male,Sales,No,6.0,6 hrs,Poor,High,3.92,Medium,3.0,,100.0,Desktop,High,Calm,1.0,5.33,3.0
+E002,30,nan,it,yes,6.0,7,Fair,nan,6.06,Medium,1.0,6.0,150.0,nan,High,Calm,4.0,6.21,4.0
+E004,26,Male,nan,nan,,7,Good,Medium,2.12,Medium,0.0,2.0,150.0,Mobile,High,Calm,2.0,5.08,5.0
+E005,25,FEMALE,HR,no,,8,Good,High,1.23,Medium,,2.0,150.0,Desktop,nan,Happy,1.0,3.27,5.0
+E002,50,male,Sales,nan,12.0,10.5 hrs,Good,Low,6.13,nan,0.0,,150.0,Desktop,Low,Calm,4.0,7.91,0.0
+E004,22,FEMALE,hr,nan,,10.5 hrs,Fair,nan,4.77,Medium,,1.0,100.0,Laptop,Low,Happy,,5.83,3.0
+E004,51,nan,Admin,no,4.0,6 hrs,nan,Low,2.43,nan,2.0,3.0,10.0,Desktop,High,nan,0.0,2.99,2.0
+E006,22,nan,HR,yes,8.0,nan,Good,Low,5.36,High,4.0,,150.0,Mobile,High,Tired,3.0,7.07,3.0
+E006,24,M,it,yes,4.0,nan,Poor,nan,6.87,Low,4.0,2.0,10.0,Mobile,Medium,Calm,2.0,5.55,
+E002,43,FEMALE,nan,yes,6.0,nan,Fair,Low,5.13,nan,3.0,2.0,150.0,Laptop,High,Happy,0.0,1.88,4.0
+E002,29,nan,IT,no,4.0,8,nan,nan,7.46,Low,0.0,5.0,20.0,Laptop,Low,nan,,3.25,5.0
+E002,39,nan,it,No,10.0,10.5 hrs,nan,Low,3.68,Low,4.0,6.0,10.0,Laptop,Medium,Stressed,0.0,4.6,4.0
+E003,46,nan,HR,Yes,10.0,6 hrs,Fair,Medium,7.17,Low,,2.0,100.0,Mobile,High,nan,0.0,6.42,4.0
+E005,41,Female,IT,No,6.0,8,Fair,High,4.23,nan,4.0,1.0,,Mobile,nan,Tired,1.0,7.58,
+E001,52,nan,hr,No,4.0,7,Poor,Medium,7.46,nan,0.0,2.0,20.0,nan,High,nan,,7.51,0.0
+E006,51,nan,IT,nan,8.0,7,Fair,Medium,2.46,nan,0.0,6.0,,Desktop,nan,Calm,3.0,7.21,4.0
+E004,37,FEMALE,IT,Yes,6.0,7,Fair,Low,5.46,High,1.0,2.0,20.0,Laptop,High,Calm,2.0,5.93,0.0
+E006,23,male,hr,yes,10.0,10.5 hrs,nan,High,5.46,nan,3.0,,100.0,Desktop,Medium,Stressed,5.0,9.44,
+E001,38,FEMALE,Sales,No,6.0,7,Good,High,5.95,High,0.0,4.0,20.0,Desktop,nan,Happy,5.0,7.4,
+E002,31,FEMALE,Sales,no,4.0,nan,Good,High,4.3,nan,1.0,2.0,10.0,nan,nan,nan,3.0,6.44,1.0
+E006,28,Female,IT,No,4.0,7,nan,Low,5.86,nan,0.0,3.0,50.0,Mobile,Medium,Stressed,3.0,7.13,3.0
+E005,30,Female,Admin,yes,4.0,8,Fair,Medium,4.6,Low,2.0,6.0,50.0,Desktop,nan,Calm,3.0,5.2,5.0
+E005,38,Male,IT,No,12.0,7,Poor,nan,3.95,Medium,,6.0,150.0,Laptop,Medium,Happy,4.0,5.89,5.0
+E003,30,male,it,nan,4.0,nan,Good,nan,7.83,Low,,4.0,150.0,Laptop,High,Happy,,1.84,2.0
+E006,30,nan,Admin,nan,,7,Fair,nan,5.16,nan,2.0,3.0,10.0,Mobile,Medium,Tired,4.0,5.23,5.0
+E002,45,Male,Sales,No,10.0,6 hrs,Good,High,1.97,Medium,2.0,3.0,100.0,Mobile,Medium,Calm,4.0,9.52,0.0
+E004,32,nan,hr,nan,10.0,nan,nan,nan,3.65,Medium,0.0,6.0,10.0,Mobile,Medium,Happy,4.0,6.3,5.0
+E003,29,nan,nan,no,12.0,10.5 hrs,Good,Medium,7.9,High,4.0,1.0,150.0,Laptop,Medium,Tired,3.0,6.21,0.0
+E002,46,Female,nan,Yes,10.0,7,nan,nan,3.18,Medium,4.0,2.0,20.0,Mobile,Low,Tired,3.0,8.0,5.0
+E003,23,nan,IT,No,10.0,8,nan,High,6.08,High,2.0,3.0,,nan,nan,Calm,5.0,6.72,2.0
+E006,31,nan,IT,no,6.0,7,nan,High,3.61,Low,3.0,2.0,10.0,nan,High,Happy,2.0,4.43,3.0
+E001,45,FEMALE,nan,no,4.0,8,Poor,nan,2.12,High,,2.0,10.0,Laptop,Medium,Happy,5.0,6.05,4.0
+E006,37,Female,it,no,,6 hrs,Fair,High,5.96,nan,1.0,,100.0,nan,Low,nan,5.0,3.73,3.0
+E002,40,M,it,yes,,10.5 hrs,nan,nan,4.34,Medium,2.0,1.0,150.0,Desktop,Low,Happy,2.0,6.37,0.0
+E004,52,FEMALE,it,No,6.0,nan,nan,High,8.18,nan,,1.0,10.0,Mobile,High,Tired,2.0,4.32,
+E004,32,Male,HR,No,,nan,Good,Low,7.25,Medium,1.0,3.0,20.0,nan,nan,Stressed,5.0,7.86,4.0
+E002,27,FEMALE,hr,No,6.0,10.5 hrs,Fair,Low,7.53,Medium,1.0,3.0,,Mobile,High,Calm,5.0,4.98,1.0
+E003,27,M,HR,Yes,,6 hrs,Poor,Medium,7.13,Low,2.0,6.0,20.0,nan,Medium,Stressed,5.0,4.35,2.0
+E005,53,Female,IT,no,10.0,6 hrs,Poor,Low,6.38,High,4.0,,50.0,Mobile,nan,Happy,2.0,5.77,3.0
+E002,34,male,it,No,8.0,7,Good,nan,2.27,Low,3.0,,150.0,Laptop,nan,Tired,2.0,6.73,4.0
+E006,24,nan,it,nan,4.0,6 hrs,Poor,High,4.53,High,,4.0,20.0,Desktop,High,Stressed,4.0,3.59,2.0
+E004,38,F,nan,yes,8.0,7,Good,Medium,6.34,Low,2.0,2.0,100.0,Mobile,High,Calm,3.0,4.96,3.0
+E001,24,male,nan,Yes,10.0,8,Fair,nan,4.42,Low,1.0,6.0,,Desktop,nan,nan,2.0,6.21,0.0
+E004,33,male,Admin,yes,12.0,10.5 hrs,Good,nan,4.94,Medium,,2.0,150.0,Mobile,High,Stressed,1.0,8.68,0.0
+E005,45,nan,it,no,6.0,8,Good,Medium,6.45,Low,0.0,1.0,20.0,Laptop,nan,nan,,0.94,
+E004,27,Female,Sales,nan,,8,nan,Medium,7.11,Low,0.0,1.0,10.0,Desktop,High,Happy,2.0,7.23,0.0
+E005,32,male,nan,no,,8,Poor,nan,3.15,High,,,150.0,nan,nan,Happy,2.0,5.23,1.0
+E002,48,M,hr,No,10.0,8,Fair,High,6.34,Low,,6.0,20.0,Desktop,Medium,Calm,3.0,5.01,5.0
+E004,45,nan,HR,yes,,nan,Fair,nan,6.13,Medium,1.0,3.0,10.0,Mobile,Low,nan,5.0,4.64,0.0
+E003,39,Female,hr,nan,10.0,6 hrs,nan,High,3.02,Low,2.0,4.0,50.0,Desktop,High,nan,4.0,5.27,0.0
+E006,48,male,nan,yes,8.0,10.5 hrs,Good,Medium,4.19,nan,4.0,,,Laptop,nan,Calm,0.0,7.24,5.0
+E003,42,nan,it,Yes,12.0,10.5 hrs,Fair,nan,5.3,nan,2.0,4.0,150.0,Desktop,Low,Stressed,5.0,4.93,0.0
+E006,54,F,IT,nan,6.0,8,Fair,Low,7.78,High,3.0,1.0,150.0,Desktop,Low,Calm,5.0,9.32,4.0
+E004,39,Male,Sales,Yes,,10.5 hrs,Good,nan,4.17,High,,1.0,20.0,Desktop,Low,Happy,3.0,7.25,
+E004,24,Female,nan,nan,12.0,7,Good,High,5.84,nan,0.0,4.0,50.0,nan,High,nan,4.0,6.4,2.0
+E006,45,Female,hr,No,12.0,10.5 hrs,Fair,nan,7.34,Low,1.0,4.0,100.0,Desktop,High,Tired,1.0,5.67,1.0
+E001,22,FEMALE,IT,yes,12.0,8,Good,High,8.71,Low,4.0,3.0,20.0,Mobile,Medium,Tired,,8.38,3.0
+E004,27,nan,nan,yes,4.0,10.5 hrs,Poor,Low,5.45,High,2.0,4.0,20.0,Mobile,High,Happy,,8.67,5.0
+E001,40,male,it,no,12.0,6 hrs,Fair,Medium,0.76,Medium,3.0,2.0,100.0,Desktop,High,nan,0.0,3.68,
+E001,43,Male,Admin,nan,10.0,8,Good,Low,6.85,Low,2.0,4.0,100.0,Desktop,High,nan,,4.6,
+E006,29,nan,it,nan,4.0,nan,Fair,High,5.42,nan,3.0,5.0,100.0,nan,Low,Calm,4.0,7.27,5.0
+E001,26,F,it,Yes,4.0,6 hrs,Fair,Medium,3.31,Medium,2.0,4.0,,Laptop,Medium,Stressed,5.0,7.87,5.0
+E001,30,M,it,nan,12.0,10.5 hrs,nan,Medium,6.42,Medium,4.0,1.0,100.0,Mobile,Low,Calm,4.0,5.4,1.0
+E002,42,Female,nan,yes,,nan,Poor,nan,8.73,Low,4.0,1.0,100.0,nan,Medium,Tired,3.0,4.52,2.0
+E003,49,M,Admin,nan,,6 hrs,Poor,Low,5.42,Medium,1.0,,10.0,Mobile,High,nan,4.0,6.16,
+E001,25,M,Sales,no,,7,nan,High,1.76,High,4.0,5.0,10.0,Mobile,nan,Stressed,2.0,8.95,0.0
+E003,45,M,Sales,no,,6 hrs,nan,High,7.89,Medium,3.0,2.0,100.0,Desktop,High,Calm,4.0,6.08,5.0
+E001,29,FEMALE,hr,yes,10.0,nan,Fair,Medium,5.05,High,1.0,4.0,,Mobile,Low,Stressed,0.0,3.47,0.0
+E003,38,nan,nan,yes,,7,Poor,nan,6.43,Low,4.0,4.0,,Laptop,Low,Tired,4.0,6.22,3.0
+E004,41,M,Admin,yes,6.0,10.5 hrs,nan,High,5.12,Medium,0.0,5.0,50.0,Laptop,Low,Stressed,1.0,7.57,5.0
+E004,37,male,Admin,nan,12.0,8,Good,nan,5.91,nan,3.0,,,Laptop,Medium,nan,,5.8,
+E003,31,male,it,nan,4.0,10.5 hrs,Fair,Medium,6.33,nan,1.0,3.0,50.0,nan,Low,Stressed,2.0,8.52,1.0
+E001,31,Male,Sales,No,6.0,8,Poor,Medium,6.61,High,3.0,3.0,100.0,Laptop,nan,Stressed,0.0,7.73,1.0
+E002,51,Male,nan,Yes,,8,Fair,Medium,5.29,High,1.0,,,Laptop,nan,Calm,0.0,5.88,
+E003,51,F,IT,nan,6.0,nan,Fair,nan,3.48,Low,3.0,2.0,10.0,Mobile,High,Stressed,5.0,6.09,
+E005,46,M,Sales,No,4.0,7,Good,High,5.39,Medium,0.0,4.0,50.0,nan,Medium,Stressed,3.0,2.32,3.0
+E002,28,M,Sales,No,,7,Good,Low,6.58,High,4.0,4.0,10.0,Desktop,Medium,Tired,,8.42,1.0
+E005,41,FEMALE,Admin,no,6.0,6 hrs,nan,nan,3.49,High,2.0,4.0,20.0,nan,High,Stressed,3.0,5.34,1.0
+E003,38,nan,hr,nan,10.0,10.5 hrs,Good,Medium,2.79,Low,2.0,,10.0,nan,Low,Calm,2.0,5.2,1.0
+E001,24,M,Sales,No,10.0,nan,Poor,Low,7.67,Medium,2.0,1.0,100.0,Desktop,Low,Calm,0.0,4.9,5.0
+E005,47,M,IT,no,12.0,10.5 hrs,nan,Low,8.38,Medium,1.0,6.0,,Desktop,High,nan,5.0,6.91,3.0
+E003,31,nan,it,Yes,12.0,6 hrs,Poor,Low,5.08,High,4.0,3.0,,Desktop,High,Tired,1.0,3.74,5.0
+E002,35,M,HR,no,6.0,6 hrs,Poor,Low,6.2,Medium,,,150.0,Mobile,High,Happy,4.0,4.03,3.0
+E001,29,Female,hr,Yes,4.0,nan,nan,Low,5.75,Medium,1.0,6.0,100.0,Mobile,High,nan,4.0,5.89,2.0
+E005,48,Female,IT,yes,10.0,6 hrs,Good,Medium,0.64,Medium,1.0,5.0,20.0,Mobile,Medium,Stressed,4.0,4.75,1.0
+E003,31,FEMALE,hr,yes,8.0,nan,Fair,High,5.41,nan,1.0,6.0,,Laptop,Medium,Tired,3.0,6.67,2.0
+E001,36,FEMALE,nan,no,12.0,6 hrs,Good,Low,7.93,Medium,,1.0,10.0,Desktop,Low,nan,0.0,4.82,4.0
+E001,43,male,it,yes,10.0,7,Poor,High,2.65,nan,1.0,1.0,50.0,Mobile,Medium,Calm,0.0,9.19,4.0
+E004,52,FEMALE,Sales,nan,,nan,Poor,High,2.47,Medium,4.0,3.0,100.0,Mobile,Medium,Tired,1.0,7.39,1.0
+E001,23,F,nan,no,6.0,7,nan,nan,3.54,Medium,2.0,4.0,,nan,Medium,Tired,3.0,7.36,0.0
+E003,52,male,Sales,No,10.0,7,Poor,Medium,4.05,Medium,3.0,2.0,50.0,Mobile,High,Stressed,1.0,4.79,
+E002,35,nan,Admin,nan,10.0,nan,nan,Low,6.33,High,1.0,6.0,10.0,Desktop,Medium,Tired,0.0,10.81,4.0
+E006,31,M,IT,no,6.0,10.5 hrs,nan,High,7.64,High,4.0,,,Desktop,Low,Tired,4.0,5.12,0.0
+E004,51,FEMALE,it,Yes,12.0,8,Good,nan,7.59,nan,0.0,,20.0,Laptop,Medium,Happy,,4.57,2.0
+E003,36,F,HR,yes,12.0,6 hrs,Poor,High,6.31,Medium,3.0,5.0,100.0,Laptop,High,Stressed,3.0,7.41,1.0
+E003,35,FEMALE,HR,yes,8.0,6 hrs,Good,Low,1.82,nan,1.0,3.0,50.0,nan,Medium,Tired,3.0,6.39,
+E003,52,FEMALE,Sales,yes,8.0,10.5 hrs,Fair,Medium,1.81,Medium,1.0,2.0,,Laptop,nan,Tired,3.0,4.36,2.0
+E005,50,male,nan,no,12.0,8,Good,Medium,6.47,Low,3.0,3.0,100.0,Desktop,Low,Happy,5.0,10.39,5.0
+E005,48,nan,Admin,nan,12.0,10.5 hrs,Poor,Low,1.83,nan,3.0,3.0,,Laptop,Medium,Happy,5.0,7.95,2.0
+E002,42,nan,it,Yes,12.0,8,Fair,High,6.11,High,1.0,3.0,100.0,Laptop,Low,Calm,4.0,6.01,3.0
+E003,30,male,it,yes,12.0,nan,Poor,nan,5.55,Low,4.0,3.0,50.0,Mobile,High,Stressed,5.0,10.8,1.0
+E005,41,Male,IT,nan,10.0,nan,Fair,Medium,4.07,High,0.0,4.0,20.0,Desktop,Low,Happy,3.0,7.62,3.0
+E005,36,male,nan,No,8.0,7,Poor,Medium,-0.09,Low,4.0,,100.0,nan,nan,Tired,5.0,5.98,2.0
+E005,45,male,HR,No,6.0,7,Good,High,5.4,Low,,1.0,20.0,Laptop,nan,Happy,5.0,10.56,0.0
+E002,37,Female,IT,Yes,4.0,nan,Poor,High,6.02,Low,2.0,,20.0,Laptop,Low,nan,2.0,7.32,1.0
+E002,32,FEMALE,hr,yes,6.0,7,nan,High,3.89,nan,2.0,,10.0,nan,High,Calm,3.0,7.23,1.0
+E003,29,male,it,No,,nan,nan,nan,2.82,nan,2.0,6.0,,nan,Low,Calm,5.0,5.23,4.0
+E004,24,FEMALE,HR,nan,4.0,10.5 hrs,Good,High,5.59,High,1.0,3.0,50.0,Desktop,Medium,Stressed,4.0,6.1,0.0
+E003,40,FEMALE,IT,nan,10.0,6 hrs,Good,nan,2.1,nan,0.0,2.0,10.0,nan,Medium,Calm,5.0,5.18,5.0
+E005,24,Female,Sales,No,,nan,Fair,Low,6.23,High,0.0,6.0,150.0,Laptop,Low,Stressed,5.0,8.88,0.0
+E006,46,FEMALE,hr,yes,8.0,nan,Good,nan,7.11,Medium,,2.0,,Desktop,Medium,nan,,2.78,2.0
+E005,32,F,IT,Yes,4.0,nan,nan,High,1.08,High,1.0,2.0,10.0,Desktop,Medium,Tired,3.0,8.73,2.0
+E001,37,male,Sales,yes,12.0,7,Good,nan,3.94,High,1.0,1.0,100.0,nan,High,nan,5.0,4.25,2.0
+E006,38,FEMALE,HR,no,,7,nan,nan,4.9,nan,1.0,1.0,100.0,Desktop,Low,Stressed,2.0,5.88,4.0
+E006,45,Male,HR,No,10.0,7,Good,nan,4.96,High,0.0,2.0,100.0,Laptop,Medium,Stressed,2.0,5.41,0.0
+E003,38,Male,hr,no,4.0,7,nan,Medium,3.24,nan,1.0,4.0,150.0,Laptop,Low,Stressed,,4.96,3.0
+E005,41,Female,Sales,No,12.0,10.5 hrs,Fair,High,2.33,High,3.0,1.0,20.0,Laptop,Low,Tired,5.0,7.38,0.0
+E005,43,F,it,Yes,,nan,Poor,nan,4.08,Medium,3.0,1.0,100.0,Desktop,Medium,Stressed,3.0,5.99,3.0
+E004,27,nan,Admin,yes,10.0,10.5 hrs,Poor,High,6.29,nan,3.0,4.0,,nan,High,nan,0.0,4.66,1.0
+E001,28,nan,Admin,yes,,7,nan,Low,6.14,nan,1.0,3.0,,Laptop,High,Tired,0.0,6.31,3.0
+E003,35,male,HR,No,4.0,10.5 hrs,Good,nan,6.17,Medium,3.0,1.0,10.0,Mobile,nan,nan,1.0,4.61,
+E002,32,Female,nan,nan,12.0,nan,Good,nan,7.5,nan,,6.0,20.0,nan,Low,Tired,2.0,4.92,1.0
+E003,33,Male,it,no,8.0,nan,Poor,Low,2.91,High,1.0,2.0,10.0,Desktop,nan,Stressed,0.0,3.01,5.0
+E006,26,F,it,yes,10.0,7,nan,High,4.24,Low,,2.0,10.0,Laptop,High,Tired,1.0,5.1,5.0
+E003,26,male,Admin,yes,4.0,nan,Good,Low,4.63,nan,3.0,4.0,100.0,Desktop,Medium,Happy,0.0,6.99,
+E004,41,FEMALE,IT,No,12.0,10.5 hrs,Poor,Low,-0.76,Low,1.0,2.0,10.0,Laptop,Medium,nan,3.0,6.07,2.0
+E003,36,male,IT,nan,8.0,8,nan,Low,5.45,High,4.0,,150.0,Desktop,High,Happy,5.0,9.63,
+E004,47,M,HR,no,,nan,Fair,Low,4.94,Medium,2.0,5.0,,Mobile,High,Happy,2.0,11.23,0.0
+E006,54,male,it,nan,12.0,10.5 hrs,Good,High,2.73,nan,4.0,2.0,,Desktop,Low,Stressed,0.0,5.07,2.0
+E004,51,FEMALE,IT,nan,8.0,10.5 hrs,Good,nan,6.74,Low,2.0,4.0,,Desktop,nan,Stressed,3.0,4.33,0.0
+E005,45,M,Sales,No,4.0,10.5 hrs,nan,Low,6.62,Medium,2.0,4.0,20.0,Desktop,nan,Happy,1.0,8.26,3.0
+E002,44,nan,Sales,nan,12.0,nan,Poor,Low,5.8,Medium,3.0,4.0,100.0,Laptop,High,Tired,3.0,6.67,0.0
+E006,30,F,Sales,no,12.0,8,nan,Medium,1.58,nan,2.0,,100.0,nan,Low,Stressed,1.0,8.27,3.0
+E004,24,Female,Sales,Yes,6.0,7,Poor,High,3.05,Low,2.0,6.0,10.0,Desktop,Medium,nan,0.0,6.8,0.0
+E001,28,F,it,Yes,10.0,7,nan,Low,5.61,nan,4.0,5.0,10.0,nan,High,Happy,5.0,5.61,
+E006,43,male,Sales,no,12.0,nan,Fair,Medium,3.93,High,2.0,,50.0,Laptop,nan,nan,4.0,5.62,
+E001,35,nan,it,No,8.0,nan,Good,Low,4.54,Medium,1.0,1.0,50.0,Desktop,Low,nan,5.0,6.87,
+E002,50,Female,Admin,yes,10.0,6 hrs,Poor,High,2.8,Low,,3.0,100.0,Laptop,Low,nan,3.0,5.58,
+E004,37,male,HR,No,4.0,8,Fair,Medium,5.38,nan,,2.0,100.0,nan,Low,Happy,4.0,8.44,1.0
+E006,31,Male,HR,no,10.0,10.5 hrs,nan,Medium,8.01,Medium,1.0,6.0,10.0,Laptop,nan,Calm,2.0,3.4,3.0
+E006,28,Male,Sales,nan,6.0,10.5 hrs,Poor,High,5.65,nan,3.0,1.0,150.0,Laptop,Low,Stressed,4.0,8.43,
+E002,46,FEMALE,Sales,Yes,4.0,7,Poor,Medium,6.94,Low,4.0,4.0,150.0,nan,Medium,nan,5.0,2.25,2.0
+E005,48,nan,Sales,nan,12.0,nan,Fair,Medium,6.76,High,0.0,1.0,,Laptop,nan,Happy,2.0,6.29,2.0
+E001,36,nan,HR,No,,8,nan,Low,4.28,High,,,10.0,nan,High,Calm,,5.34,2.0
+E006,53,F,IT,no,4.0,7,Fair,Medium,4.63,High,4.0,1.0,50.0,nan,Low,Happy,0.0,2.97,2.0
+E003,49,Male,HR,Yes,4.0,8,nan,nan,7.94,nan,,5.0,50.0,Desktop,nan,Stressed,0.0,1.88,1.0
+E001,30,M,Sales,no,6.0,nan,Fair,High,6.47,Medium,0.0,4.0,150.0,Desktop,High,Happy,3.0,3.8,1.0
+E004,28,M,IT,Yes,8.0,10.5 hrs,Fair,Low,6.92,High,2.0,6.0,100.0,Laptop,High,Tired,4.0,6.09,4.0
+E002,37,nan,IT,Yes,4.0,6 hrs,Fair,Medium,5.33,High,0.0,6.0,10.0,Laptop,Medium,Tired,2.0,4.8,4.0
+E001,47,nan,hr,Yes,8.0,8,Fair,nan,4.22,High,2.0,4.0,,Laptop,High,nan,2.0,3.92,
+E003,38,male,Admin,No,10.0,10.5 hrs,nan,Low,4.46,High,,2.0,,Mobile,Medium,Happy,4.0,8.7,4.0
+E003,44,nan,it,no,,8,Good,High,7.75,Low,4.0,6.0,100.0,Mobile,nan,Happy,5.0,3.54,5.0
+E002,29,Female,Admin,yes,6.0,8,Fair,Medium,5.0,Low,4.0,6.0,50.0,Desktop,Medium,nan,,7.36,
+E002,23,M,Sales,yes,12.0,8,nan,High,7.5,Medium,3.0,2.0,150.0,nan,nan,nan,0.0,4.22,4.0
+E001,52,male,it,yes,4.0,nan,Good,High,7.81,Low,,2.0,100.0,Mobile,nan,Calm,5.0,3.75,0.0
+E004,53,Female,hr,no,,7,Poor,Medium,6.84,Low,3.0,,50.0,Mobile,Low,Happy,0.0,4.79,5.0
+E005,50,nan,it,nan,,8,Poor,Medium,6.61,Low,,6.0,50.0,nan,Medium,Stressed,2.0,7.24,3.0
+E003,24,nan,Sales,no,8.0,nan,Fair,Low,8.39,nan,2.0,6.0,,Laptop,nan,Stressed,3.0,3.26,2.0
+E002,29,Male,hr,Yes,4.0,6 hrs,Poor,High,3.31,Low,,6.0,50.0,Laptop,Low,Stressed,,6.57,0.0
+E005,23,male,it,nan,,7,Fair,Medium,4.18,nan,,2.0,100.0,Mobile,Medium,nan,0.0,4.08,5.0
+E005,52,Female,HR,Yes,6.0,nan,Fair,High,2.48,nan,2.0,6.0,20.0,Mobile,Medium,nan,1.0,4.44,
+E005,41,FEMALE,IT,Yes,12.0,6 hrs,Good,Medium,2.01,Low,1.0,1.0,150.0,nan,High,nan,2.0,6.8,1.0
+E004,50,nan,Admin,no,10.0,7,Poor,High,4.91,nan,1.0,1.0,50.0,nan,Low,Stressed,4.0,10.35,2.0
+E002,38,F,hr,yes,10.0,nan,Fair,Low,5.54,High,,2.0,100.0,Mobile,High,Calm,4.0,4.18,3.0
+E003,31,F,HR,nan,8.0,6 hrs,Poor,High,6.01,Medium,1.0,2.0,,nan,nan,Tired,5.0,7.44,3.0
+E002,43,nan,Sales,No,,nan,Good,Medium,3.61,Low,4.0,2.0,10.0,Laptop,Medium,Happy,5.0,5.37,
+E001,27,FEMALE,IT,yes,10.0,6 hrs,Poor,nan,4.17,Low,,3.0,,Desktop,nan,Tired,2.0,5.05,
+E003,52,M,Admin,No,8.0,8,Good,Low,6.69,Medium,0.0,2.0,150.0,Mobile,Low,Happy,5.0,8.14,1.0
+E002,33,F,hr,no,12.0,8,Good,Low,2.08,Low,2.0,,10.0,Desktop,Medium,nan,5.0,4.31,2.0
+E003,33,Female,IT,nan,4.0,7,Good,nan,5.03,Low,3.0,3.0,10.0,nan,nan,Stressed,2.0,3.69,4.0
+E001,37,nan,nan,no,6.0,6 hrs,Fair,Medium,7.61,Medium,2.0,2.0,,Desktop,Medium,Tired,0.0,6.92,2.0
+E006,46,nan,nan,No,12.0,8,nan,Low,4.47,nan,,4.0,100.0,Mobile,High,nan,2.0,9.19,2.0
+E003,43,nan,hr,Yes,12.0,7,Fair,nan,4.16,High,0.0,5.0,,nan,Low,Happy,2.0,7.5,3.0
+E006,48,FEMALE,hr,no,10.0,10.5 hrs,Poor,nan,7.49,nan,2.0,6.0,20.0,Desktop,Low,Tired,5.0,3.19,1.0
+E005,45,M,it,nan,10.0,8,Fair,High,2.17,High,3.0,6.0,100.0,Laptop,Low,Tired,1.0,4.77,2.0
+E004,33,male,IT,no,6.0,8,Fair,High,3.39,Medium,3.0,1.0,100.0,Mobile,Medium,Tired,4.0,7.96,0.0
+E001,39,nan,nan,yes,4.0,nan,nan,Medium,3.47,nan,0.0,4.0,150.0,Mobile,nan,Tired,5.0,9.16,0.0
+E003,37,male,Admin,no,12.0,10.5 hrs,Poor,nan,6.39,nan,3.0,5.0,100.0,Mobile,nan,Tired,0.0,6.46,
+E001,25,Female,nan,No,,6 hrs,Good,High,1.79,High,4.0,6.0,150.0,Mobile,Low,nan,3.0,4.84,1.0
+E005,33,Female,IT,no,10.0,7,Good,Medium,7.47,High,3.0,6.0,50.0,nan,Medium,Happy,0.0,9.29,4.0
+E006,54,Female,nan,nan,12.0,10.5 hrs,Poor,Low,4.95,High,0.0,3.0,150.0,Laptop,Medium,Happy,4.0,5.85,5.0
+E004,43,F,Admin,no,4.0,6 hrs,Fair,High,7.09,High,0.0,1.0,100.0,Laptop,Medium,Calm,3.0,4.79,2.0
+E001,39,Female,HR,no,8.0,8,nan,Medium,7.48,Low,2.0,3.0,50.0,Desktop,nan,Stressed,2.0,4.45,5.0
+E006,54,nan,nan,nan,4.0,7,nan,High,3.43,Medium,3.0,,50.0,Mobile,Low,Tired,1.0,3.61,2.0
+E005,48,FEMALE,nan,no,12.0,7,Poor,Low,5.04,High,3.0,,20.0,Mobile,nan,Happy,1.0,11.67,3.0
+E005,40,FEMALE,Sales,nan,12.0,10.5 hrs,Poor,Low,4.54,nan,,3.0,,Desktop,High,Stressed,4.0,8.84,2.0
+E005,35,M,HR,No,6.0,nan,Fair,High,4.87,nan,,1.0,100.0,nan,Medium,Stressed,5.0,4.69,5.0
+E006,46,FEMALE,it,nan,12.0,6 hrs,nan,Low,3.86,nan,0.0,5.0,10.0,Laptop,High,nan,4.0,9.46,4.0
+E003,45,F,hr,No,10.0,10.5 hrs,Poor,Medium,7.23,High,,1.0,,Mobile,Low,Tired,1.0,7.07,2.0
+E002,44,male,Admin,No,,nan,Fair,High,4.63,Medium,2.0,2.0,100.0,Desktop,Low,Calm,,6.95,2.0
+E001,26,M,nan,nan,6.0,nan,Fair,High,4.33,Low,2.0,3.0,10.0,Laptop,nan,Stressed,3.0,4.56,
+E002,45,FEMALE,Admin,no,12.0,nan,Poor,Low,7.25,High,4.0,2.0,,Desktop,Low,nan,3.0,4.97,3.0
+E005,26,Female,it,yes,4.0,7,nan,Medium,6.67,High,4.0,1.0,20.0,Desktop,Low,Tired,5.0,5.92,0.0
+E002,27,FEMALE,it,nan,12.0,6 hrs,Good,High,5.58,Low,0.0,1.0,100.0,nan,nan,Happy,0.0,2.07,0.0
+E006,25,Male,HR,no,4.0,6 hrs,Fair,High,4.22,Medium,2.0,6.0,,Laptop,nan,Calm,2.0,5.03,
+E005,31,M,Admin,No,4.0,10.5 hrs,Good,Low,7.93,High,2.0,,20.0,Mobile,nan,Tired,5.0,6.01,4.0
+E005,22,nan,hr,Yes,12.0,8,Fair,Low,2.89,nan,4.0,5.0,10.0,Laptop,nan,nan,3.0,8.62,1.0
+E004,42,nan,Sales,yes,4.0,10.5 hrs,nan,Medium,7.14,nan,,3.0,150.0,nan,Low,nan,2.0,4.77,1.0
+E004,24,F,it,no,,6 hrs,Good,Medium,6.25,High,4.0,,100.0,Mobile,High,nan,4.0,7.62,3.0
+E006,52,FEMALE,Sales,yes,8.0,7,Poor,Low,2.47,Medium,0.0,4.0,50.0,Laptop,nan,nan,3.0,1.88,5.0
+E006,48,FEMALE,hr,Yes,6.0,10.5 hrs,Fair,Medium,5.15,nan,2.0,1.0,50.0,nan,Low,nan,3.0,8.33,5.0
+E002,38,F,hr,Yes,12.0,8,Poor,nan,2.36,nan,0.0,6.0,20.0,Mobile,Low,Calm,3.0,4.2,2.0
+E001,44,male,HR,Yes,8.0,10.5 hrs,Poor,nan,4.3,Low,4.0,4.0,150.0,Mobile,Low,Stressed,0.0,6.26,3.0
+E002,34,Female,Admin,nan,4.0,nan,nan,Low,5.56,Medium,3.0,3.0,50.0,Desktop,Low,Stressed,5.0,6.81,5.0
+E006,48,Female,IT,yes,4.0,8,Poor,High,2.97,High,4.0,2.0,50.0,Desktop,Low,Happy,4.0,6.42,0.0
+E001,41,male,Admin,nan,6.0,nan,Fair,Low,0.3,Low,2.0,3.0,100.0,nan,nan,Stressed,1.0,5.79,
+E002,34,male,nan,Yes,8.0,7,Poor,Low,4.74,Low,0.0,,50.0,Mobile,nan,nan,0.0,3.52,4.0
+E003,45,Male,HR,no,8.0,6 hrs,Poor,Low,5.43,Low,,5.0,10.0,Laptop,Medium,Stressed,0.0,4.22,1.0
+E003,24,F,Admin,Yes,12.0,10.5 hrs,Fair,High,4.25,Medium,,4.0,20.0,Mobile,Medium,Stressed,3.0,7.99,
+E001,31,M,Sales,nan,4.0,10.5 hrs,Poor,nan,4.97,Medium,2.0,6.0,,nan,nan,nan,0.0,4.81,2.0
+E004,22,Female,Admin,Yes,10.0,nan,nan,Medium,4.64,Medium,4.0,,50.0,Laptop,nan,Calm,5.0,5.79,
+E001,34,male,HR,Yes,12.0,nan,Fair,nan,2.96,High,4.0,4.0,100.0,Mobile,nan,nan,5.0,3.02,1.0
+E002,35,male,hr,nan,12.0,6 hrs,nan,Medium,8.89,Medium,1.0,2.0,,Laptop,High,Stressed,5.0,7.72,0.0
+E005,54,F,it,nan,12.0,10.5 hrs,Poor,Medium,5.63,Low,4.0,,10.0,Desktop,nan,Stressed,1.0,3.36,2.0
+E003,23,nan,nan,no,6.0,6 hrs,Good,Low,4.15,nan,2.0,6.0,,Laptop,Low,Happy,0.0,7.83,0.0
